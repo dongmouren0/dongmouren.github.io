@@ -1,0 +1,9 @@
+name: "ABCD"
+description: "AOEU"
+
+url: "http://localhoste:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
