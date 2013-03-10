@@ -1,0 +1,58 @@
+/* RESETS */
+
+
+
+@media screen and (max-width: 480px) {
+    body {
+        max-width:95%;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        max-width:80%;
+    }
+}
+
+
+@media screen and (min-width: 960px) {
+    body {
+        max-width:60%;
+    }
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 110%;
+    background: #3f3f3f;
+    color: #dcdcdc;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+* a, a:visited {
+    color: #8cd0d3;
+}
+
+* a:hover {
+    color: #94bff3;
+}
+
+code {
+    font-size: 110%;
+    color: #bfebbf;
+}
+
+h1 {
+    color: #cc9393;
+    font-weight:lighter;
+}
+
+h2 {
+    font-weight:lighter;
+}
+
+h3 {
+    color: #cc9393;
+    font-weight:lighter;
+}
