@@ -14,4 +14,4 @@ Office: Math/Stat 015
 ----
 ### Teaching
 
-During the Spring 2013 quarter, I am teaching [Math 153](classes/153spr13/).
+During the Spring 2013 quarter, I am teaching [Math 153](teaching/153spr13/).
