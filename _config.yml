@@ -1,9 +1,11 @@
 name: "ABCD"
 description: "AOEU"
 
-url: "http://localhoste:4000"
+url: "http://localhost:4000"
 
 paginate: 10
 
 markdown: rdiscount
 permalink: pretty
+
+exclude: deploy

@@ -43,16 +43,28 @@ code {
     color: #bfebbf;
 }
 
-h1 {
+h1, h2, h3{
     color: #cc9393;
     font-weight:lighter;
 }
 
-h2 {
-    font-weight:lighter;
+.classplan {
+    text-align: left;
+    border-collapse: collapse;
 }
 
-h3 {
-    color: #cc9393;
-    font-weight:lighter;
+.classplan th, td {
+    padding: 0.5em;
+    border-top: 0.05em solid;
+    border-bottom: 0.05em solid;
 }
+
+.classplan tr:nth-child(even) {
+    background: #4f4f4f;
+}
+
+/* .classplan tr:nth-child(odd) { */
+/*     background: #5f5f5f; */
+/* } */
+
+
