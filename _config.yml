@@ -1,6 +1,3 @@
-name: "ABCD"
-description: "AOEU"
-
 url: "http://localhost:4000"
 
 paginate: 10
@@ -10,4 +7,4 @@ pandoc:
   extensions: [mathml]
 permalink: pretty
 
-exclude: deploy
+exclude: ['deploy']
