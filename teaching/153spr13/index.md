@@ -18,7 +18,7 @@ Older announcements are [here](#older-announcements).
 **Office hours:** TBA  
 **VCA:** Yo Joong Choe  
 **YJ's office hours:** TBA  
-**Problem session:** TBA  
+**Problem session:** Tuesdays, 5pm to 6pm in Eck 203.  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
 Grades will be based on homework, two midterms and a final exam. The grade distribution for the class will be as follows.
