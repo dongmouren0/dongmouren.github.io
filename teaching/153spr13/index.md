@@ -29,7 +29,7 @@ Grades will be based on homework, two midterms and a final exam. The grade distr
 * Final examination: 40%
 
 ### Class Plan and Homework
-Homework will be due _before class_ on the day indicated each week. Late homework will not be accepted. The lowest homework score will be dropped.
+Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
 
 The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook before you come to class.
 
