@@ -13,13 +13,13 @@
 
 @media screen and (min-width: 960px) {
     body {
-        max-width:60%;
+        max-width:65%;
     }
 }
 
 body {
-    font-family: Helvetica, sans-serif;
-    font-size: 110%;
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 105%;
     background: #3f3f3f;
     color: #dcdcdc;
     margin-left:auto;

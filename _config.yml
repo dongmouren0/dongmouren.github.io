@@ -4,7 +4,7 @@ paginate: 10
 
 markdown: pandoc
 pandoc:
-  extensions: [mathml]
+  extensions: [mathjax]
 permalink: pretty
 
 exclude: ['deploy']
