@@ -15,7 +15,7 @@ Older announcements are [here](#older-announcements).
 ### Course Information
 **Time/place:** Tuesday/Thursday, 9am to 10:30am in Eck 203.  
 **Instructor:** Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)  
-**Office hours:** TBA  
+**Office hours:** Tuesdays 3pm to 4pm, Wednesdays 5pm to 6pm, Thursdays 1pm to 2pm, and any other time by appointment  
 **VCA:** Yo Joong Choe  
 **YJ's office hours:** TBA  
 **Problem session:** Tuesdays, 5pm to 6pm in Eck 203.  
@@ -46,13 +46,13 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Inverse trigonometric functions</td>
 <td>7.7</td>
 <td></td>
-</tr>
+ </tr>
 
-<tr>
-<td>Apr 05</td>
-<td>Hyperbolic sine and cosine</td>
-<td>7.8</td>
-<td>HW 1: TBA</td>
+ <tr>
+ <td>Apr 05</td>
+ <td>Hyperbolic sine and cosine</td>
+ <td>7.8</td>
+ <td>HW 1: 7, 13, 14, 24, 31, 52 from Ch 7 review exercises, 7.7.16, 7.7.25, 7.7.31, 7.7.35</td>
 </tr>
 
 <tr>
