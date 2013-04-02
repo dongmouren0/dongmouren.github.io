@@ -85,7 +85,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>Apr 23</td>
-<td><em>Midterm 1</em></td>
+<td>_Midterm 1_</td>
 <td></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>May 21</td>
-<td><em>Midterm 2</em></td>
+<td>_Midterm 2_</td>
 <td></td>
 <td></td>
 </tr>
@@ -176,14 +176,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>Jun 06</td>
-<td><em>Reading Period</em></td>
+<td>_Reading Period_</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
 <td>Jun 11</td>
-<td><em>Final Examination</em></td>
+<td>_Final Examination_</td>
 <td></td>
 <td></td>
 </tr>
