@@ -63,4 +63,19 @@ ul {
     background: #4f4f4f;
 }
 
+.footer {
+    color: #6f6f6f;
+    border-top: 0.05em solid #6f6f6f;
+    margin-top:2em;
+    padding-top:0.3em;
+    font-size: 80%;
+}
+
+.footer a, a:visited {
+    color: #366060;  
+}
+
+.footer a:hover {
+    
+}
 

@@ -29,6 +29,8 @@ Grades will be based on homework, two midterms and a final exam. The grade distr
 * Lower-scoring midterm: 20%
 * Final examination: 40%
 
+Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) in detail.
+
 ### Class Plan and Homework
 Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
 
