@@ -15,9 +15,10 @@ Older announcements are [here](#older-announcements).
 ### Course Information
 **Time/place:** Tuesday/Thursday, 9am to 10:30am in Eck 203.  
 **Instructor:** Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)  
-**Office hours:** Tuesdays 3pm to 4pm, Wednesdays 5pm to 6pm, Thursdays 1pm to 2pm, and any other time by appointment  
+**Office:** Math/Stat 015 (5727 S University Ave)  
+**Office hours:** Tuesdays 3pm to 4pm, Wednesdays 5pm to 6pm, Thursdays 1pm to 2pm, and any other time by appointment.  
 **VCA:** Yo Joong Choe  
-**YJ's office hours:** TBA  
+**YJ's office hours:** Fridays 1pm to 2pm in the C-Shop, Reynolds Club.  
 **Problem session:** Tuesdays, 5pm to 6pm in Eck 203.  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
