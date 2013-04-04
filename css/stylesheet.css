@@ -28,10 +28,16 @@ body {
 
 * a, a:visited {
     color: #8cd0d3;
+    text-decoration:none;
 }
 
 * a:hover {
     color: #94bff3;
+}
+
+* a:focus {
+    color: #94bff3;
+    outline:none;
 }
 
 code {
@@ -71,11 +77,19 @@ ul {
     font-size: 80%;
 }
 
-.footer a, a:visited {
-    color: #366060;  
+.footer a {
+    color:#4c7073;
+}
+
+.footer a:visited {
+    color:#4c7073;
 }
 
 .footer a:hover {
-    
+    color:#5c888b;
 }
 
+.footer a:focus {
+    color: #5c888b;
+    outline:none;
+}
