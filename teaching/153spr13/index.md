@@ -55,7 +55,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
  <td>Apr 05</td>
  <td>Hyperbolic sine and cosine</td>
  <td>7.8</td>
- <td>HW 1: 7, 13, 14, 24, 31, 52 from Ch 7 review exercises, 7.7.16, 7.7.25, 7.7.31, 7.7.35</td>
+ <td>HW 1: Ch 7 review exercises (7, 13, 14, 24, 31, 52) and 7.7 (16, 25, 31, 35)</td>
 </tr>
 
 <tr>
@@ -69,7 +69,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 11</td>
 <td>Integrating $\sqrt{a^2 - x^2}$ etc and rational functions</td>
 <td>8.4, 8.5</td>
-<td>HW 2: 7.7.43, 7.7.64, 7.7.71, 7.7.73, 7.8.3, 7.8.8, 7.8.10, 7.8.13, 7.8.20, 7.8.26, 7.8.29, 7.8.34, 7.8.43, 7.8.44, 8.2.1, 8.2.4, 8.2.6, 8.2.17, 8.3.1, 8.3.5</td>
+<td>HW 2: 7.7 (43, 64, 71, 73), 7.8 (3, 8, 10, 13, 20, 26, 29, 34, 43, 44), 8.2 (1, 4, 6, 17) and 8.3 (1, 5)</td>
 </tr>
 
 <tr>
