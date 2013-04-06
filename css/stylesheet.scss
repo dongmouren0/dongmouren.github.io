@@ -1,14 +1,32 @@
 // Colour palette
-$bg: #3f3f3f;
-$bg-faded: #4f4f4f;
-$fg: #dcdcdc;
-$fg-faded: #6f6f6f;
-$link: #8cd0d3;
-$link-faded:#4c7073;
-$link-focus: #94bff3;
-$link-focus-faded:#5c888b;
-$header: #cc9393;
-$code: #bfebbf;
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #cb4b16;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+
+$bg: $base3;
+$bg-faded: $base2;
+$fg: $base00;
+$fg-faded: $base1;
+$link: $blue;
+$link-faded: $cyan;
+$link-focus: $violet;
+$link-focus-faded: $violet;
+$header: $orange;
+$code: $green;
+
 
 
 @media screen and (max-width: 480px) {
@@ -37,18 +55,23 @@ body {
     color: $fg;
     margin-left:auto;
     margin-right:auto;
+    ::-moz-selection {
+        background: $yellow;
+        color: $bg-faded;
+    }
+    ::selection {
+        background: $yellow;
+        color: $bg-faded;
+    }
 }
 
 * a {
     color: $link;
-    &:visited {
-        text-decoration: none;
-    }
+    text-decoration: none;
     &:hover {
-        color: $link-focus;
+        text-decoration: underline;
     }
     &:focus {
-        color: $link-focus;
         outline: none;
     }
 }
@@ -72,8 +95,8 @@ ul {
     border-collapse: collapse;
     th, td {
         padding: 0.5em;
-        border-top: 0.05em solid;
-        border-bottom: 0.05em solid;
+        border-top: 0.1em solid;
+        border-bottom: 0.1em solid;
     }
 
     tr:nth-child(even) {
@@ -83,21 +106,19 @@ ul {
 
 .footer {
     color: $fg-faded;
-    border-top: 0.05em solid $fg-faded;
+    border-top: 0.1em solid $fg-faded;
     margin-top:2em;
     padding-top:0.3em;
     font-size: 80%;
-
     a {
         color: $link-faded;
         &:visited {
             color: $link-faded;
         }
         &:hover {
-            color:$link-focus-faded;
+            text-decoration: underline;
         }
         &:focus {
-            color: $link-focus-faded;
             outline:none;
         }
     }
