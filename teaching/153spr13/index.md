@@ -16,10 +16,10 @@ Older announcements are [here](#older-announcements).
 **Time/place:** Tuesday/Thursday, 9am to 10:30am in Eck 203.  
 **Instructor:** Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)  
 **Office:** Math/Stat 015 (5727 S University Ave)  
-**Office hours:** Tuesdays 3pm to 4pm, Wednesdays 5pm to 6pm, Thursdays 1pm to 2pm, and any other time by appointment.  
+**Office hours:** Tuesday 3pm to 4pm, Wednesday 5pm to 6pm, Thursday 1pm to 2pm, and any other time by appointment.  
 **VCA:** Yo Joong Choe  
-**YJ's office hours:** Fridays 1pm to 2pm in the C-Shop, Reynolds Club.  
-**Problem session:** Tuesdays, 5pm to 6pm in Eck 203.  
+**YJ's office hours:** Friday 1pm to 2pm in the C-Shop, Reynolds Club.  
+**Problem session:** Tuesday 5pm to 6pm in Eck 203.  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
 Grades will be based on homework, two midterms and a final exam. The grade distribution for the class will be as follows.
@@ -29,7 +29,7 @@ Grades will be based on homework, two midterms and a final exam. The grade distr
 * Lower-scoring midterm: 20%
 * Final examination: 40%
 
-Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) in detail.
+Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) carefully.
 
 ### Class Plan and Homework
 Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
