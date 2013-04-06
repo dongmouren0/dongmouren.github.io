@@ -99,7 +99,7 @@ ul {
         border-bottom: 0.1em solid;
     }
 
-    tr:nth-child(even) {
+    tr:nth-child(odd) {
         background: $bg-faded;
     }
 }

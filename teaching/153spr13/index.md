@@ -34,7 +34,7 @@ Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) in 
 ### Class Plan and Homework
 Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
 
-The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook before you come to class.
+The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook beforehand.
 
 <table class="classplan">
 <tr>
