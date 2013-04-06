@@ -7,4 +7,4 @@ pandoc:
   extensions: [mathjax]
 permalink: pretty
 
-exclude: ['deploy']
+exclude: ['deploy', 'stylesheet.scss']

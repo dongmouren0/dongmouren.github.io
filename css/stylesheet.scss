@@ -1,0 +1,104 @@
+// Colour palette
+$bg: #3f3f3f;
+$bg-faded: #4f4f4f;
+$fg: #dcdcdc;
+$fg-faded: #6f6f6f;
+$link: #8cd0d3;
+$link-faded:#4c7073;
+$link-focus: #94bff3;
+$link-focus-faded:#5c888b;
+$header: #cc9393;
+$code: #bfebbf;
+
+
+@media screen and (max-width: 480px) {
+    body {
+        max-width:95%;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        max-width:80%;
+    }
+}
+
+
+@media screen and (min-width: 960px) {
+    body {
+        max-width:65%;
+    }
+}
+
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 105%;
+    background: $bg;
+    color: $fg;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+* a {
+    color: $link;
+    &:visited {
+        text-decoration: none;
+    }
+    &:hover {
+        color: $link-focus;
+    }
+    &:focus {
+        color: $link-focus;
+        outline: none;
+    }
+}
+
+code {
+    font-size: 110%;
+    color: $code;
+}
+
+h1, h2, h3{
+    color: $header;
+    font-weight:lighter;
+}
+
+ul {
+    padding-left: 1em;
+}
+
+.classplan {
+    text-align: left;
+    border-collapse: collapse;
+    th, td {
+        padding: 0.5em;
+        border-top: 0.05em solid;
+        border-bottom: 0.05em solid;
+    }
+
+    tr:nth-child(even) {
+        background: $bg-faded;
+    }
+}
+
+.footer {
+    color: $fg-faded;
+    border-top: 0.05em solid $fg-faded;
+    margin-top:2em;
+    padding-top:0.3em;
+    font-size: 80%;
+
+    a {
+        color: $link-faded;
+        &:visited {
+            color: $link-faded;
+        }
+        &:hover {
+            color:$link-focus-faded;
+        }
+        &:focus {
+            color: $link-focus-faded;
+            outline:none;
+        }
+    }
+}

@@ -1,95 +1,63 @@
 @media screen and (max-width: 480px) {
-    body {
-        max-width:95%;
-    }
-}
-
+  body {
+    max-width: 95%; } }
 @media screen and (min-width: 480px) {
-    body {
-        max-width:80%;
-    }
-}
-
-
+  body {
+    max-width: 80%; } }
 @media screen and (min-width: 960px) {
-    body {
-        max-width:65%;
-    }
-}
-
+  body {
+    max-width: 65%; } }
 body {
-    font-family: Helvetica, Arial, Sans-Serif;
-    font-size: 105%;
-    background: #3f3f3f;
-    color: #dcdcdc;
-    margin-left:auto;
-    margin-right:auto;
-}
+  font-family: Helvetica, Arial, Sans-Serif;
+  font-size: 105%;
+  background: #3f3f3f;
+  color: gainsboro;
+  margin-left: auto;
+  margin-right: auto; }
 
-* a, a:visited {
-    color: #8cd0d3;
-    text-decoration:none;
-}
-
-* a:hover {
+* a {
+  color: #8cd0d3; }
+  * a:visited {
+    text-decoration: none; }
+  * a:hover {
+    color: #94bff3; }
+  * a:focus {
     color: #94bff3;
-}
-
-* a:focus {
-    color: #94bff3;
-    outline:none;
-}
+    outline: none; }
 
 code {
-    font-size: 110%;
-    color: #bfebbf;
-}
+  font-size: 110%;
+  color: #bfebbf; }
 
-h1, h2, h3{
-    color: #cc9393;
-    font-weight:lighter;
-}
+h1, h2, h3 {
+  color: #cc9393;
+  font-weight: lighter; }
 
 ul {
-    padding-left: 1em;
-}
+  padding-left: 1em; }
 
 .classplan {
-    text-align: left;
-    border-collapse: collapse;
-}
-
-.classplan th, td {
+  text-align: left;
+  border-collapse: collapse; }
+  .classplan th, .classplan td {
     padding: 0.5em;
     border-top: 0.05em solid;
-    border-bottom: 0.05em solid;
-}
-
-.classplan tr:nth-child(even) {
-    background: #4f4f4f;
-}
+    border-bottom: 0.05em solid; }
+  .classplan tr:nth-child(even) {
+    background: #4f4f4f; }
 
 .footer {
-    color: #6f6f6f;
-    border-top: 0.05em solid #6f6f6f;
-    margin-top:2em;
-    padding-top:0.3em;
-    font-size: 80%;
-}
-
-.footer a {
-    color:#4c7073;
-}
-
-.footer a:visited {
-    color:#4c7073;
-}
-
-.footer a:hover {
-    color:#5c888b;
-}
-
-.footer a:focus {
-    color: #5c888b;
-    outline:none;
-}
+  color: #6f6f6f;
+  border-top: 0.05em solid #6f6f6f;
+  margin-top: 2em;
+  padding-top: 0.3em;
+  font-size: 80%; }
+  .footer a {
+    color: #4c7073; }
+    .footer a:visited {
+      color: #4c7073; }
+    .footer a:hover {
+      color: #5c888b; }
+    .footer a:focus {
+      color: #5c888b;
+      outline: none; }
