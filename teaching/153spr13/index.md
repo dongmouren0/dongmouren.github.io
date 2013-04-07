@@ -12,7 +12,7 @@ title: Math 153 (Spring 2013)
 Older announcements are [here](#older-announcements).
 
 ----
-### Course Information
+### Course information
 **Time/place:** Tuesday/Thursday, 9am to 10:30am in Eck 203.  
 **Instructor:** Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)  
 **Office:** Math/Stat 015 (5727 S University Ave)  
@@ -31,7 +31,7 @@ Grades will be based on homework, two midterms and a final exam. The grade distr
 
 Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) carefully.
 
-### Class Plan and Homework
+### Class plan and homework
 Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
 
 The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook beforehand.
@@ -192,7 +192,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 </tr>
 </table> 
 
-### Older Announcements
+### Older announcements
 {% for post in site.categories.153spr13 offset: 3%}
 * ({{ post.date | date: "%a %b %d" }}) {{ post.content | strip_html }}
 {% endfor %}
