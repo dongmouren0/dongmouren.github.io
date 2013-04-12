@@ -83,7 +83,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 18</td>
 <td>Some differential equations, Catchup</td>
 <td>9.1, 9.2</td>
-<td>HW 3: TBA</td>
+<td>HW 3: 8.2 (38, 45, 77), 8.3 (7, 8, 11, 36), 8.4 (8, 11, 26, 33, 44), 8.5 (1, 5, 9)</td>
 </tr>
 
 <tr>
