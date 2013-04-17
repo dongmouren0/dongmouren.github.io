@@ -41,7 +41,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <th>Date</th>
 <th>Topic</th>
 <th>Section</th>
-<th>Homework</th>
+<th>Homework/Documents</th>
 </tr>
 
 <tr>
@@ -76,7 +76,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 16</td>
 <td>Integrating partial fractions</td>
 <td>8.5</td>
-<td></td>
+<td>[Formula Sheet (PDF)](midterm1formulasheet.pdf) for Midterm 1</td>
 </tr>
 
 <tr>
@@ -194,5 +194,5 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 ### Older announcements
 {% for post in site.categories.153spr13 offset: 3%}
-* ({{ post.date | date: "%a %b %d" }}) {{ post.content | strip_html }}
+* _({{ post.date | date: "%a %b %d" }})_ {{ post.content | strip_html }}
 {% endfor %}
