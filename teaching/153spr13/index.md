@@ -19,7 +19,7 @@ Older announcements are [here](#older-announcements).
 **Office hours:** Tuesday 3pm to 4pm, Wednesday 5pm to 6pm, Thursday 1pm to 2pm, and any other time by appointment.  
 **VCA:** Yo Joong Choe  
 **YJ's office hours:** Wednesday 3:30pm to 4:30pm in the C-Shop, Reynolds Club.  
-**Problem session:** Tuesday 5pm to 6pm in Eck 203.  
+**Problem session:** Tuesday 5pm to 6pm in the Barn (Ryerson 352).  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
 Grades will be based on homework, two midterms and a final exam. The grade distribution for the class will be as follows.
