@@ -18,7 +18,7 @@ Older announcements are [here](#older-announcements).
 **Office:** Math/Stat 015 (5727 S University Ave)  
 **Office hours:** Tuesday 3pm to 4pm, Wednesday 5pm to 6pm, Thursday 1pm to 2pm, and any other time by appointment.  
 **VCA:** Yo Joong Choe  
-**YJ's office hours:** Friday 1pm to 2pm in the C-Shop, Reynolds Club.  
+**YJ's office hours:** Wednesday 3:30pm to 4:30pm in the C-Shop, Reynolds Club.  
 **Problem session:** Tuesday 5pm to 6pm in Eck 203.  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
@@ -97,7 +97,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 25</td>
 <td>The least-upper-bound axiom, sequences of real numbers</td>
 <td>11.1, 11.2</td>
-<td>HW 4: TBA</td>
+<td>HW 4: Read sections 9.1 and 9.2. Solve 9.1 (10, 26, 29) and 9.2 (8, 16)</td>
 </tr>
 
 <tr>
