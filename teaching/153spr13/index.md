@@ -111,7 +111,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 02</td>
 <td>Indeterminate forms: $(0/0)$, $(\infty/\infty)$</td>
 <td>11.5, 11.6</td>
-<td>HW 5: TBA</td>
+<td>HW 5: Read the [_How to write proofs_](proofguide.pdf) guide by Eugenia Cheng. Review the principle of mathematical induction. Solve 11.1 (6, 8, 16, 22, 24, 30: no explanations needed), 11.2 (16, 22, 45, 48, 60, 62, 64), 11.3 (8, 10, 18, 21, 32)</td>
 </tr>
 
 <tr>
