@@ -90,7 +90,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 23</td>
 <td>_Midterm 1_</td>
 <td></td>
-<td></td>
+<td>[Solutions (PDF)](midterm1-solutions.pdf) and [Score Histogram (PDF)](Midterm1Graph.pdf)</td>
 </tr>
 
 <tr>
