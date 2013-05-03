@@ -102,22 +102,22 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>Apr 30</td>
-<td>The limit of a sequence, some important limits</td>
-<td>11.3, 11.4</td>
+<td>The limit of a sequence</td>
+<td>11.3</td>
 <td></td>
 </tr>
 
-<tr>
+1;5C<tr>
 <td>May 02</td>
-<td>Indeterminate forms: $(0/0)$, $(\infty/\infty)$</td>
-<td>11.5, 11.6</td>
-<td>HW 5: TBA</td>
+<td>The limit of a sequence, some important limits</td>
+<td>11.3, 11.4</td>
+<td>HW 5: Read sections 11.3 and 11.4 carefully. Solve 11.3 (51, 52, 56, 58), 11.4 (2, 6, 12, 14, 16, 23)</td>
 </tr>
 
 <tr>
 <td>May 07</td>
 <td>Indeterminate forms</td>
-<td>11.6</td>
+<td>11.5, 11.6</td>
 <td></td>
 </tr>
 
