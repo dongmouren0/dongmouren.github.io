@@ -12,14 +12,14 @@ title: Math 153 (Spring 2013)
 Older announcements are [here](#older-announcements).
 
 ----
-### Course Information
+### Course information
 **Time/place:** Tuesday/Thursday, 9am to 10:30am in Eck 203.  
 **Instructor:** Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)  
 **Office:** Math/Stat 015 (5727 S University Ave)  
 **Office hours:** Tuesday 3pm to 4pm, Wednesday 5pm to 6pm, Thursday 1pm to 2pm, and any other time by appointment.  
 **VCA:** Yo Joong Choe  
-**YJ's office hours:** Friday 1pm to 2pm in the C-Shop, Reynolds Club.  
-**Problem session:** Tuesday 5pm to 6pm in Eck 203.  
+**YJ's office hours:** Wednesday 3:30pm to 4:30pm in the C-Shop, Reynolds Club.  
+**Problem session:** Tuesday 5pm to 6pm in the Barn (Ryerson 352).  
 **Textbook:** _Calculus_ by Salas, Hille, Etgen, 10th edition.  
 
 Grades will be based on homework, two midterms and a final exam. The grade distribution for the class will be as follows.
@@ -31,7 +31,7 @@ Grades will be based on homework, two midterms and a final exam. The grade distr
 
 Please also read the Course Information Sheet ([PDF](courseinformation.pdf)) carefully.
 
-### Class Plan and Homework
+### Class plan and homework
 Homework will be due _before class_ on Thursday each week. Late homework will not be accepted. The lowest homework score will be dropped.
 
 The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook beforehand.
@@ -41,7 +41,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <th>Date</th>
 <th>Topic</th>
 <th>Section</th>
-<th>Homework</th>
+<th>Homework/Documents</th>
 </tr>
 
 <tr>
@@ -76,28 +76,28 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 16</td>
 <td>Integrating partial fractions</td>
 <td>8.5</td>
-<td></td>
+<td>[Formula Sheet (PDF)](midterm1formulasheet.pdf) for Midterm 1</td>
 </tr>
 
 <tr>
 <td>Apr 18</td>
 <td>Some differential equations, Catchup</td>
 <td>9.1, 9.2</td>
-<td>HW 3: TBA</td>
+<td>HW 3: 8.2 (38, 45, 77), 8.3 (7, 8, 11, 36), 8.4 (8, 11, 26, 33, 44), 8.5 (1, 5, 9)</td>
 </tr>
 
 <tr>
 <td>Apr 23</td>
 <td>_Midterm 1_</td>
 <td></td>
-<td></td>
+<td>[Solutions (PDF)](midterm1-solutions.pdf) and [Score Histogram (PDF)](Midterm1Graph.pdf)</td>
 </tr>
 
 <tr>
 <td>Apr 25</td>
 <td>The least-upper-bound axiom, sequences of real numbers</td>
 <td>11.1, 11.2</td>
-<td>HW 4: TBA</td>
+<td>HW 4: Read sections 9.1 and 9.2. Solve 9.1 (10, 26, 29) and 9.2 (8, 16)</td>
 </tr>
 
 <tr>
@@ -111,7 +111,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 02</td>
 <td>The limit of a sequence, some important limits</td>
 <td>11.3, 11.4</td>
-<td>HW 5: Read sections 11.3 and 11.4 carefully. Solve 11.3 (51, 52, 56, 58), 11.4 (2, 6, 12, 14, 16, 23)</td>
+<td>HW 5: Read the [_How to write proofs_](proofguide.pdf) guide by Eugenia Cheng. Review the principle of mathematical induction. Solve 11.1 (6, 8, 16, 22, 24, 30: no explanations needed), 11.2 (16, 22, 45, 48, 60, 62, 64), 11.3 (8, 10, 18, 21, 32)</td>
 </tr>
 
 <tr>
@@ -125,7 +125,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 09</td>
 <td>Improper integrals</td>
 <td>11.7</td>
-<td>HW 6: TBA</td>
+<td>HW 6: Read sections 11.3 and 11.4 carefully. Solve 11.3 (51, 52, 56, 58), 11.4 (2, 6, 12, 14, 16, 23)</td>
 </tr>
 
 <tr>
@@ -192,7 +192,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 </tr>
 </table> 
 
-### Older Announcements
+### Older announcements
 {% for post in site.categories.153spr13 offset: 3%}
-* ({{ post.date | date: "%a %b %d" }}) {{ post.content | strip_html }}
+* _({{ post.date | date: "%a %b %d" }})_ {{ post.content | strip_html }}
 {% endfor %}

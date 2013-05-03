@@ -2,3 +2,5 @@ _site/
 deploy
 .sass-cache/
 stylesheet.css
+.hyde.el
+_drafts/
