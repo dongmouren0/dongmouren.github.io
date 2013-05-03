@@ -125,7 +125,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 09</td>
 <td>Improper integrals</td>
 <td>11.7</td>
-<td>HW 6: Read sections 11.3 and 11.4 carefully. Solve 11.3 (51, 52, 56, 58), 11.4 (2, 6, 12, 14, 16, 23)</td>
+<td>HW 6: Read sections 11.3 and 11.4 carefully. Solve 11.3 (51, 52, 56, 58), 11.4 (2, 6, 12, 14, 16, 23), 11.5 (1, 2, 6, 14, 24)</td>
 </tr>
 
 <tr>
