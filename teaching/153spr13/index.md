@@ -107,7 +107,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td></td>
 </tr>
 
-1;5C<tr>
+<tr>
 <td>May 02</td>
 <td>The limit of a sequence, some important limits</td>
 <td>11.3, 11.4</td>
