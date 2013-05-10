@@ -139,7 +139,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 16</td>
 <td>Tests for convergence, Catchup</td>
 <td>12.3, 12.4</td>
-<td>HW 7: TBA</td>
+<td>HW 7: 11.5 (32, 47, 49), 11.6 (1, 8, 26, 31, 42), 11.7 (1, 2, 7, 17, 22), 12.1 (3, 6)</td>
 </tr>
 
 <tr>
