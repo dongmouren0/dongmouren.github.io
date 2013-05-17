@@ -153,7 +153,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 23</td>
 <td>Absolute and conditional convergence, alternating series</td>
 <td>12.5</td>
-<td>HW 8: TBA</td>
+<td></td>
 </tr>
 
 <tr>
@@ -167,7 +167,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 30</td>
 <td>Taylor polynomials and Taylor series, power series</td>
 <td>12.7, 12.8</td>
-<td>HW 9: TBA</td>
+<td>HW 8: TBA</td>
 </tr>
 
 <tr>
