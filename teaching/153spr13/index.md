@@ -132,7 +132,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 14</td>
 <td>Sigma notation, Infinite series</td>
 <td>12.1</td>
-<td></td>
+<td>[Review sheet for Midterm 2 (PDF)](midterm2reviewsheet.pdf)</td>
 </tr>
 
 <tr>
