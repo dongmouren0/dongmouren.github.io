@@ -130,15 +130,15 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>May 14</td>
-<td>Sigma notation, Infinite series</td>
-<td>12.1</td>
+<td>Improper integrals, Sigma notation</td>
+<td>11.7, 12.1</td>
 <td>[Review sheet for Midterm 2 (PDF)](midterm2reviewsheet.pdf)</td>
 </tr>
 
 <tr>
 <td>May 16</td>
-<td>Tests for convergence, Catchup</td>
-<td>12.3, 12.4</td>
+<td>Infinite series, tests for convergence</td>
+<td>12.2, 12.3</td>
 <td>HW 7: 11.5 (32, 47, 49), 11.6 (1, 8, 26, 31, 42), 11.7 (1, 2, 7, 17, 22), 12.1 (3, 6)</td>
 </tr>
 
@@ -151,8 +151,8 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <tr>
 <td>May 23</td>
-<td>Absolute and conditional convergence, alternating series</td>
-<td>12.5</td>
+<td>Tests for convergence, absolute and conditional convergence, alternating series</td>
+<td>12.3, 12.4, 12.5</td>
 <td></td>
 </tr>
 
