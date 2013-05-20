@@ -7,4 +7,6 @@ pandoc:
   extensions: [mathjax]
 permalink: pretty
 
+baseurl: "http://math.uchicago.edu/~asilata/"
+  
 exclude: ['deploy', 'stylesheet.scss']
