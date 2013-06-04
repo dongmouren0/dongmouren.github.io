@@ -167,14 +167,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>May 30</td>
 <td>Taylor polynomials and Taylor series, power series</td>
 <td>12.7, 12.8</td>
-<td>HW 8: 12.2 (2, 7, 8, 29), 12.3 (6, 9, 12, 17, 39(a), 39(b)), 12.4 (1, 9, 16, 28, 34, 43), 12.5 (1, 2), 12.6 (11, 13)</td>
+<td></td>
 </tr>
 
 <tr>
 <td>Jun 04</td>
 <td>Differentiation and integration of power series</td>
 <td>12.9</td>
-<td></td>
+<td>HW 8: 12.2 (2, 7, 8, 29), 12.3 (6, 9, 12, 17, 39(a), 39(b)), 12.4 (1, 9, 16, 28, 34, 43), 12.5 (1, 2), 12.6 (11, 13)</td>
 </tr>
 
 <tr>
