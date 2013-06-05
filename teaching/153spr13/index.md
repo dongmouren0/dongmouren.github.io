@@ -181,14 +181,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Jun 06</td>
 <td>_Reading Period_</td>
 <td></td>
-<td></td>
+<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam</td>
 </tr>
 
 <tr>
 <td>Jun 11</td>
 <td>_Final Examination_</td>
 <td></td>
-<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam</td>
+<td></td>
 </tr>
 </table> 
 
