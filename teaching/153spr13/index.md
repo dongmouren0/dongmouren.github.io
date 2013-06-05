@@ -188,7 +188,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Jun 11</td>
 <td>_Final Examination_</td>
 <td></td>
-<td></td>
+<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam</td>
 </tr>
 </table> 
 
