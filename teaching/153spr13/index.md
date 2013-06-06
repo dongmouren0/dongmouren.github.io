@@ -181,7 +181,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Jun 06</td>
 <td>_Reading Period_</td>
 <td></td>
-<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam</td>
+<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam, [Solutions to Midterm 2 (PDF)](midterm2-solutions.pdf)</td>
 </tr>
 
 <tr>
