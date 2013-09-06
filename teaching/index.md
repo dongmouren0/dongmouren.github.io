@@ -5,8 +5,10 @@ title: Teaching
 
 # Teaching
 
-During the Spring 2013 quarter, I am teaching [Math 153](teaching/153spr13/). In the past, I have taught at the following places.
+During the Autumn 2013 quarter, I am teaching [Math 151](teaching/151aut13/). In the past, I have taught at the following places.
 
+* **Summer 2013:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
+* **Spring 2013:** Math 153 (Calculus 3). Website [here](teaching/153spr13/).
 * **Winter 2013:** Math 152 (Calculus 2). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Autumn 2012:** Math 151 (Calculus 1). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Summer 2012:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
