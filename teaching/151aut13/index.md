@@ -8,19 +8,13 @@ title: Math 151 (Autumn 2013)
 ### Course information
 <div class=infotable>
 
-+----------------+---------------------------------------------------+
-|Time/place:     |Tuesday/Thursday, 10:30am to 11:50am in SS 108.    |
-+----------------+---------------------------------------------------+
-|Instructor:     |Asilata Bapat (`asilata` at `math` dot `uchicago`  |
-|                |dot `edu`)                                         |
-+----------------+---------------------------------------------------+
-|Office:         |Math/Stat 015 (5727 S University Avenue)           |
-+----------------+---------------------------------------------------+
-|Office Hours:   |TBA                                                |
-+----------------+---------------------------------------------------+
-|Problem session:|Monday 5pm to 6pm (tentative) in TBA               |
-+----------------+---------------------------------------------------+
-|VCA:            |TBA                                                |
-+----------------+---------------------------------------------------+
+| ---------------: | :----------------------------------------------------------- |
+| Time/place:      | Tuesday/Thursday, 10:30am to 11:50am in SS 108.              |
+| Instructor:      | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`) |
+| Office:          | Math/Stat 015 (5727 S University Avenue)                     |
+| Office hours:    | TBA                                                          |
+| Problem session: | Monday 5pm to 6pm (tentative) in TBA                         |
+| VCA:             | TBA                                                          |
 
 </div>
+
