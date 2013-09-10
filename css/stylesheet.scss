@@ -108,6 +108,9 @@ ul {
     table {
         background: $bg-faded;
         border-collapse:collapse;
+        th, td {
+            padding:0.1em;
+        }
         td:first-child {
             font-weight: bold;
             text-align: right;
@@ -115,22 +118,33 @@ ul {
     }
 }
 
-.footer {
+@mixin faded-small {
     color: $fg-faded;
-    border-top: 0.1em solid $fg-faded;
-    margin-top:2em;
-    padding-top:0.3em;
     font-size: 80%;
+    border-color: $fg-faded;
     a {
         color: $link-faded;
-        &:visited {
-            color: $link-faded;
-        }
-        &:hover {
-            text-decoration: underline;
-        }
-        &:focus {
-            outline:none;
-        }
+        
+    }
+}
+
+.footer {
+    @include faded-small;
+    border-top: 0.1em solid;
+    margin-top:2em;
+    padding-top:0.3em;
+}
+
+#navigation {
+    @include faded-small;
+    text-align:right;
+    border-bottom: 0.1em solid;
+    padding:0em;
+    li {
+        display:inline;
+        list-style-type:none;
+        margin:none;
+        padding-left:1em;
+        text-align:left;
     }
 }
