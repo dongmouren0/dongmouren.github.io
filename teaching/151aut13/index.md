@@ -5,6 +5,13 @@ title: Math 151 (Autumn 2013)
 
 # Math 151 (Autumn 2013)
 
+<!-- ### Recent announcements -->
+<!-- {% for post in site.categories.151aut13 limit: 3 %} -->
+<!-- * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }} -->
+<!-- {% endfor %} -->
+<!-- Older announcements are [here](#older-announcements). -->
+
+
 ### Course information
 <div class=infotable>
 
@@ -17,4 +24,9 @@ title: Math 151 (Autumn 2013)
 | VCA:             | TBA                                                          |
 
 </div>
+
+<!-- ### Older announcements -->
+<!-- {% for post in site.categories.151aut13 offset: 3%} -->
+<!-- * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }} -->
+<!-- {% endfor %} -->
 
