@@ -104,6 +104,17 @@ ul {
     }
 }
 
+.infotable {
+    table {
+        background: $bg-faded;
+        border-collapse:collapse;
+        td:first-child {
+            font-weight: bold;
+            text-align: right;
+        }
+    }
+}
+
 .footer {
     color: $fg-faded;
     border-top: 0.1em solid $fg-faded;
