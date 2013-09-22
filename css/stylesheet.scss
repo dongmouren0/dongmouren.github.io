@@ -90,16 +90,20 @@ ul {
 }
 
 .classplan {
-    text-align: left;
-    border-collapse: collapse;
-    th, td {
+    table {
+        text-align: left;
+        border-collapse: collapse;
+        strong {
+            color: $violet;
+        }
+        th, td {
         padding: 0.5em;
         border-top: 0.1em solid;
         border-bottom: 0.1em solid;
-    }
-
-    tr:nth-child(even) {
-        background: $bg-faded;
+        }
+        tbody > tr:nth-child(odd) {
+            background: $bg-faded;
+        }
     }
 }
 

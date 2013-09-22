@@ -36,14 +36,18 @@ Homework will be due _before class_ on Thursday each week. Late homework will no
 
 The class plan is tentative and will be updated as the quarter goes by. You will get more out of each class if you read the relevant sections of the textbook beforehand.
 
-<table class="classplan">
+<div class="classplan">
+<table>
+<thead>
 <tr>
 <th>Date</th>
 <th>Topic</th>
 <th>Section</th>
 <th>Homework/Documents</th>
 </tr>
+</thead>
 
+<tbody>
 <tr>
 <td>Apr 02</td>
 <td>Inverse trigonometric functions</td>
@@ -190,7 +194,9 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td></td>
 <td></td>
 </tr>
-</table> 
+</tbody>
+</table>
+</div>
 
 ### Older announcements
 {% for post in site.categories.153spr13 offset: 3%}
