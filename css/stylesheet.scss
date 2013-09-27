@@ -80,7 +80,7 @@ code {
     color: $code;
 }
 
-h1, h2, h3{
+h1, h2, h3, h4 {
     color: $header;
     font-weight:lighter;
 }
@@ -93,9 +93,6 @@ ul {
     table {
         text-align: left;
         border-collapse: collapse;
-        strong {
-            color: $violet;
-        }
         th, td {
         padding: 0.5em;
         border-top: 0.1em solid;
