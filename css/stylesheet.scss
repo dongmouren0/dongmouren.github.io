@@ -26,6 +26,7 @@ $link-focus: $violet;
 $link-focus-faded: $violet;
 $header: $orange;
 $code: $green;
+$selection: $yellow;
 
 
 
@@ -55,11 +56,11 @@ body {
     margin-left:auto;
     margin-right:auto;
     ::-moz-selection {
-        background: $yellow;
+        background: $selection;
         color: $bg-faded;
     }
     ::selection {
-        background: $yellow;
+        background: $selection;
         color: $bg-faded;
     }
 }
