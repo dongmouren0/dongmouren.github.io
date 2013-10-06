@@ -9,4 +9,4 @@ permalink: pretty
 
 baseurl: "http://math.uchicago.edu/~asilata/"
   
-exclude: ['deploy', 'stylesheet.scss']
+exclude: ['deploy', 'stylesheet.scss', 'themes']
