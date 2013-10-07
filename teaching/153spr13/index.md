@@ -3,7 +3,7 @@ layout: default
 title: Math 153 (Spring 2013)
 ---
 
-# Math 153 (Spring 2013)
+# {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories.153spr13 limit: 3 %}

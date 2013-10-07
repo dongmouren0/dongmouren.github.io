@@ -3,12 +3,10 @@ layout: default
 title: Math 151 (Autumn 2013)
 ---
 
-# Math 151 (Autumn 2013)
+# {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.151aut13 limit: 3 %}
-* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
-{% endfor %}
+{% for post in site.categories.151aut13 limit: 3 %}* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}{% endfor %}
 Older announcements are [here](#older-announcements).
 
 ----

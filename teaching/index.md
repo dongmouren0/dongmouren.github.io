@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-# Teaching
+# {{ page.title }}
 
 During the Autumn 2013 quarter, I am teaching [Math 151](151aut13/). In the past, I have taught at the following places.
 

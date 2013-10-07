@@ -4,7 +4,7 @@ paginate: 10
 
 markdown: pandoc
 pandoc:
-  extensions: [mathjax]
+  extensions: [smart, mathjax]
 permalink: pretty
 
 baseurl: "http://math.uchicago.edu/~asilata/"
