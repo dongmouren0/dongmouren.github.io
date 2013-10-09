@@ -20,7 +20,7 @@ Older announcements are [here](#older-announcements).
 | Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                           |
 | Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                             |
 | Office hours:        | Monday 1:30pm to 2:30pm, Wednesday 4pm to 5pm, and any other time by appointment, in [Math/Stat][ms] 015 |
-| Problem session:     | Tuesday 6pm to 7pm (tentative) in TBA                                                                    |
+| Problem session:     | Tuesday 6pm to 7pm in Eckhart 308                                                                        |
 | VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                            |
 | Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                   |
 
