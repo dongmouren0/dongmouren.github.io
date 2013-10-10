@@ -39,10 +39,10 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | :---- | :-----------------------------                          | :---------    | :-------------------                  |
 | 10/01 | Review, inequalities                                    | 1.3, 1.6      | [Diagnostic test](diagnostictest.pdf) |
 | 10/03 | Review, proofs and induction                            | 1.6, 1.8      | **[HW 0](#hw-0) due**                 |
-| 10/08 | Induction, introduction to limits                       | 1.8, 2.1      |                                       |
-| 10/10 | Limits: introduction and definitions                    | 2.1, 2.2      | **[HW 1](#hw-1) due**                 |
-| 10/15 | Some limit theorems                                     | 2.3           |                                       |
-| 10/17 | Limit theorems, pinching theorem                        | 2.3, 2.5      | **HW 2 due**                          |
+| 10/08 | Induction, introduction to limits, definition           | 1.8, 2.1, 2.2 |                                       |
+| 10/10 | Definition of limits, some limit theorems               | 2.2, 2.3      | **[HW 1](#hw-1) due**                 |
+| 10/15 | Limit theorems, pinching theorem                        | 2.3, 2.5      |                                       |
+| 10/17 | Pinching theorem, review                                | 2.5           | **[HW 2](#hw-2) due**                          |
 | 10/22 | **Midterm 1**                                           |               |                                       |
 | 10/24 | Trigonometric limits, continuity                        | 2.5, 2.4      |                                       |
 | 10/29 | Intermediate and extreme value theorems, the derivative | 2.6, 3.1      | **HW 3 due**                          |
@@ -74,9 +74,15 @@ This homework will not count towards your final grade, but please turn it in any
 Only the problems marked "turn in" are to be turned in.
 
 * **Turn in:** 1.6 (1, 3, 6, 10, 64, 67), 1.8 (6, 8, 10), 2.1 (2, 4), 2.2 (21, 22, 24, 26)
-* Read [_How to write proofs_](proofguide.pdf) by Eugenia Cheng.
+* **Read:** [_How to write proofs_](proofguide.pdf) by Eugenia Cheng.
 * **Practice:** 1.3 (14, 16, 28, 44, 53), 1.6 (11, 12)
 * **Challenge:** Suppose $a$, $b$, $c$ are real numbers such that $(a+b+c)$, $(ab+bc+ca)$ and $abc$ are all integers. Prove that for every $n\in \mathbb{N}$, the number $(a^n + b^n + c^n)$ is an integer.
+
+#### HW 2
+
+* **Turn in:** 2.2 (41 without writing justifications, 42, 50, 52, 54), 2.3 (8, 14, 16, 22, 26, 45--50 without writing justifications)
+* **Practice:** 2.2 (36, 38, 40), 2.3 (1, 2, 39, 40, 52, 53)
+* **Challenge:** 2.2 (46, 56), 2.3 (56)
 
 ----
 ### Older announcements
