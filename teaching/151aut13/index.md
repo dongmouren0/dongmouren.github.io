@@ -7,7 +7,7 @@ title: Math 151 (Autumn 2013)
 
 ### Recent announcements
 {% for post in site.categories.151aut13 limit: 3 %}
-* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
+* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html}}
 {% endfor %}
 Older announcements are [here](#older-announcements).
 
@@ -16,15 +16,15 @@ Older announcements are [here](#older-announcements).
 ### Course information
 <div class="infotable">
 
-| ---------------:     | :-----------------------------------------------------------                                             |
-| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                           |
-| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                             |
-| Office hours:        | Monday 1:30pm to 2:30pm, Wednesday 4pm to 5pm, and any other time by appointment, in [Math/Stat][ms] 015 |
-| Problem session:     | Tuesday 6pm to 7pm in Eckhart 308                                                                        |
-| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                            |
-| Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                   |
+| ---------------:     | :-----------------------------------------------------------                                                |
+| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                              |
+| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                                |
+| Office hours:        | Monday 4pm to 5pm, Wednesday 4pm to 5:30pm, and any other time by appointment, in [Math/Stat][ms] 015 |
+| Problem session:     | Tuesday 6pm to 7pm in Eckhart 308                                                                           |
+| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                               |
+| Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                      |
 
-[ms]: http://maps.uchicago.edu/eastquad/statmath.html
+[ms]: http://maps.google.com/?q=5727+S+University+Ave+Chicago+IL
 
 </div>
 
