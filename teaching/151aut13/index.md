@@ -24,7 +24,7 @@ Older announcements are [here](#older-announcements).
 | VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                               |
 | Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                      |
 
-[ms]: http://maps.google.com/?q=5727+S+University+Ave+Chicago+IL
+[ms]: https://maps.uchicago.edu/?location=Math-Stat+Building
 
 </div>
 
