@@ -35,29 +35,29 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <div class="classplan">
 
-| Date  | Topic                                                   | Section       | Homework/Documents                    |
-| :---- | :-----------------------------                          | :---------    | :-------------------                  |
-| 10/01 | Review, inequalities                                    | 1.3, 1.6      | [Diagnostic test](diagnostictest.pdf) |
-| 10/03 | Review, proofs and induction                            | 1.6, 1.8      | **[HW 0](#hw-0) due**                 |
-| 10/08 | Induction, introduction to limits, definition           | 1.8, 2.1, 2.2 |                                       |
-| 10/10 | Definition of limits, some limit theorems               | 2.2, 2.3      | **[HW 1](#hw-1) due**                 |
-| 10/15 | Limit theorems, pinching theorem                        | 2.3, 2.5      |                                       |
-| 10/17 | Pinching theorem, review                                | 2.5           | **[HW 2](#hw-2) due**                          |
-| 10/22 | **Midterm 1**                                           |               |                                       |
-| 10/24 | Trigonometric limits, continuity                        | 2.5, 2.4      |                                       |
-| 10/29 | Intermediate and extreme value theorems, the derivative | 2.6, 3.1      | **HW 3 due**                          |
-| 10/31 | Differentiation formulas, rates of change               | 3.2, 3.3, 3.4 |                                       |
-| 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **HW 4 due**                          |
-| 11/07 | Implicit differentiation, rational powers               | 3.7           |                                       |
-| 11/12 | **Midterm 2**                                           |               |                                       |
-| 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **HW 5 due**                          |
-| 11/19 | Increasing and decreasing functions                     | 4.2           |                                       |
-| 11/21 | Extreme values                                          | 4.3, 4.4      | **HW 6 due**                          |
-| 11/26 | Extreme values, max-min problems                        | 4.4, 4.5      |                                       |
-| 11/28 | **Thanksgiving Vacation**                               |               |                                       |
-| 12/03 | More max-min, catchup                                   | 4.5, 4.9 (?)  | **HW 7 due**                          |
-| 12/05 | **Reading Period**                                      |               |                                       |
-| 12/10 | **Final Examination**                                   |               |                                       |
+| Date  | Topic                                                   | Section       | Homework/Documents                                |
+| :---- | :-----------------------------                          | :---------    | :-------------------                              |
+| 10/01 | Review, inequalities                                    | 1.3, 1.6      | [Diagnostic test](diagnostictest.pdf)             |
+| 10/03 | Review, proofs and induction                            | 1.6, 1.8      | **[HW 0](#hw-0) due**                             |
+| 10/08 | Induction, introduction to limits, definition           | 1.8, 2.1, 2.2 |                                                   |
+| 10/10 | Definition of limits, some limit theorems               | 2.2, 2.3      | **[HW 1](#hw-1) due**                             |
+| 10/15 | Limit theorems, pinching theorem                        | 2.3, 2.5      |                                                   |
+| 10/17 | Pinching theorem, review                                | 2.5           | **[HW 2](#hw-2) due**                             |
+| 10/22 | **Midterm 1**                                           |               | [Practice problems](#midterm-1-practice-problems) |
+| 10/24 | Trigonometric limits, continuity                        | 2.5, 2.4      |                                                   |
+| 10/29 | Intermediate and extreme value theorems, the derivative | 2.6, 3.1      | **HW 3 due**                                      |
+| 10/31 | Differentiation formulas, rates of change               | 3.2, 3.3, 3.4 |                                                   |
+| 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **HW 4 due**                                      |
+| 11/07 | Implicit differentiation, rational powers               | 3.7           |                                                   |
+| 11/12 | **Midterm 2**                                           |               |                                                   |
+| 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **HW 5 due**                                      |
+| 11/19 | Increasing and decreasing functions                     | 4.2           |                                                   |
+| 11/21 | Extreme values                                          | 4.3, 4.4      | **HW 6 due**                                      |
+| 11/26 | Extreme values, max-min problems                        | 4.4, 4.5      |                                                   |
+| 11/28 | **Thanksgiving Vacation**                               |               |                                                   |
+| 12/03 | More max-min, catchup                                   | 4.5, 4.9 (?)  | **HW 7 due**                                      |
+| 12/05 | **Reading Period**                                      |               |                                                   |
+| 12/10 | **Final Examination**                                   |               |                                                   |
 
 </div>
 
@@ -83,6 +83,14 @@ Only the problems marked "turn in" are to be turned in.
 * **Turn in:** 2.2 (41 without writing justifications, 42, 50, 52, 54), 2.3 (8, 14, 16, 22, 26, 45--50 without writing justifications)
 * **Practice:** 2.2 (36, 38, 40), 2.3 (1, 2, 39, 40, 52, 53)
 * **Challenge:** 2.2 (46, 56), 2.3 (56)
+
+#### Midterm 1 Practice Problems
+* 1.3 (4, 8, 30, 43--46)
+* 1.5 (7--10, 49--54)
+* 1.8 (11, 17)
+* 2.1 (1--10)
+* 2.2 (43, 44, 49, 53)
+* 2.3 (7, 9, 10, 32, 36, 37, 43, 44)
 
 ----
 ### Older announcements
