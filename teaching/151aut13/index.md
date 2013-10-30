@@ -47,7 +47,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 10/24 | Trigonometric limits, continuity                        | 2.5, 2.4      |                                                           |
 | 10/29 | Intermediate and extreme value theorems, the derivative | 2.6, 3.1      | **[HW 3](#hw-3) due**                                     |
 | 10/31 | Differentiation formulas, rates of change               | 3.2, 3.3, 3.4 |                                                           |
-| 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **HW 4 due**                                              |
+| 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **[HW 4](#hw-4) due**                                     |
 | 11/07 | Implicit differentiation, rational powers               | 3.7           |                                                           |
 | 11/12 | **Midterm 2**                                           |               |                                                           |
 | 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **HW 5 due**                                              |
@@ -101,6 +101,11 @@ Only the problems marked "turn in" are to be turned in.
 * **Turn in:** 2.5 (5, 6, 12, 18, 24, 31, 33, 34, 38, 40, 43, 47), 2.4 (1, 4, 8)
 * **Practice:** 2.5 (1, 2, 8, 11, 14, 37), 2.4 (2, 3, 5, 14)
 * **Challenge:** 2.5 (46, 49, 50)
+
+#### HW 4
+* **Turn in:** 2.4 (45--47, 52), 2.6 (2, 6, 9, 25, 26, 29), 3.2 (32, 36, 49), 3.3 (16, 40, 53), 3.4 (5, 6)
+* **Practice:** 2.4 (13--24), 2.6 (27, 30, 31, 32), 3.1 (43--48, 58, 59)
+* **Challenge:** 2.4 (50, 53)
 
 ----
 ### Older announcements
