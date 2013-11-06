@@ -16,9 +16,9 @@ In the Autumn 2013 quarter, we meet on Mondays and Wednesdays at 2:30pm in Eck 3
 | 10/16 | Robin Walters | Beilinson-Bernstein localization theorem |
 | 10/21 | Robin Walters | Beilinson-Bernstein localization theorem |
 | 10/28 | Jonathan Sun  | Springer theory                          |
-| 11/04 | Asilata Bapat |                                          |
-| 11/11 | TBA           |                                          |
-| 11/18 | TBA           |                                          |
+| 11/04 | Jonathan Sun  | Springer theory                          |
+| 11/11 | Jonathan Sun  | Springer theory                          |
+| 11/18 | Asilata Bapat | TBA                                      |
 | 11/25 | TBA           |                                          |
 | 12/02 | TBA           |                                          |
 

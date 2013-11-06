@@ -43,14 +43,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 10/10 | Definition of limits, some limit theorems               | 2.2, 2.3      | **[HW 1](#hw-1) due**                                     |
 | 10/15 | Limit theorems, pinching theorem                        | 2.3, 2.5      |                                                           |
 | 10/17 | Pinching theorem, review                                | 2.5           | **[HW 2](#hw-2) due**                                     |
-| 10/22 | **Midterm 1**                                           |               | [Solutions][s1], [Practice problems][p1], [Histogram][h1] |
+| 10/22 | **Midterm 1**                                           |               | [Practice problems][p1], [Solutions][s1], [Histogram][h1] |
 | 10/24 | Trigonometric limits, continuity                        | 2.5, 2.4      |                                                           |
 | 10/29 | Intermediate and extreme value theorems, the derivative | 2.6, 3.1      | **[HW 3](#hw-3) due**                                     |
 | 10/31 | Differentiation formulas, rates of change               | 3.2, 3.3, 3.4 |                                                           |
 | 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **[HW 4](#hw-4) due**                                     |
 | 11/07 | Implicit differentiation, rational powers               | 3.7           |                                                           |
-| 11/12 | **Midterm 2**                                           |               |                                                           |
-| 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **HW 5 due**                                              |
+| 11/12 | **Midterm 2**                                           |               | [Practice problems][p2]                                   |
+| 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **[HW 5](#hw-5) due**                                     |
 | 11/19 | Increasing and decreasing functions                     | 4.2           |                                                           |
 | 11/21 | Extreme values                                          | 4.3, 4.4      | **HW 6 due**                                              |
 | 11/26 | Extreme values, max-min problems                        | 4.4, 4.5      |                                                           |
@@ -62,6 +62,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 [p1]: #midterm-1-practice-problems
 [s1]: midterm1-solutions.pdf
 [h1]: Midterm1Graph.pdf
+[p2]: #midterm-2-practice-problems
 
 </div>
 
@@ -106,6 +107,19 @@ Only the problems marked "turn in" are to be turned in.
 * **Turn in:** 2.4 (45--47, 52), 2.6 (2, 6, 9, 25, 26, 29), 3.2 (32, 36, 49), 3.3 (16, 40, 53), 3.4 (5, 6)
 * **Practice:** 2.4 (13--24), 2.6 (27, 30, 31, 32), 3.1 (43--48, 58, 59)
 * **Challenge:** 2.4 (50, 53)
+
+#### Midterm 2 Practice Problems
+* 2.4 (29, 30, 35, 36, 37, 54)
+* 2.5 (some selection from 1--37)
+* 2.6 (1, 10, 11, 13--24, 35)
+* 3.1 (3, 6, 7, 23, 28, 30, 32, 33--38, 41, 42, 52)
+* 3.2 (some selection from 1--20, 24, 28, 29, 50, 52, 56, 59)
+* 3.4 (8, 12, 13, 15, 16)
+* 3.5 (see HW 5, and also 60, 62, 66)
+* 3.6 (see HW 5, and also 71, 72)
+
+#### HW 5
+* **Turn in:** 3.5 (16, 28, 48, 59), 3.6 (6, 9, 58), 3.7 (6, 10, 55)
 
 ----
 ### Older announcements
