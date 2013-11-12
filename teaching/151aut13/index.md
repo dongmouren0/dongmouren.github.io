@@ -16,13 +16,13 @@ Older announcements are [here](#older-announcements).
 ### Course information
 <div class="infotable">
 
-| ---------------:     | :-----------------------------------------------------------                                                |
-| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                              |
-| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                                |
+| ---------------:     | :-----------------------------------------------------------                                          |
+| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                        |
+| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                          |
 | Office hours:        | Monday 4pm to 5pm, Wednesday 4pm to 5:30pm, and any other time by appointment, in [Math/Stat][ms] 015 |
-| Problem session:     | Tuesday 6pm to 7pm in Eckhart 308                                                                           |
-| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                               |
-| Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                      |
+| Problem session:     | Tuesday 6pm to 7pm in Eckhart 308                                                                     |
+| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                         |
+| Mike's office hours: | Monday 6:30pm to 7:30pm in Harper cafe                                                                |
 
 [ms]: https://maps.uchicago.edu/?location=Math-Stat+Building
 
