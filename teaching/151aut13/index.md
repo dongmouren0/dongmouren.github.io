@@ -52,7 +52,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 11/12 | **Midterm 2**                                           |               | [Practice problems][p2], [Solutions][s2]                  |
 | 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **[HW 5](#hw-5) due**                                     |
 | 11/19 | Increasing and decreasing functions                     | 4.2           |                                                           |
-| 11/21 | Extreme values                                          | 4.3, 4.4      | **HW 6 due**                                              |
+| 11/21 | Extreme values                                          | 4.3, 4.4      | **[HW 6](#hw-6) due**                                     |
 | 11/26 | Extreme values, max-min problems                        | 4.4, 4.5      |                                                           |
 | 11/28 | **Thanksgiving Vacation**                               |               |                                                           |
 | 12/03 | More max-min, catchup                                   | 4.5, 4.9 (?)  | **HW 7 due**                                              |
@@ -121,6 +121,11 @@ Only the problems marked "turn in" are to be turned in.
 
 #### HW 5
 * **Turn in:** 3.5 (16, 28, 48, 59), 3.6 (6, 9, 58), 3.7 (6, 10, 55)
+
+#### HW 6
+* **Read:** Theorem 4.1.2 and the proof, and Rolle's theorem and the proof.
+* **Turn in:** 3.7 (38, 42, 49, 50, 53), 4.1 (12, 15, 16, 24, 26), 4.2 (1, 12)
+* **Practice:** 4.1 (2, 3, 7, 28, 35), 4.2 (37--40)
 
 ----
 ### Older announcements
