@@ -49,7 +49,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 10/31 | Differentiation formulas, rates of change               | 3.2, 3.3, 3.4 |                                                           |
 | 11/05 | The chain rule, differentiation trigonometric functions | 3.5, 3.6      | **[HW 4](#hw-4) due**                                     |
 | 11/07 | Implicit differentiation, rational powers               | 3.7           |                                                           |
-| 11/12 | **Midterm 2**                                           |               | [Practice problems][p2], [Solutions][s2]                  |
+| 11/12 | **Midterm 2**                                           |               | [Practice problems][p2], [Solutions][s2], [Histogram][h2] |
 | 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **[HW 5](#hw-5) due**                                     |
 | 11/19 | Increasing and decreasing functions                     | 4.2           |                                                           |
 | 11/21 | Extreme values                                          | 4.3, 4.4      | **[HW 6](#hw-6) due**                                     |
@@ -64,6 +64,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 [h1]: Midterm1Graph.pdf
 [p2]: #midterm-2-practice-problems
 [s2]: midterm2-solutions.pdf
+[h2]: Midterm2Graph.pdf
 
 </div>
 
