@@ -51,11 +51,11 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 11/07 | Implicit differentiation, rational powers               | 3.7           |                                                           |
 | 11/12 | **Midterm 2**                                           |               | [Practice problems][p2], [Solutions][s2], [Histogram][h2] |
 | 11/14 | Rolle's theorem, mean-value theorem                     | 4.1           | **[HW 5](#hw-5) due**                                     |
-| 11/19 | Increasing and decreasing functions                     | 4.2           |                                                           |
-| 11/21 | Extreme values                                          | 4.3, 4.4      | **[HW 6](#hw-6) due**                                     |
-| 11/26 | Extreme values, max-min problems                        | 4.4, 4.5      |                                                           |
+| 11/19 | Increasing and decreasing functions, extreme values     | 4.2, 4.3      |                                                           |
+| 11/21 | Extreme values, max-min problems                        | 4.3, 4.4, 4.5 | **[HW 6](#hw-6) due**                                     |
+| 11/26 | Max-min problems, concavity, points of inflection       | 4.5, 4.6      |                                                           |
 | 11/28 | **Thanksgiving Vacation**                               |               |                                                           |
-| 12/03 | More max-min, catchup                                   | 4.5, 4.9 (?)  | **HW 7 due**                                              |
+| 12/03 | Velocity, acceleration, speed, and catchup              | 4.9           | **HW 7 due**                                              |
 | 12/05 | **Reading Period**                                      |               |                                                           |
 | 12/10 | **Final Examination**                                   |               |                                                           |
 
