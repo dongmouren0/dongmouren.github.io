@@ -55,7 +55,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 11/21 | Extreme values, max-min problems                        | 4.3, 4.4, 4.5 | **[HW 6](#hw-6) due**                                     |
 | 11/26 | Max-min problems, concavity, points of inflection       | 4.5, 4.6      |                                                           |
 | 11/28 | **Thanksgiving Vacation**                               |               |                                                           |
-| 12/03 | Velocity, acceleration, speed, and catchup              | 4.9           | **HW 7 due**                                              |
+| 12/03 | Velocity, acceleration, speed, and catchup              | 4.9           | **[HW 7](#hw-7) due**                                              |
 | 12/05 | **Reading Period**                                      |               |                                                           |
 | 12/10 | **Final Examination**                                   |               |                                                           |
 
@@ -127,6 +127,9 @@ Only the problems marked "turn in" are to be turned in.
 * **Read:** Theorem 4.1.2 and the proof, and Rolle's theorem and the proof.
 * **Turn in:** 3.7 (38, 42, 49, 50, 53), 4.1 (12, 15, 16, 24, 26), 4.2 (1, 12)
 * **Practice:** 4.1 (2, 3, 7, 28, 35), 4.2 (37--40)
+
+#### HW 7
+* **Turn in:** 4.3 (3, 12, 31, 35), 4.4 (26, 36, 41, 42, 48), 4.5 (4, 18, 24, 33), 4.6 (18, 40)
 
 ----
 ### Older announcements
