@@ -136,6 +136,12 @@ Only the problems marked "turn in" are to be turned in.
 These are problems from Chapter 4. For practice problems on the earlier material please refer to the practice problems for the midterm, and practice similar problems from the textbook or outside.
 
 * 4.1 (4, 8, 19, 29, 38)
+* 4.2 (2, 4, 20, 47--50)
+* 4.3 (6, 8, 33, 40, 43)
+* 4.4 (1, 2, 4, 24, 47)
+* 4.5 (5, 8, 21, 28, 38, 46, 49)
+* 4.6 (6, 10, 15)
+* 4.9 (11--20, 40, 53, 59)
 
 ----
 ### Older announcements
