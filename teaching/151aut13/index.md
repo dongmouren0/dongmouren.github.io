@@ -55,9 +55,9 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 11/21 | Extreme values, max-min problems                        | 4.3, 4.4, 4.5 | **[HW 6](#hw-6) due**                                     |
 | 11/26 | Max-min problems, concavity, points of inflection       | 4.5, 4.6      |                                                           |
 | 11/28 | **Thanksgiving Vacation**                               |               |                                                           |
-| 12/03 | Velocity, acceleration, speed, and catchup              | 4.9           | **[HW 7](#hw-7) due**                                              |
+| 12/03 | Velocity, acceleration, speed, and catchup              | 4.9           | **[HW 7](#hw-7) due**                                     |
 | 12/05 | **Reading Period**                                      |               |                                                           |
-| 12/10 | **Final Examination**                                   |               |                                                           |
+| 12/10 | **Final Examination**                                   |               | [Practice problems][pf]                                   |
 
 [p1]: #midterm-1-practice-problems
 [s1]: midterm1-solutions.pdf
@@ -65,6 +65,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 [p2]: #midterm-2-practice-problems
 [s2]: midterm2-solutions.pdf
 [h2]: Midterm2Graph.pdf
+[pf]: #final-exam-practice-problems
 
 </div>
 
@@ -130,6 +131,11 @@ Only the problems marked "turn in" are to be turned in.
 
 #### HW 7
 * **Turn in:** 4.3 (3, 12, 31, 35), 4.4 (26, 36, 41, 42, 48), 4.5 (4, 18, 24, 33), 4.6 (18, 40)
+
+#### Final Exam Practice Problems
+These are problems from Chapter 4. For practice problems on the earlier material please refer to the practice problems for the midterm, and practice similar problems from the textbook or outside.
+
+* 4.1 (4, 8, 19, 29, 38)
 
 ----
 ### Older announcements
