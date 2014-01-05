@@ -15,7 +15,7 @@ Office: Math/Stat 015
 
 ### Teaching
 
-During the Autumn 2013 quarter, I am teaching [Math 151](teaching/151aut13/). Older teaching activities are [here](teaching/).
+During the Winter 2014 quarter, I am teaching [Math 152](teaching/152win14/). Older teaching activities are [here](teaching/).
 
 ### Other
 
