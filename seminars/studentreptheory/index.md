@@ -5,9 +5,12 @@ title: Student Representation Theory Seminar
 
 # {{ page.title }}
 
+### Winter 2014
+TBD
+
+### Autumn 2013
 In the Autumn 2013 quarter, we meet on Mondays and Wednesdays at 2:30pm in Eck 312. On Wednesdays, we discuss D-modules. On Mondays we have expository student talks on various subjects.
 
-### Calendar for Autumn 2013
 <div class="classplan">
 
 | Date  | Speaker       | Topic                                                |

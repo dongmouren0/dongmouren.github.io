@@ -19,4 +19,4 @@ During the Winter 2014 quarter, I am teaching [Math 152](teaching/152win14/). Ol
 
 ### Other
 
-* [Student representation theory seminar](seminars/studentreptheory): MW 2:30pm in Eck 312
+* [Student representation theory seminar](seminars/studentreptheory): W 2:30pm in Eck 202 and Th 3pm in Eck 207.
