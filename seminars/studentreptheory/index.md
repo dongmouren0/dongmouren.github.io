@@ -6,6 +6,23 @@ title: Student Representation Theory Seminar
 # {{ page.title }}
 
 ### Winter 2014
+In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thursdays at 3pm in Eck 207. On Wednesdays we have graduate student talks. On Thursdays, we discuss the class _Symplectic Algebraic Geometry and Quantum Groups_, which is being taught by Victor Ginzburg.
+
+<div class="classplan">
+
+| Date  | Speaker        | Topic |
+| :---- | :--------      | :---  |
+| 01/22 | Sergei Sagatov | TBA   |
+| 01/29 | Sergei Sagatov | TBA   |
+| 02/05 |                |       |
+| 02/12 |                |       |
+| 02/19 |                |       |
+| 02/26 |                |       |
+| 03/05 |                |       |
+| 03/12 |                |       |
+
+</div>
+
 TBD
 
 ### Autumn 2013
