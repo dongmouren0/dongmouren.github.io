@@ -39,7 +39,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 01/14 | Definite integrals                                | 5.2             |                       |
 | 01/16 | Definite integrals, antiderivatives               | 5.2, 5.3        | **[HW 1](#hw-1) due** |
 | 01/21 | Antiderivatives, fundamental theorem of calculus  | 5.3, 5.4        |                       |
-| 01/23 | Fundamental theorem, some area calculations       | 5.4, 5.5        | **HW 2 due**          |
+| 01/23 | Fundamental theorem, some area calculations       | 5.4, 5.5        | **[HW 2](#hw-2) due**          |
 | 01/28 | Indefinite integrals, techniques of integration   | 5.6, 5.7        |                       |
 | 01/30 | **Midterm 1**                                     |                 |                       |
 | 02/04 | Techniques of integration, properties of integral | 5.7, 5.8        | **HW 3 due**          |
@@ -65,6 +65,9 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 * **Read:** Sections 4.7 and 4.8, and material from Math 151 as needed.
 * **Turn in:** 4.7 (2, 4, 19, 26), 4.8 (8, 9, 55), 4.10 (3, 14, 13, 16), 4.12 (2, 5, 7, 13; you may use a calculator)
 * **Practice:** 4.7 (1, 7, 43, 44), 4.10 (18, 22, 37)
+
+#### HW 2
+* **Turn in:** 5.2 (3, 6, 10, 12, 16, 25, 26), 5.3 (2, 4, 6, 7, 8, 17, 18, 20)
 
 ----
 ### Older announcements
