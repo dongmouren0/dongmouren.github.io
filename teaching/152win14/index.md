@@ -78,7 +78,7 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 * 5.2 (5, 7, 8, 11, 17, 18, 24), 5.3 (1, 3, 13, 22, 24), 5.4 (practice integrating lots of different expressions), 5.5 (practice computing lots of different areas)
 
 #### HW 3
-* **Turn in:** 5.4 (62), 5.5 (3, 28, 40), 5.6 (3, 8, 36, 50), 5.7 (6, 20, 31, 35, 68, 71, 78)
+* **Turn in:** 5.4 (62), 5.5 (3, 28, ~~40~~), 5.6 (3, 8, 36, 50), 5.7 (6, 20, 31, 35, 68, 71, 78)
 * **Practice:** 5.4 (7, 9, 11, 54), 5.7 (10, 23, 30, 67, 83)
 
 ----
