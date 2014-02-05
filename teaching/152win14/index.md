@@ -42,16 +42,16 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 01/23 | Fundamental theorem, some area calculations       | 5.4, 5.5        | **[HW 2](#hw-2) due**   |
 | 01/28 | Indefinite integrals, techniques of integration   | 5.6, 5.7        |                         |
 | 01/30 | **Midterm 1**                                     |                 | [Practice problems][p1] |
-| 02/04 | Techniques of integration, properties of integral | 5.7, 5.8        | **HW 3 due**            |
-| 02/06 | Mean-value theorems for the integral              | 5.9             | **HW 4 due**            |
+| 02/04 | Techniques of integration, properties of integral | 5.7, 5.8        |                         |
+| 02/06 | Mean-value theorems for the integral              | 5.9             | **[HW 3](#hw-3) due**   |
 | 02/11 | More area computations, volumes                   | 6.1, 6.2        |                         |
-| 02/13 | Volumes by cross-section and shells               | 6.2, 6.3        | **HW 5 due**            |
+| 02/13 | Volumes by cross-section and shells               | 6.2, 6.3        | **HW 4 due**            |
 | 02/18 | Pappus' theorem on volumes, one-one functions     | 6.4, 7.1        |                         |
 | 02/20 | **Midterm 2**                                     |                 |                         |
-| 02/25 | The logarithm function                            | 7.2, 7.3        | **HW 6 due**            |
-| 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **HW 7 due**            |
+| 02/25 | The logarithm function                            | 7.2, 7.3        |                         |
+| 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **HW 5 due**            |
 | 03/04 | The exponential function, arbitrary powers/bases  | 7.4, 7.5        |                         |
-| 03/06 | Arbitrary powers, exponential growth and decay    | 7.5, 7.6        | **HW 8 due**            |
+| 03/06 | Arbitrary powers, exponential growth and decay    | 7.5, 7.6        | **HW 6 due**            |
 | 03/11 | Exponential growth and decay, Recap               | 7.6             |                         |
 | 03/13 | **Reading Period**                                |                 |                         |
 | 03/18 | **Final Examination**                             |                 |                         |
@@ -76,6 +76,10 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 * Read all sections of the syllabus from the textbook and go over homework before you attempt the practice problems.
 * 4.7 (4, 6, 25, 27), 4.8 (11, 18, 33, 34, 56), 4.10 (1, 5, 10, 19, 28), 4.12 (13, 14, 15, 17)
 * 5.2 (5, 7, 8, 11, 17, 18, 24), 5.3 (1, 3, 13, 22, 24), 5.4 (practice integrating lots of different expressions), 5.5 (practice computing lots of different areas)
+
+#### HW 3
+* **Turn in:** 5.4 (62), 5.5 (3, 28, 40), 5.6 (3, 8, 36, 50), 5.7 (6, 20, 31, 35, 68, 71, 78)
+* **Practice:** 5.4 (7, 9, 11, 54), 5.7 (10, 23, 30, 67, 83)
 
 ----
 ### Older announcements

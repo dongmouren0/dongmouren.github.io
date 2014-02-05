@@ -27,6 +27,7 @@ $link-focus-faded: $violet;
 $header: $orange;
 $code: $green;
 $selection: $yellow;
+$selection-text: $bg-faded;
 
 
 
@@ -58,11 +59,11 @@ body {
     margin-right:auto;
     ::-moz-selection {
         background: $selection;
-        color: $bg-faded;
+        color: $selection-text;
     }
     ::selection {
         background: $selection;
-        color: $bg-faded;
+        color: $selection-text;
     }
 }
 
@@ -121,7 +122,7 @@ ul {
     }
 }
 
-@mixin faded-small {
+%faded-small {
     color: $fg-faded;
     font-size: 80%;
     border-color: $fg-faded;
@@ -132,14 +133,14 @@ ul {
 }
 
 .footer {
-    @include faded-small;
+    @extend %faded-small;
     border-top: 0.1em solid;
     margin-top:2em;
     padding-top:0.3em;
 }
 
 .navigation {
-    @include faded-small;
+    @extend %faded-small;
     text-align:right;
     border-bottom: 0.1em solid;
     padding:0em;
