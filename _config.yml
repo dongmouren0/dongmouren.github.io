@@ -1,6 +1,6 @@
 url: "http://localhost:4000"
 
-paginate: 10
+##paginate: 10
 
 markdown: pandoc
 pandoc:
