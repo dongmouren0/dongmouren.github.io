@@ -45,7 +45,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 02/04 | Techniques of integration, properties of integral | 5.7, 5.8        |                         |
 | 02/06 | Mean-value theorems for the integral              | 5.9             | **[HW 3](#hw-3) due**   |
 | 02/11 | More area computations, volumes                   | 6.1, 6.2        |                         |
-| 02/13 | Volumes by cross-section and shells               | 6.2, 6.3        | **HW 4 due**            |
+| 02/13 | Volumes by cross-section and shells               | 6.2, 6.3        | **[HW 4](#hw-4) due**   |
 | 02/18 | Pappus' theorem on volumes, one-one functions     | 6.4, 7.1        |                         |
 | 02/20 | **Midterm 2**                                     |                 |                         |
 | 02/25 | The logarithm function                            | 7.2, 7.3        |                         |
@@ -80,6 +80,10 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 #### HW 3
 * **Turn in:** 5.4 (62), 5.5 (3, 28, ~~40~~), 5.6 (3, 8, 36, 50), 5.7 (6, 20, 31, 35, 68, 71, 78)
 * **Practice:** 5.4 (7, 9, 11, 54), 5.7 (10, 23, 30, 67, 83)
+
+#### HW 4
+* **Turn in:** 5.8 (16, 17, 24, 28, 35, 36), 5.9 (2, 9, 14, 18, 22, 25), 6.1 (16, 20, 28)
+* **Practice:** 5.8 (7--15, 32), 5.9 (6, 13, 16, 26, 29), 6.1 (3, 7, 27, 29, 33)
 
 ----
 ### Older announcements
