@@ -47,7 +47,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 02/11 | More area computations, volumes                   | 6.1, 6.2        |                         |
 | 02/13 | Volumes by cross-section and shells               | 6.2, 6.3        | **[HW 4](#hw-4) due**   |
 | 02/18 | Pappus' theorem on volumes, one-one functions     | 6.4, 7.1        |                         |
-| 02/20 | **Midterm 2**                                     |                 |                         |
+| 02/20 | **Midterm 2**                                     |                 | [Practice problems][p2] |
 | 02/25 | The logarithm function                            | 7.2, 7.3        |                         |
 | 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **HW 5 due**            |
 | 03/04 | The exponential function, arbitrary powers/bases  | 7.4, 7.5        |                         |
@@ -57,6 +57,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 03/18 | **Final Examination**                             |                 |                         |
 
 [p1]: #midterm-1-practice-problems
+[p2]: #midterm-2-practice-problems
 
 </div>
 
