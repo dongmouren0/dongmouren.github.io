@@ -85,6 +85,11 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 * **Turn in:** 5.8 (16, 17, 24, 28, 35, 36), 5.9 (2, 9, 14, 18, 22, 25), 6.1 (16, 20, 28)
 * **Practice:** 5.8 (7--15, 32), 5.9 (6, 13, 16, 26, 29), 6.1 (3, 7, 27, 29, 33)
 
+#### Midterm 2 Practice Problems
+* Read all the sections from the textbook first.
+* 5.6 (15, 25, 27, 35, 40, 53), 5.7 (7, 38, 39, 56, 85), 5.8 (1--6, 19, 20, 32, 38), 5.9 (3, 8, 13, 19, 25, 31, 34)
+* 6.1 (2, 15, 21, 29, 37), 6.2 (9, 11, 27, 30, 33, 37, 42), 6.3 (1, 16, 24, 25, 33, 34)
+
 ----
 ### Older announcements
 {% for post in site.categories.152win14 offset: 3%}
