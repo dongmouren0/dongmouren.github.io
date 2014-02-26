@@ -10,20 +10,18 @@ In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thur
 
 <div class="classplan">
 
-| Date  | Speaker        | Topic                                    |
-| :---- | :--------      | :---                                     |
-| 01/22 | Sergei Sagatov | The basics of Geometric Invariant Theory |
-| 01/29 | Sergei Sagatov | The basics of Geometric Invariant Theory |
-| 02/05 |                |                                          |
-| 02/12 |                |                                          |
-| 02/19 |                |                                          |
-| 02/26 |                |                                          |
-| 03/05 |                |                                          |
-| 03/12 |                |                                          |
+| Date  | Speaker        | Topic                                           |
+| :---- | :--------      | :---                                            |
+| 01/22 | Sergei Sagatov | The basics of geometric invariant theory        |
+| 01/29 | Sergei Sagatov | The construction of projective quotients        |
+| 02/05 | Sergei Sagatov | The Hilbert-Mumford criterion for semistability |
+| 02/12 | Ana Balibanu   | Semistability for representations of quivers    |
+| 02/19 | Ana Balibanu   | Semistability for representations of quivers    |
+| 02/26 | Ana Balibanu   |                                                 |
+| 03/05 | Asilata Bapat  | TBA                                             |
+| 03/12 |                |                                                 |
 
 </div>
-
-TBD
 
 ### Autumn 2013
 In the Autumn 2013 quarter, we meet on Mondays and Wednesdays at 2:30pm in Eck 312. On Wednesdays, we discuss D-modules. On Mondays we have expository student talks on various subjects.

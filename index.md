@@ -3,15 +3,14 @@ layout: default
 ---
 
 # Asilata Bapat
+<img id="mypicture" src="images/asilata-bapat.jpg" alt="Asilata Bapat"/>
 
 Graduate student  
 [Department of Mathematics](http://math.uchicago.edu/)  
 University of Chicago
 
 Email: `asilata` at `math` dot `uchicago` dot `edu`  
-Office: Math/Stat 015  
-
-----
+Office: Math/Stat 015
 
 ### Teaching
 
