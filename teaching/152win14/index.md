@@ -49,7 +49,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 02/18 | Pappus' theorem on volumes, one-one functions     | 6.4, 7.1        |                         |
 | 02/20 | **Midterm 2**                                     |                 | [Practice problems][p2] |
 | 02/25 | The logarithm function                            | 7.2, 7.3        |                         |
-| 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **HW 5 due**            |
+| 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **[HW 5](#hw-5) due**   |
 | 03/04 | The exponential function, arbitrary powers/bases  | 7.4, 7.5        |                         |
 | 03/06 | Arbitrary powers, exponential growth and decay    | 7.5, 7.6        | **HW 6 due**            |
 | 03/11 | Exponential growth and decay, Recap               | 7.6             |                         |
@@ -89,7 +89,11 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 #### Midterm 2 Practice Problems
 * Read all the sections from the textbook first.
 * 5.6 (15, 25, 27, 35, 40, 53), 5.7 (7, 38, 39, 56, 85), 5.8 (1--6, 19, 20, 32, 38), 5.9 (3, 8, 13, 19, 25, 31, 34)
-* 6.1 (2, 15, 21, 29, 37), 6.2 (9, 11, 27, 30, 33, 37, 42), 6.3 (1, 16, 24, 25, 33, 34)
+* 6.1 (2,15, 21, 29, 37), 6.2 (9, 11, 27, 30, 33, 37, 42), 6.3 (1, 16, 24, 25, 33, 34)
+
+#### HW 5
+* **Read:** Section 6.4, 7.1 and 7.2 carefully.
+* **Turn in:** 6.2 (28, 39), 6.3 (37, 47), 6.4 (3, 8, 10, 13, 25, 27), 7.1 (1, 9, 28, 29, 35)
 
 ----
 ### Older announcements
