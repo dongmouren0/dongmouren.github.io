@@ -10,7 +10,7 @@ Graduate student
 University of Chicago
 
 Email: `asilata` at `math` dot `uchicago` dot `edu`  
-Office: Math/Stat 015
+Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Teaching
 
