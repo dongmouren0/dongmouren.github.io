@@ -51,7 +51,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 02/25 | The logarithm function                            | 7.2, 7.3        |                         |
 | 02/27 | Log, integrating secant, logarithmic derivatives  | 7.3             | **[HW 5](#hw-5) due**   |
 | 03/04 | The exponential function, arbitrary powers/bases  | 7.4, 7.5        |                         |
-| 03/06 | Arbitrary powers, exponential growth and decay    | 7.5, 7.6        | **HW 6 due**            |
+| 03/06 | Arbitrary powers, exponential growth and decay    | 7.5, 7.6        | **[HW 6](#hw-6) due**            |
 | 03/11 | Exponential growth and decay, Recap               | 7.6             |                         |
 | 03/13 | **Reading Period**                                |                 |                         |
 | 03/18 | **Final Examination**                             |                 |                         |
@@ -94,6 +94,10 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 #### HW 5
 * **Read:** Section 6.4, 7.1 and 7.2 carefully.
 * **Turn in:** 6.2 (28, 39), 6.3 (37, 47), 6.4 (3, 8, 10, 13, 25, 27), 7.1 (1, 9, 28, 29, 35)
+
+#### HW 6
+* **Turn in:** 7.2 (1, 13, 19, 20, 23), 7.3 (4, 10, 21, 31, 52, 58), 7.4 (10, 11, 40, 57)
+* **Practice:** 7.2 (2, 5, 15), 7.3 (5, 15, 20, 40, 49, 60), 7.4 (1, 8, 18, 25, 36, 37, 51, 53)
 
 ----
 ### Older announcements
