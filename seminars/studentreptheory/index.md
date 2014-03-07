@@ -17,9 +17,9 @@ In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thur
 | 02/05 | Sergei Sagatov | The Hilbert-Mumford criterion for semistability |
 | 02/12 | Ana Balibanu   | Semistability for representations of quivers    |
 | 02/19 | Ana Balibanu   | Semistability for representations of quivers    |
-| 02/26 | Ana Balibanu   |                                                 |
-| 03/05 | Asilata Bapat  | TBA                                             |
-| 03/12 |                |                                                 |
+| 02/26 | Ana Balibanu   | The Harder-Narasimhan filtration                |
+| 03/05 | Asilata Bapat  | Symplectic quotients                            |
+| 03/12 | Asilata Bapat  | TBA                                             |
 
 </div>
 
