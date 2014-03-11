@@ -7,7 +7,7 @@ pandoc:
   extensions:
     - smart
     - mathjax
-    - csl: 'assets/bibtex-modified.csl'
+    - csl: 'assets/bibtex.csl'
     - bibliography: 'assets/papers.bib'
 permalink: pretty
 
