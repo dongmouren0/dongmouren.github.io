@@ -52,7 +52,7 @@ $selection-text: $bg-faded;
 }
 
 body {
-    font-family: Helvetica, Arial, Sans-Serif;
+    font-family: 'Lato', Helvetica, Arial, Sans-Serif;
     background: $bg;
     color: $fg;
     margin-left:auto;
@@ -157,11 +157,14 @@ ul {
     float:right;
     clear:both;
     width:15em;
+    margin-bottom: 1%;
+    margin-left: 1%;
     @media screen and (min-width: 960px) {
         width: 20em;
     }
     @media screen and (max-width: 480px) {
         float: none;
         clear: none;
+        margin-left: 0;
     }
 }
