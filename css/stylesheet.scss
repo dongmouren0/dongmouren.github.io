@@ -29,7 +29,7 @@ $code: $green;
 $selection: $yellow;
 $selection-text: $bg-faded;
 
-
+@import 'fonts';
 
 @media screen and (max-width: 480px) {
     body {
@@ -52,7 +52,7 @@ $selection-text: $bg-faded;
 }
 
 body {
-    font-family: 'Lato', Helvetica, Arial, Sans-Serif;
+    font-family: $fontstack-regular;
     background: $bg;
     color: $fg;
     margin-left:auto;
