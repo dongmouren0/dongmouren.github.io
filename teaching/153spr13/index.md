@@ -94,7 +94,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Apr 23</td>
 <td>_Midterm 1_</td>
 <td></td>
-<td>[Solutions (PDF)](midterm1-solutions.pdf) and [Score Histogram (PDF)](Midterm1Graph.pdf)</td>
+<td>Solutions (removed) and [Score Histogram (PDF)](Midterm1Graph.pdf)</td>
 </tr>
 
 <tr>
@@ -185,7 +185,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 <td>Jun 06</td>
 <td>_Reading Period_</td>
 <td></td>
-<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam, [Solutions (PDF)](midterm2-solutions.pdf) for Midterm 2, [Solutions (PDF)](finalpsetsolutions.pdf) for final problem set, [Formula sheet (PDF)](finalformulasheet.pdf) for Final Exam</td>
+<td>[Review sheet (PDF)](finalreviewsheet.pdf) for Final Exam, Solutions for Midterm 2 (removed), [Solutions (PDF)](finalpsetsolutions.pdf) for final problem set, [Formula sheet (PDF)](finalformulasheet.pdf) for Final Exam</td>
 </tr>
 
 <tr>
