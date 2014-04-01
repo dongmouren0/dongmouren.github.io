@@ -5,6 +5,9 @@ title: Student Representation Theory Seminar
 
 # {{ page.title }}
 
+### Spring 2014
+TBD
+
 ### Winter 2014
 In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thursdays at 3pm in Eck 207. On Wednesdays we have graduate student talks. On Thursdays, we discuss the class _Symplectic Algebraic Geometry and Quantum Groups_, which is being taught by Victor Ginzburg.
 
@@ -19,7 +22,7 @@ In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thur
 | 02/19 | Ana Balibanu   | Semistability for representations of quivers    |
 | 02/26 | Ana Balibanu   | The Harder-Narasimhan filtration                |
 | 03/05 | Asilata Bapat  | Symplectic quotients                            |
-| 03/12 | Asilata Bapat  | TBA                                             |
+| 03/12 | Asilata Bapat  | Symplectic quotients                            |
 
 </div>
 
