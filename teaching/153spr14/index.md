@@ -16,13 +16,13 @@ Older announcements are [here](#older-announcements).
 ### Course information
 <div class="infotable">
 
-| ---------------:     | :----------------------------------------------------------- |
-| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108               |
-| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`) |
-| Office hours:        | TBD                                                          |
-| Problem session:     | TBD                                                          |
-| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                |
-| Mike's office hours: | TBD                                                          |
+| ---------------:     | :-----------------------------------------------------------                                                   |
+| Time/place:          | Tuesday/Thursday, 10:30am to 11:50am in SS 108                                                                 |
+| Instructor:          | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)                                                   |
+| Office hours:        | Mondays 12:30pm--1:30pm, Wednesdays 4pm--5pm and by appointment on Tuesdays 5pm--6pm or Fridays 4:30pm--5:30pm |
+| Problem session:     | Tuesdays 6pm--7pm in Eck 308                                                                                   |
+| VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                                  |
+| Mike's office hours: | TBD                                                                                                            |
 
 </div>
 
