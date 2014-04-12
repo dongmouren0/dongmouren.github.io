@@ -22,7 +22,7 @@ Older announcements are [here](#older-announcements).
 | Office hours:        | Mondays 12:30pm--1:30pm, Wednesdays 4pm--5pm and by appointment on Tuesdays 5pm--6pm or Fridays 4:30pm--5:30pm |
 | Problem session:     | Tuesdays 6pm--7pm in Eck 308                                                                                   |
 | VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                                  |
-| Mike's office hours: | TBD                                                                                                            |
+| Mike's office hours: | Tuesday 3pm--4pm in Stuart Cafe (or in the location announced over email)                                      |
 
 </div>
 
@@ -42,17 +42,17 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 04/15 | Some differential equations, catchup                    | 9.1, 9.2      |                         |
 | 04/17 | **Quiz 1**                                              |               | **[Formula sheet][f1]** |
 | 04/22 | The least-upper-bound principle, sequences, examples    | 11.1, 11.2    |                         |
-| 04/24 | The limit of a sequence, examples                       | 11.3          |                         |
+| 04/24 | The limit of a sequence, examples                       | 11.3          | HW 2 due                |
 | 04/29 | Some important limits                                   | 11.3, 11.4    |                         |
-| 05/01 | Indeterminate forms                                     | 11.5, 11.6    |                         |
+| 05/01 | Indeterminate forms                                     | 11.5, 11.6    | HW 3 due                |
 | 05/06 | **Quiz 2**                                              |               |                         |
 | 05/08 | Improper integrals                                      | 11.7          |                         |
-| 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    |                         |
+| 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    | HW 4 due                |
 | 05/15 | Convergence tests                                       | 12.3, 12.4    |                         |
-| 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    |                         |
+| 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    | HW 5 due                |
 | 05/22 | **Quiz 3**                                              |               |                         |
 | 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    |                         |
-| 05/29 | Taylor series and power series                          | 12.7, 12.8    |                         |
+| 05/29 | Taylor series and power series                          | 12.7, 12.8    | HW 6 due                |
 | 06/03 | Differentiation/integration of power series, catchup    | 12.9          |                         |
 | 06/05 | **Reading Period**                                      |               |                         |
 | 06/12 | **Final Examination**                                   |               |                         |
