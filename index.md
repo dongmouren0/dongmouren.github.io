@@ -23,5 +23,5 @@ During the Spring 2014 quarter, I am teaching [Math 153](teaching/153spr14/). Ol
 
 ### Other
 
-* [Student representation theory seminar](seminars/studentreptheory): Spring 2014 times TBD.
+* [Student representation theory seminar](seminars/studentreptheory): MF at 1:30pm in Eck 207.
 

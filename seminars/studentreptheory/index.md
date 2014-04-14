@@ -6,7 +6,31 @@ title: Student Representation Theory Seminar
 # {{ page.title }}
 
 ### Spring 2014
-TBD
+In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207. We are reading from the book _A Guide to Quantum Groups_ by V. Chari and A. Pressley. The talk schedule is as follows.
+
+<div class="classplan">
+| Date  | Speaker          |
+| :---  | :---             |
+| 04/11 | Sergei Sagatov   |
+| 04/14 | Sergei Sagatov   |
+| 04/18 | Benjamin Gammage |
+| 04/21 | Ana Balibanu     |
+| 04/25 | TBD              |
+| 04/28 | TBD              |
+| 05/02 | TBD              |
+| 05/05 | TBD              |
+| 05/09 | TBD              |
+| 05/12 | TBD              |
+| 05/16 | TBD              |
+| 05/19 | TBD              |
+| 05/23 | TBD              |
+| 05/26 | TBD              |
+| 05/30 | TBD              |
+| 06/02 | TBD              |
+| 06/06 | TBD              |
+
+
+</div>
 
 ### Winter 2014
 In the Winter 2014 quarter, we meet on Wednesdays at 2:30pm in Eck 202, and Thursdays at 3pm in Eck 207. On Wednesdays we have graduate student talks. On Thursdays, we discuss the class _Symplectic Algebraic Geometry and Quantum Groups_, which is being taught by Victor Ginzburg.
