@@ -42,7 +42,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 04/15 | Some differential equations, catchup                    | 9.1, 9.2      |                         |
 | 04/17 | **Quiz 1**                                              |               | **[Formula sheet][f1]** |
 | 04/22 | The least-upper-bound principle, sequences, examples    | 11.1, 11.2    |                         |
-| 04/24 | The limit of a sequence, examples                       | 11.3          | HW 2 due                |
+| 04/24 | The limit of a sequence, examples                       | 11.3          | **[HW 2](#hw-2) due**   |
 | 04/29 | Some important limits                                   | 11.3, 11.4    |                         |
 | 05/01 | Indeterminate forms                                     | 11.5, 11.6    | HW 3 due                |
 | 05/06 | **Quiz 2**                                              |               |                         |
@@ -68,6 +68,11 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 7.8 (4, 20, 26, 32, 52)
 * 8.2 (2, 12, 28, 38, 44)
 * 8.3 (5, 6, 27, 35)
+
+#### HW 2
+* 8.4 (33, 36, 44)
+* 8.5 (6, 7, 21, 24, 35, 45)
+* 9.1 (4, 9, 24, 29, 7, 14)
 
 ----
 ### Older announcements
