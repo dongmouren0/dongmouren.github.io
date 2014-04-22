@@ -15,9 +15,9 @@ In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207.
 | 04/14 | Sergei Sagatov   |
 | 04/18 | Benjamin Gammage |
 | 04/21 | Ana Balibanu     |
-| 04/25 | TBD              |
-| 04/28 | TBD              |
-| 05/02 | TBD              |
+| 04/25 | Robin Walters    |
+| 04/28 | Asilata Bapat    |
+| 05/02 | Robin Walters    |
 | 05/05 | TBD              |
 | 05/09 | TBD              |
 | 05/12 | TBD              |

@@ -22,7 +22,7 @@ Older announcements are [here](#older-announcements).
 | Office hours:        | Mondays 12:30pm--1:30pm, Wednesdays 4pm--5pm and by appointment on Tuesdays 5pm--6pm or Fridays 4:30pm--5:30pm |
 | Problem session:     | Tuesdays 6pm--7pm in Eck 308                                                                                   |
 | VCA:                 | Mike Fosco (`mfosco` at `uchicago` dot `edu`)                                                                  |
-| Mike's office hours: | Tuesday 3pm--4pm in Stuart Cafe (or in the location announced over email)                                      |
+| Mike's office hours: | Tuesday 3pm--4pm in Stuart Cafe                                                                                |
 
 </div>
 
