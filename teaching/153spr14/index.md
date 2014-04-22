@@ -72,7 +72,8 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 #### HW 2
 * 8.4 (33, 36, 44)
 * 8.5 (6, 7, 21, 24, 35, 45)
-* 9.1 (4, 9, 24, 29, 7, 14)
+* 9.1 (4, 9, 24, 29)
+* 9.2 (7, 14)
 
 ----
 ### Older announcements
