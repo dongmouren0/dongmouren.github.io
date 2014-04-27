@@ -44,7 +44,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 04/22 | The least-upper-bound principle, sequences, examples    | 11.1, 11.2    |                         |
 | 04/24 | The limit of a sequence, examples                       | 11.3          | **[HW 2](#hw-2) due**   |
 | 04/29 | Some important limits                                   | 11.3, 11.4    |                         |
-| 05/01 | Indeterminate forms                                     | 11.5, 11.6    | HW 3 due                |
+| 05/01 | Indeterminate forms                                     | 11.5, 11.6    | **[HW 3](#hw-3) due**   |
 | 05/06 | **Quiz 2**                                              |               |                         |
 | 05/08 | Improper integrals                                      | 11.7          |                         |
 | 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    | HW 4 due                |
@@ -75,6 +75,18 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 9.1 (4, 9, 24, 29)
 * 9.2 (7, 14)
 
+#### HW 3
+* **Turn in:**
+    * 9.2 (15, 20, 21)
+    * 11.1 (no justification needed: 3, 10)
+    * 11.2 (12, 22, 39)
+    * 11.3 (9, 28, 40)
+
+* **Practice only:** (Discuss these with other people if possible.)
+    * 9.2 (24, 28)
+    * 11.1 (25, 28)
+    * 11.2 (43)
+    
 ----
 ### Older announcements
 {% for post in site.categories.153spr14 offset: 3%}
