@@ -33,31 +33,32 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 <div class="classplan">
 
-| Date  | Topic                                                   | Section       | Homework/Documents      |
-| :---  | :---                                                    | :---          | :---                    |
-| 04/01 | Inverse trig functions, hyperbolic sine and cosine      | 7.7, 7.8      |                         |
-| 04/03 | Integration by parts, powers/products of trig functions | 8.2, 8.3      |                         |
-| 04/08 | Integration techniques, partial fractions               | 8.3, 8.4, 8.5 |                         |
-| 04/10 | Integration techniques, partial fractions               | 8.4, 8.5      | **[HW 1](#hw-1) due**   |
-| 04/15 | Some differential equations, catchup                    | 9.1, 9.2      |                         |
-| 04/17 | **Quiz 1**                                              |               | **[Formula sheet][f1]** |
-| 04/22 | The least-upper-bound principle, sequences, examples    | 11.1, 11.2    |                         |
-| 04/24 | The limit of a sequence, examples                       | 11.3          | **[HW 2](#hw-2) due**   |
-| 04/29 | Some important limits                                   | 11.3, 11.4    |                         |
-| 05/01 | Indeterminate forms                                     | 11.5, 11.6    | **[HW 3](#hw-3) due**   |
-| 05/06 | **Quiz 2**                                              |               |                         |
-| 05/08 | Improper integrals                                      | 11.7          |                         |
-| 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    | HW 4 due                |
-| 05/15 | Convergence tests                                       | 12.3, 12.4    |                         |
-| 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    | HW 5 due                |
-| 05/22 | **Quiz 3**                                              |               |                         |
-| 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    |                         |
-| 05/29 | Taylor series and power series                          | 12.7, 12.8    | HW 6 due                |
-| 06/03 | Differentiation/integration of power series, catchup    | 12.9          |                         |
-| 06/05 | **Reading Period**                                      |               |                         |
-| 06/12 | **Final Examination**                                   |               |                         |
+| Date  | Topic                                                   | Section       | Homework/Documents           |
+| :---  | :---                                                    | :---          | :---                         |
+| 04/01 | Inverse trig functions, hyperbolic sine and cosine      | 7.7, 7.8      |                              |
+| 04/03 | Integration by parts, powers/products of trig functions | 8.2, 8.3      |                              |
+| 04/08 | Integration techniques, partial fractions               | 8.3, 8.4, 8.5 |                              |
+| 04/10 | Integration techniques, partial fractions               | 8.4, 8.5      | **[HW 1](#hw-1) due**        |
+| 04/15 | Some differential equations, catchup                    | 9.1, 9.2      |                              |
+| 04/17 | **Quiz 1**                                              |               | **[Formula sheet][f1]**      |
+| 04/22 | The least-upper-bound principle, sequences, examples    | 11.1, 11.2    |                              |
+| 04/24 | The limit of a sequence, examples                       | 11.3          | **[HW 2](#hw-2) due**        |
+| 04/29 | Some important limits                                   | 11.3, 11.4    |                              |
+| 05/01 | Indeterminate forms                                     | 11.5, 11.6    | **[HW 3](#hw-3) due**        |
+| 05/06 | **Quiz 2**                                              |               | **[Practice problems][p2]** |
+| 05/08 | Improper integrals                                      | 11.7          |                              |
+| 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    | HW 4 due                     |
+| 05/15 | Convergence tests                                       | 12.3, 12.4    |                              |
+| 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    | HW 5 due                     |
+| 05/22 | **Quiz 3**                                              |               |                              |
+| 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    |                              |
+| 05/29 | Taylor series and power series                          | 12.7, 12.8    | HW 6 due                     |
+| 06/03 | Differentiation/integration of power series, catchup    | 12.9          |                              |
+| 06/05 | **Reading Period**                                      |               |                              |
+| 06/12 | **Final Examination**                                   |               |                              |
 
 [f1]: quiz1formulasheet.pdf
+[p2]: #quiz-2-practice-problems
 
 </div>
 
@@ -86,7 +87,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
     * 9.2 (24, 28)
     * 11.1 (25, 28)
     * 11.2 (43)
-    
+
+#### Quiz 2 Practice Problems
+* 8.5 (10, 18, 38)
+* 9.1 (19, 23, 37)
+* 9.2 (2, 19, 23)
+* 11.2 (28, 32, 41)
+* 11.3 (25, 30, 36, 47)
+
 ----
 ### Older announcements
 {% for post in site.categories.153spr14 offset: 3%}
