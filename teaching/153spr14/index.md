@@ -50,7 +50,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 05/13 | Infinite series: introduction and examples              | 12.1, 12.2    |                             |
 | 05/15 | Convergence tests                                       | 12.3, 12.4    | **[HW 4](#hw-4) due**       |
 | 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    |                             |
-| 05/22 | **Quiz 3**                                              |               |                             |
+| 05/22 | **Quiz 3**                                              |               | **[Practice problems][p3]** |
 | 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    | HW 5 due                    |
 | 05/29 | Taylor series and power series                          | 12.7, 12.8    |                             |
 | 06/03 | Differentiation/integration of power series, catchup    | 12.9          | HW 6 due                    |
@@ -59,6 +59,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 
 [f1]: quiz1formulasheet.pdf
 [p2]: #quiz-2-practice-problems
+[p3]: #quiz-3-practice-problems
 
 </div>
 
@@ -99,6 +100,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 11.5 (10, 20, 23, 46, 53)
 * 11.6 (3, 8, 13, 29, 34)
 * 11.7 (4, 11, 20, 25, 33)
+
+#### Quiz 3 Practice Problems
+* 11.4 (4, 6, 23, 26)
+* 11.5 (9, 34, 54, see HW 4)
+* 11.6 (1, 24, 37, 60, see HW 4)
+* 11.7 (15, 16, 31, 34, see HW 4)
+* 12.2 (3, 10, 23, 29)
+* 12.3 (1, 20, 31, 37, 47, 48)
 
 ----
 ### Older announcements
