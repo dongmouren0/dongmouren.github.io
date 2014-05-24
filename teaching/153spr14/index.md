@@ -51,7 +51,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 05/15 | Convergence tests                                       | 12.3, 12.4    | **[HW 4](#hw-4) due**       |
 | 05/20 | Convergence tests, conditional convergence              | 12.4, 12.5    |                             |
 | 05/22 | **Quiz 3**                                              |               | **[Practice problems][p3]** |
-| 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    | HW 5 due                    |
+| 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    | **[HW 5](#hw-5) due**       |
 | 05/29 | Taylor series and power series                          | 12.7, 12.8    |                             |
 | 06/03 | Differentiation/integration of power series, catchup    | 12.9          | HW 6 due                    |
 | 06/05 | **Reading Period**                                      |               |                             |
@@ -108,6 +108,11 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 11.7 (15, 16, 31, 34, see HW 4)
 * 12.2 (3, 10, 23, 29)
 * 12.3 (1, 20, 31, 37, 47, 48)
+
+#### HW 5
+* **Read:** Sections 12.3 and 12.4 carefully.
+* 12.3 (12, 19)
+* 12.4 (14, 21, 31)
 
 ----
 ### Older announcements

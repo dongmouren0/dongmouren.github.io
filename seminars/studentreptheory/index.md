@@ -6,28 +6,28 @@ title: Student Representation Theory Seminar
 # {{ page.title }}
 
 ### Spring 2014
-In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207. We are reading from the book _A Guide to Quantum Groups_ by V. Chari and A. Pressley. The talk schedule is as follows.
+In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207. We are (vaguely) reading from the book _A Guide to Quantum Groups_ by V. Chari and A. Pressley. The talk schedule is as follows.
 
 <div class="classplan">
-| Date  | Speaker          |
-| :---  | :---             |
-| 04/11 | Sergei Sagatov   |
-| 04/14 | Sergei Sagatov   |
-| 04/18 | Benjamin Gammage |
-| 04/21 | Ana Balibanu     |
-| 04/25 | Robin Walters    |
-| 04/28 | Asilata Bapat    |
-| 05/02 | Robin Walters    |
-| 05/05 | TBD              |
-| 05/09 | TBD              |
-| 05/12 | TBD              |
-| 05/16 | TBD              |
-| 05/19 | TBD              |
-| 05/23 | TBD              |
-| 05/26 | TBD              |
-| 05/30 | TBD              |
-| 06/02 | TBD              |
-| 06/06 | TBD              |
+| Date  | Speaker                  |
+| :---  | :---                     |
+| 04/11 | Sergei Sagatov           |
+| 04/14 | Sergei Sagatov           |
+| 04/18 | Benjamin Gammage         |
+| 04/21 | Ana Balibanu             |
+| 04/25 | Robin Walters            |
+| 04/28 | Asilata Bapat            |
+| 05/02 | Robin Walters            |
+| 05/05 | Cancelled                |
+| 05/09 | Cancelled                |
+| 05/12 | Discussion               |
+| 05/16 | Asilata Bapat            |
+| 05/19 | Asilata Bapat            |
+| 05/23 | Robin Walters            |
+| 05/26 | Cancelled (Memorial Day) |
+| 05/30 | Sergei Sagatov           |
+| 06/02 | Ana Balibanu             |
+| 06/06 | TBD                      |
 
 
 </div>
