@@ -53,7 +53,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 05/22 | **Quiz 3**                                              |               | **[Practice problems][p3]** |
 | 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    | **[HW 5](#hw-5) due**       |
 | 05/29 | Taylor series and power series                          | 12.7, 12.8    |                             |
-| 06/03 | Differentiation/integration of power series, catchup    | 12.9          | HW 6 due                    |
+| 06/03 | Differentiation/integration of power series, catchup    | 12.9          | **[HW 6](#hw-6) due**       |
 | 06/05 | **Reading Period**                                      |               |                             |
 | 06/12 | **Final Examination**                                   |               |                             |
 
@@ -113,6 +113,12 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * **Read:** Sections 12.3 and 12.4 carefully.
 * 12.3 (12, 19)
 * 12.4 (14, 21, 31)
+
+#### HW 6
+* 12.5 (16, 24)
+* 12.6 (6, 9)
+* 12.7 (1, 8, 25)
+* 12.8 (2, 14, 42)
 
 ----
 ### Older announcements
