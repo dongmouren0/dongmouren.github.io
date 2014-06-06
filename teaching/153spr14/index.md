@@ -54,12 +54,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 | 05/27 | Taylor polynomials and Taylor series                    | 12.6, 12.7    | **[HW 5](#hw-5) due**       |
 | 05/29 | Taylor series and power series                          | 12.7, 12.8    |                             |
 | 06/03 | Differentiation/integration of power series, catchup    | 12.9          | **[HW 6](#hw-6) due**       |
-| 06/05 | **Reading Period**                                      |               |                             |
-| 06/12 | **Final Examination**                                   |               |                             |
+| 06/05 | **Reading Period**                                      |               | **[Practice problems][pf]** |
+| 06/12 | **Final Examination**                                   |               | **[Formula sheet][ff]**     |
 
 [f1]: quiz1formulasheet.pdf
 [p2]: #quiz-2-practice-problems
 [p3]: #quiz-3-practice-problems
+[pf]: #final-exam-practice-problems
+[ff]: final-formulasheet.pdf
 
 </div>
 
@@ -119,6 +121,14 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 12.6 (6, 9)
 * 12.7 (1, 8, 25)
 * 12.8 (2, 14, 42)
+
+#### Final Exam Practice Problems
+* For earlier sections, refer to previous homeworks, quizzes and practice problems.
+* 12.5 (5, 27)
+* 12.6 (15, 36, 51)
+* 12.7 (1, 7, 10)
+* 12.8 (5, 11, 12, 20, 30)
+* 12.9 (1, 4, 7, 28). The main hint for these problems is that power series can be integrated or differentiated term-by-term in any open interval where they converge.
 
 ----
 ### Older announcements
