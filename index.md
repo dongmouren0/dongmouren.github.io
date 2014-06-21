@@ -14,7 +14,7 @@ Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Papers/Preprints
 
-* Torus actions and tensor products of intersection cohomology. [[arXiv:1309.0859](http://arxiv.org/abs/1309.0859)]
+* Torus actions and tensor products of intersection cohomology. _Submitted_. [[arXiv:1309.0859](http://arxiv.org/abs/1309.0859)]
 * Lower central series of free algebras in symmetric tensor categories (with David Jordan), _Journal of Algebra 373 (2013), 299--311_. [[arXiv:1001.1375](http://arxiv.org/abs/1001.1375)]
 
 ### Teaching
