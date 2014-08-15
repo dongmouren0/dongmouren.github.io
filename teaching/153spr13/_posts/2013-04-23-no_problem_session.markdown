@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 categories: ['153spr13']
 date: "2013-04-23 11:50:40 -0500"
 ---
