@@ -19,7 +19,7 @@ Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Teaching
 
-During Summer 2014, I am teaching Math 19620. Older teaching activities are [here](teaching/).
+During Autumn 2014, I am teaching [Math 112](teaching/112aut14/). Older teaching activities are [here](teaching/).
 
 ### Other
 

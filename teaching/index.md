@@ -5,8 +5,9 @@ title: Teaching
 
 # {{ page.title }}
 
-During Summer 2014, I am teaching Math 19620 (website available on [Chalk](http://chalk.uchicago.edu)). In the past, I have taught at the following places.
+During Autumn 2014, I am teaching [Math 112](112aut14/). In the past, I have taught at the following places.
 
+* **Summer 2014:** Math 196 (Linear Algebra). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Spring 2014:** Math 153 (Calculus 3). [Website](153spr14/).
 * **Winter 2014:** Math 152 (Calculus 2). [Website](152win14/).
 * **Autumn 2013:** Math 151 (Calculus 1). [Website](151aut13/).
