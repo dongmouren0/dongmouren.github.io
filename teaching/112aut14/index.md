@@ -69,5 +69,5 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. Exercise 1.9
 1. Can you completely cover a $5\times 5$ chessboard with non-overlapping $1\times 2$ dominoes? Explain why or why not.
 1. (Tutorial) Exercise 0.13
-1. (Tutorial) 1.11
+1. (Tutorial) Exercise 1.11
 
