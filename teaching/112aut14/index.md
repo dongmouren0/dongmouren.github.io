@@ -5,6 +5,14 @@ title: Math 112 (Autumn 2014)
 
 # {{ page.title }}
 
+### Recent announcements
+{% for post in site.categories.112aut14 limit: 3 %}
+* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html}}
+{% endfor %}
+Older announcements are [here](#older-announcements). Homeworks are [here](#homeworks).
+
+----
+
 ### Course information
 
 <div class="infotable">
@@ -71,3 +79,8 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. (Tutorial) Exercise 0.13
 1. (Tutorial) Exercise 1.11
 
+----
+### Older announcements
+{% for post in site.categories.112aut14 offset: 3%}
+* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
+{% endfor %}
