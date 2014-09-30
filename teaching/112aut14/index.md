@@ -7,7 +7,7 @@ title: Math 112 (Autumn 2014)
 
 ### Recent announcements
 {% for post in site.categories.112aut14 limit: 3 %}
-* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html}}
+* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>'}}
 {% endfor %}
 Older announcements are [here](#older-announcements). Homeworks are [here](#homeworks).
 
@@ -17,12 +17,13 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 
 <div class="infotable">
 
-| ------:       | :-----                                                       |
-| Time/place:   | MWF 11:30am to 12:20pm in HM 141                             |
-| Instructor:   | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`) |
-| Office hours: | TBA                                                          |
-| Tutorials:    | TBA                                                          |
-| Tutors:       | TBA                                                          |
+| ------:       | :-----                                                                  |
+| Time/place:   | MWF 11:30am to 12:20pm in Eck 203                                       |
+| Instructor:   | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)            |
+| Office:       | [Math-Stat 015](https://maps.uchicago.edu/?location=Math-Stat+Building) |
+| Office hours: | TBA                                                                     |
+| Tutorials:    | TBA                                                                     |
+| Tutors:       | Sasha Ayvazov and Victor Zhang                                          |
 
 </div>
 
@@ -31,39 +32,39 @@ The class plan is tentative and will be filled in as the quarter goes by.
 
 <div class="classplan">
 
-| Date  | Topic                 | Section | Homework/Documents    |
-| :---  | :---                  | :---    | :---                  |
-| 09/29 |                       |         |                       |
-| 10/01 |                       |         |                       |
-| 10/03 |                       |         | **[HW 1](#hw-1) due** |
-| 10/06 |                       |         |                       |
-| 10/08 |                       |         |                       |
-| 10/10 |                       |         |                       |
-| 10/13 |                       |         |                       |
-| 10/15 |                       |         |                       |
-| 10/17 |                       |         |                       |
-| 10/20 |                       |         |                       |
-| 10/22 |                       |         |                       |
-| 10/24 | **Midterm 1**         |         |                       |
-| 10/27 |                       |         |                       |
-| 10/29 |                       |         |                       |
-| 10/31 |                       |         |                       |
-| 11/03 |                       |         |                       |
-| 11/05 |                       |         |                       |
-| 11/07 |                       |         |                       |
-| 11/10 |                       |         |                       |
-| 11/12 |                       |         |                       |
-| 11/14 | **Midterm 2**         |         |                       |
-| 11/17 |                       |         |                       |
-| 11/19 |                       |         |                       |
-| 11/21 |                       |         |                       |
-| 11/24 |                       |         |                       |
-| 11/26 |                       |         |                       |
-| 11/28 |                       |         |                       |
-| 12/01 |                       |         |                       |
-| 12/03 |                       |         |                       |
-| 12/05 | **Reading Period**    |         |                       |
-| 12/08 | **Final Examination** |         |                       |
+| Date  | Topic                                   |  Section | Homework/Documents    |
+| :---  | :---                                    |     :--- | :---                  |
+| 09/29 | Introduction and the triangle game      |        0 |                       |
+| 10/01 | Triangle game, numbers, sets, functions |      1.1 |                       |
+| 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
+| 10/06 | Rules of arithmetic                     |      1.2 |                       |
+| 10/08 | Rules of arithmetic                     | 1.2, 1.3 |                       |
+| 10/10 | One's digit arithmetic                  |      1.4 |                       |
+| 10/13 |                                         |          |                       |
+| 10/15 |                                         |          |                       |
+| 10/17 |                                         |          |                       |
+| 10/20 |                                         |          |                       |
+| 10/22 |                                         |          |                       |
+| 10/24 | **Midterm 1**                           |          |                       |
+| 10/27 |                                         |          |                       |
+| 10/29 |                                         |          |                       |
+| 10/31 |                                         |          |                       |
+| 11/03 |                                         |          |                       |
+| 11/05 |                                         |          |                       |
+| 11/07 |                                         |          |                       |
+| 11/10 |                                         |          |                       |
+| 11/12 |                                         |          |                       |
+| 11/14 | **Midterm 2**                           |          |                       |
+| 11/17 |                                         |          |                       |
+| 11/19 |                                         |          |                       |
+| 11/21 |                                         |          |                       |
+| 11/24 |                                         |          |                       |
+| 11/26 |                                         |          |                       |
+| 11/28 |                                         |          |                       |
+| 12/01 |                                         |          |                       |
+| 12/03 |                                         |          |                       |
+| 12/05 | **Reading Period**                      |          |                       |
+| 12/08 | **Final Examination**                   |          |                       |
 
 </div>
 
@@ -82,5 +83,5 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 ----
 ### Older announcements
 {% for post in site.categories.112aut14 offset: 3%}
-* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
+* **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
