@@ -23,7 +23,7 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 | Office:       | [Math-Stat 015](https://maps.uchicago.edu/?location=Math-Stat+Building) |
 | Office hours: | TBA                                                                     |
 | Tutorials:    | TBA                                                                     |
-| Tutors:       | Sasha Ayvazov and Victor Zhang                                          |
+| Tutors:       | Sasha Ayvazov, Abigail Shearrow, and Victor Zhang                       |
 
 </div>
 
