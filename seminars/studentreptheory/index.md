@@ -5,6 +5,9 @@ title: Student Representation Theory Seminar
 
 # {{ page.title }}
 
+### Autumn 2014
+This quarter's seminar is organized by Ana Balibanu and Sergei Sagatov. We meet on Thursdays at 3pm in the Barn. The topic is Character Sheaves.
+
 ### Spring 2014
 In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207. We are (vaguely) reading from the book _A Guide to Quantum Groups_ by V. Chari and A. Pressley. The talk schedule is as follows.
 
