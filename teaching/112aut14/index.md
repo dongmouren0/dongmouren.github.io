@@ -60,7 +60,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/21 |                                         |          |                       |
 | 11/24 |                                         |          |                       |
 | 11/26 |                                         |          |                       |
-| 11/28 |                                         |          |                       |
+| 11/28 | **Thanksgiving vacation**               |          |                       |
 | 12/01 |                                         |          |                       |
 | 12/03 |                                         |          |                       |
 | 12/05 | **Reading Period**                      |          |                       |
