@@ -17,13 +17,14 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 
 <div class="infotable">
 
-| ------:       | :-----                                                                  |
-| Time/place:   | MWF 11:30am to 12:20pm in Eck 203                                       |
-| Instructor:   | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)            |
-| Office:       | [Math-Stat 015](https://maps.uchicago.edu/?location=Math-Stat+Building) |
-| Office hours: | TBA                                                                     |
-| Tutorials:    | TBA                                                                     |
-| Tutors:       | Sasha Ayvazov, Abigail Shearrow, and Victor Zhang                       |
+| ------:             | :-----                                                                  |
+| Time/place:         | MWF 11:30am to 12:20pm in Eck 203                                       |
+| Instructor:         | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)            |
+| Office:             | [Math-Stat 015](https://maps.uchicago.edu/?location=Math-Stat+Building) |
+| Office hours:       | TBA                                                                     |
+| Abigail's tutorial: | TR 12:00pm to 1:20pm in HGS 108 (`ashearrow` at `uchicago` dot `edu`)   |
+| Victor's tutorial:  | TR 3:00pm to 4:20pm in E 207 (`zhangvict` at `uchicago` dot `edu`)      |
+| Sasha's tutorial:   | TR 4:30pm to 5:50pm in C 203 (`sayvazov` at `uchicago` dot `edu`)       |
 
 </div>
 
