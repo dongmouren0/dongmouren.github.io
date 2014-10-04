@@ -39,7 +39,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
 | 10/06 | Rules of arithmetic                     |      1.2 |                       |
 | 10/08 | Rules of arithmetic                     | 1.2, 1.3 |                       |
-| 10/10 | One's digit arithmetic                  |      1.4 |                       |
+| 10/10 | One's digit arithmetic                  |      1.4 | **[HW 2](#hw-2) due** |
 | 10/13 |                                         |          |                       |
 | 10/15 |                                         |          |                       |
 | 10/17 |                                         |          |                       |
@@ -79,6 +79,26 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. Can you completely cover a $5\times 5$ chessboard with non-overlapping $1\times 2$ dominoes? Explain why or why not.
 1. (Tutorial) Exercise 0.13
 1. (Tutorial) Exercise 1.11
+
+#### HW 2
+1. 1.12
+1. 1.15
+1. 1.20
+1. 1.25
+1. 1.28
+1. The numbers 1 through 10 are written in a row. The game is to try and place either $+$ or $-$ signs between consecutive numbers so that the resulting sum is zero. Can you win? (Hint: Use the ideas of Section 1.3)
+1. Read section 1.4 on one's digit arithmetic, and answer the following.
+    1. What are the square numbers in one's digit arithmetic?
+    1. Which of the above numbers have two different square-roots?
+1. Solve the following puzzle, such that each letter stands for a different digit between 0 and 9.  
+<pre>
+  FORTY
+    +   TEN
+    +   TEN
+    -------
+    = SIXTY
+    </pre>
+1. (Tutorial) Consider the set $\{e, a, b\}$. Come up with an abelian group structure on this set such that $e$ is the identity element, and write out the addition table. Is there more than one possible structure? How about on the set $\{e, a, b, c\}$?
 
 ----
 ### Older announcements
