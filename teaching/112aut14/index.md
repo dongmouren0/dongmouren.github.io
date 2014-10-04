@@ -38,9 +38,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 09/29 | Introduction and the triangle game      |        0 |                       |
 | 10/01 | Triangle game, numbers, sets, functions |      1.1 |                       |
 | 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
-| 10/06 | Rules of arithmetic                     |      1.2 |                       |
-| 10/08 | Rules of arithmetic                     | 1.2, 1.3 |                       |
-| 10/10 | One's digit arithmetic                  |      1.4 | **[HW 2](#hw-2) due** |
+| 10/06 | Rules of arithmetic                     | 1.2, 1.3 |                       |
+| 10/08 | One's digit arithmetic                  |      1.4 |                       |
+| 10/10 |                                         |          | **[HW 2](#hw-2) due** |
 | 10/13 |                                         |          |                       |
 | 10/15 |                                         |          |                       |
 | 10/17 |                                         |          |                       |
