@@ -26,6 +26,7 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 | Sasha's tutorial:   | TR 4:30pm to 5:50pm in C 203 (`sayvazov` at `uchicago` dot `edu`)     |
 
 [ms]: https://maps.uchicago.edu/?location=Math-Stat+Building
+
 </div>
 
 ### Syllabus
