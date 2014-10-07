@@ -23,5 +23,5 @@ During Autumn 2014, I am teaching [Math 112](teaching/112aut14/). Older teaching
 
 ### Other
 
-* [Student representation theory seminar](seminars/studentreptheory): Thursdays at 3pm in the Barn.
+* [Student representation theory seminar](seminars/studentreptheory): Thursdays at 3pm in the Barn (Ry 352).
 
