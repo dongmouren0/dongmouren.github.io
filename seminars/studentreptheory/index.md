@@ -8,6 +8,12 @@ title: Student Representation Theory Seminar
 ### Autumn 2014
 This quarter's seminar is organized by Ana Balibanu and Sergei Sagatov. We meet on Thursdays at 3pm in the Barn (Ry 352). The topic is Character Sheaves.
 
+We will loosely follow these references:
+
+* Williamson's notes on a course by Ostrik ([pdf](http://people.mpim-bonn.mpg.de/geordie/Ostrik.pdf)),
+* McGerty's notes ([pdf](https://documents.epfl.ch/users/j/jt/jtaylor/www/charsheaves/PDF/mcgerty.pdf)), and
+* _Character Sheaves_ by Mars and Springer, Astérisque 173-174 (1989).
+
 <div class="classplan">
 | Date  | Speaker       | Topic                             |
 | :--   | :---          | :---                              |
