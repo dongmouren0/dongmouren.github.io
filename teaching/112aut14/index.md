@@ -41,10 +41,10 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
 | 10/06 | Rules of arithmetic                     | 1.2, 1.3 |                       |
 | 10/08 | One's digit arithmetic                  |      1.4 |                       |
-| 10/10 |                                         |          | **[HW 2](#hw-2) due** |
-| 10/13 |                                         |          |                       |
+| 10/10 | Axioms in number theory                 | 2.1, 2.2 | **[HW 2](#hw-2) due** |
+| 10/13 | Axioms in number theory                 |      2.2 |                       |
 | 10/15 |                                         |          |                       |
-| 10/17 |                                         |          |                       |
+| 10/17 |                                         |          | **[HW 3](#hw-3) due** |
 | 10/20 |                                         |          |                       |
 | 10/22 |                                         |          |                       |
 | 10/24 | **Midterm 1**                           |          |                       |
@@ -101,6 +101,15 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
     = SIXTY
     </pre>
 1. (Tutorial) Consider the set $\{e, a, b\}$. Come up with an abelian group structure on this set such that $e$ is the identity element, and write out the addition table. Is there more than one possible structure? How about on the set $\{e, a, b, c\}$?
+
+#### HW 3
+1. Exercise 2.1
+1. Exercise 2.7
+1. Exercise 2.9
+1. Exercise 2.15
+1. Exercise 2.16 (See 2.15 for the definition of the dictionary order.)
+1. Exercise 2.18
+1. What is the last digit of the number $3^{2014}$?
 
 ----
 ### Older announcements
