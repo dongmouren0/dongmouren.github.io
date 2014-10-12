@@ -20,7 +20,7 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 | ------:             | :-----                                                                |
 | Time/place:         | MWF 11:30am to 12:20pm in Eck 203                                     |
 | Instructor:         | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`)          |
-| Office hours:       | M 4:30pm to 5:30pm, W 1:30pm to 2:30pm in [Math-Stat 015][ms]         |
+| Office hours:       | M 1:30pm to 2:30pm, W 4:30pm to 5:30pm in [Math-Stat 015][ms]         |
 | Abigail's tutorial: | TR 12:00pm to 1:20pm in HGS 108 (`ashearrow` at `uchicago` dot `edu`) |
 | Victor's tutorial:  | TR 3:00pm to 4:20pm in E 207 (`zhangvict` at `uchicago` dot `edu`)    |
 | Sasha's tutorial:   | TR 4:30pm to 5:50pm in C 203 (`sayvazov` at `uchicago` dot `edu`)     |
@@ -41,10 +41,10 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
 | 10/06 | Rules of arithmetic                     | 1.2, 1.3 |                       |
 | 10/08 | One's digit arithmetic                  |      1.4 |                       |
-| 10/10 | Axioms in number theory                 | 2.1, 2.2 | **[HW 2](#hw-2) due** |
-| 10/13 | Axioms in number theory                 |      2.2 |                       |
-| 10/15 |                                         |          |                       |
-| 10/17 |                                         |          | **[HW 3](#hw-3) due** |
+| 10/10 | Axioms in number theory                 |      2.1 | **[HW 2](#hw-2) due** |
+| 10/13 | Axioms in number theory                 | 2.1, 2.2 |                       |
+| 10/15 | Inequalities and order                  |      2.2 |                       |
+| 10/17 | Divisibility                            |      3.1 | **[HW 3](#hw-3) due** |
 | 10/20 |                                         |          |                       |
 | 10/22 |                                         |          |                       |
 | 10/24 | **Midterm 1**                           |          |                       |
@@ -109,7 +109,9 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. Exercise 2.15
 1. Exercise 2.16 (See 2.15 for the definition of the dictionary order.)
 1. Exercise 2.18
-1. What is the last digit of the number $3^{2014}$?
+1. What is the last digit of the number $3^{2014}$? (Challenge: What are the last *two* digits of the number $3^{2014}$?)
+1. (Tutorial) Practice Problem 2.5
+1. (Tutorial) Exercise 2.3
 
 ----
 ### Older announcements
