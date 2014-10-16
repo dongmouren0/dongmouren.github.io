@@ -113,6 +113,11 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. (Tutorial) Practice Problem 2.5
 1. (Tutorial) Exercise 2.3
 
+#### HW 4
+1. Consider again the arithmetic on the set $\{0,1\}$ that we defined earlier ("even-odd arithmetic").
+    1. Is it possible to define an order on this set that satisfies the axioms O1, O2, O3, and O4? If yes, how many different possibilities are there? If not, you must prove that it is not possible.
+    1. Is it possible to define an order on this set that satisfies the axioms O1 and O2? If yes, how many different possibilities are there? If not, you must prove that it is not possible.
+
 ----
 ### Older announcements
 {% for post in site.categories.112aut14 offset: 3%}
