@@ -113,6 +113,9 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. (Tutorial) Practice Problem 2.5
 1. (Tutorial) Exercise 2.3
 
+#### HW 4
+In this homework, you will read a number of "light" articles on or related to mathematics. The readings will be up on the Chalk page under Assignments folder.
+
 ----
 ### Older announcements
 {% for post in site.categories.112aut14 offset: 3%}
