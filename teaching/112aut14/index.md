@@ -44,8 +44,8 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/10 | Axioms in number theory                 |      2.1 | **[HW 2](#hw-2) due** |
 | 10/13 | Axioms in number theory                 | 2.1, 2.2 |                       |
 | 10/15 | Inequalities and order                  |      2.2 |                       |
-| 10/17 | Divisibility                            |      3.1 | **[HW 3](#hw-3) due** |
-| 10/20 |                                         |          |                       |
+| 10/17 | Inequalities and order                  |      2.2 | **[HW 3](#hw-3) due** |
+| 10/20 | Divisibility                            |      3.1 |                       |
 | 10/22 |                                         |          |                       |
 | 10/24 | **Midterm 1**                           |          |                       |
 | 10/27 |                                         |          |                       |
