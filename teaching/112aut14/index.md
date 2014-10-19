@@ -47,7 +47,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/17 | Inequalities and order                  |      2.2 | **[HW 3](#hw-3) due** |
 | 10/20 | Divisibility                            |      3.1 |                       |
 | 10/22 |                                         |          |                       |
-| 10/24 | **Midterm 1**                           |          |                       |
+| 10/24 | **Midterm 1**                           |          | **[HW 4](#hw-4) due** |
 | 10/27 |                                         |          |                       |
 | 10/29 |                                         |          |                       |
 | 10/31 |                                         |          |                       |
@@ -114,7 +114,7 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 1. (Tutorial) Exercise 2.3
 
 #### HW 4
-In this homework, you will read a number of "light" articles on or related to mathematics. The readings will be up on the Chalk page under Assignments folder.
+In this homework, you will read some "light" articles related to mathematics. The readings are up on the Chalk page under Assignments folder. Each reading assignment has an associated short writing assignment, also up on Chalk.
 
 ----
 ### Older announcements
