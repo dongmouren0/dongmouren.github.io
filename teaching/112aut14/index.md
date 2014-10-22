@@ -46,7 +46,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/15 | Inequalities and order                  |      2.2 |                       |
 | 10/17 | Inequalities and order                  |      2.2 | **[HW 3](#hw-3) due** |
 | 10/20 | Divisibility                            |      3.1 |                       |
-| 10/22 |                                         |          |                       |
+| 10/22 | Divisibility and GCD                    | 3.1, 3.2 |                       |
 | 10/24 | **Midterm 1**                           |          | **[HW 4](#hw-4) due** |
 | 10/27 |                                         |          |                       |
 | 10/29 |                                         |          |                       |
@@ -115,6 +115,14 @@ Problems marked as "Tutorial" will typically be discussed in tutorial, and are n
 
 #### HW 4
 In this homework, you will read some "light" articles related to mathematics. The readings are up on the Chalk page under Assignments folder. Each reading assignment has an associated short writing assignment, also up on Chalk.
+
+#### Midterm 1 Review
+1. Review the triangle game, especially all practice problems. Review the cross game from the homework. What are the symmetries in each case? What is the reasoning for coming up with the solutions?
+1. Read and remember all the axioms of addition, multiplication, and ordering.
+1. What is the additive inverse of $1$ in $\mathbb{Z}$? In even-odd arithmetic? In one's digit arithmetic?
+1. What is the multiplicative inverse of $1$ in each of the above systems? (Does it always exist?) Which elements have multiplicative inverses in each of the above systems?
+1. Review the proofs of the theorems from the book, such as $0\cdot a = 0$, etc. What axioms do we use in each case?
+1. Think about whether it is possible to give an order on the set $\{0, 1\}$, such that the four axioms O1, O2, O3, O4 hold for even/odd arithmetic. If yes, what are the possiblities? If not, why not?
 
 ----
 ### Older announcements
