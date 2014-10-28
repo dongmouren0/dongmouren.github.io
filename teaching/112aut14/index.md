@@ -46,12 +46,12 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/15 | Inequalities and order                  |      2.2 |                       |
 | 10/17 | Inequalities and order                  |      2.2 | **[HW 3](#hw-3) due** |
 | 10/20 | Divisibility                            |      3.1 |                       |
-| 10/22 | Divisibility and GCD                    | 3.1, 3.2 |                       |
+| 10/22 | Divisibility and Primes                 | 3.1, 3.2 |                       |
 | 10/24 | **Midterm 1**                           |          | **[HW 4](#hw-4) due** |
-| 10/27 |                                         |          |                       |
-| 10/29 |                                         |          |                       |
-| 10/31 |                                         |          |                       |
-| 11/03 |                                         |          |                       |
+| 10/27 | Divisibility and Primes                 | 3.2, 3.3 |                       |
+| 10/29 | Primes, Division Algorithm              | 3.2, 4.1 |                       |
+| 10/31 | Division and Euclidean Algorithms       | 4.1, 4.2 | **[HW 5](#hw-5) due** |
+| 11/03 | The fundamental theorem of arithmetic   |      4.3 |                       |
 | 11/05 |                                         |          |                       |
 | 11/07 |                                         |          |                       |
 | 11/10 |                                         |          |                       |
@@ -123,6 +123,15 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. What is the multiplicative inverse of $1$ in each of the above systems? (Does it always exist?) Which elements have multiplicative inverses in each of the above systems?
 1. Review the proofs of the theorems from the book, such as $0\cdot a = 0$, etc. What axioms do we use in each case?
 1. Think about whether it is possible to give an order on the set $\{0, 1\}$, such that the four axioms O1, O2, O3, O4 hold for even/odd arithmetic. If yes, what are the possiblities? If not, why not?
+
+#### HW 5
+1. 3.1
+1. 3.7 (a, c, h, j)
+1. 3.9
+1. 3.12
+1. 3.13
+1. Show that if $x$ and $y$ are integers, and the number $(15x + 2y)$ is divisible by $11$, then the number $(4x + 13y)$ must also divisible by 11.
+
 
 ----
 ### Older announcements
