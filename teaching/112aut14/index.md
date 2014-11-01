@@ -27,6 +27,8 @@ Older announcements are [here](#older-announcements). Homeworks are [here](#home
 
 [ms]: https://maps.uchicago.edu/?location=Math-Stat+Building
 
+
+Please also read the [Course Information Sheet](courseinfosheet.pdf) carefully.
 </div>
 
 ### Syllabus
@@ -64,7 +66,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/26 |                                         |          |                       |
 | 11/28 | **Thanksgiving vacation**               |          |                       |
 | 12/01 |                                         |          |                       |
-| 12/03 |                                         |          |                       |
+| 12/03 |                                         |          | **Project due**       |
 | 12/05 | **Reading Period**                      |          |                       |
 | 12/08 | **Final Examination**                   |          |                       |
 
