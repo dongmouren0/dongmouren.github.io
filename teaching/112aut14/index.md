@@ -55,7 +55,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/31 | Division and Euclidean Algorithms       | 4.1, 4.2 | **[HW 5](#hw-5) due** |
 | 11/03 | The fundamental theorem of arithmetic   |      4.3 |                       |
 | 11/05 |                                         |          |                       |
-| 11/07 |                                         |          |                       |
+| 11/07 |                                         |          | **[HW 6](#hw-6) due** |
 | 11/10 |                                         |          |                       |
 | 11/12 |                                         |          |                       |
 | 11/14 | **Midterm 2**                           |          |                       |
@@ -127,13 +127,21 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. Think about whether it is possible to give an order on the set $\{0, 1\}$, such that the four axioms O1, O2, O3, O4 hold for even/odd arithmetic. If yes, what are the possiblities? If not, why not?
 
 #### HW 5
-1. 3.1
-1. 3.7 (a, c, h, j)
-1. 3.9
-1. 3.12
-1. 3.13
+1. Exercise 3.1
+1. Exercise 3.7 (a, c, h, j)
+1. Exercise 3.9
+1. Exercise 3.12
+1. Exercise 3.13
 1. Show that if $x$ and $y$ are integers, and the number $(15x + 2y)$ is divisible by $11$, then the number $(4x + 13y)$ must also divisible by 11.
 
+#### HW 6
+1. Exercise 3.15 (You don't have to write up the "Think about..." part of this problem, but do think about it!)
+1. Exercise 4.3 (b, e)
+1. Exercise 4.6
+1. Exercise 4.10 (Read through Exercise 4.9 first. You don't need to write up the "Then, explain how..." part of this problem, but do think about it!)
+1. Exercise 4.14
+1. Exercise 4.17
+1. Exercise 4.21 (Hint: use Theorem 4.7)
 
 ----
 ### Older announcements
