@@ -36,39 +36,39 @@ The class plan is tentative and will be filled in as the quarter goes by.
 
 <div class="classplan">
 
-| Date  | Topic                                   |  Section | Homework/Documents    |
-| :---  | :---                                    |     :--- | :---                  |
-| 09/29 | Introduction and the triangle game      |        0 |                       |
-| 10/01 | Triangle game, numbers, sets, functions |      1.1 |                       |
-| 10/03 | Numbers, sets, functions                |      1.1 | **[HW 1](#hw-1) due** |
-| 10/06 | Rules of arithmetic                     | 1.2, 1.3 |                       |
-| 10/08 | One's digit arithmetic                  |      1.4 |                       |
-| 10/10 | Axioms in number theory                 |      2.1 | **[HW 2](#hw-2) due** |
-| 10/13 | Axioms in number theory                 | 2.1, 2.2 |                       |
-| 10/15 | Inequalities and order                  |      2.2 |                       |
-| 10/17 | Inequalities and order                  |      2.2 | **[HW 3](#hw-3) due** |
-| 10/20 | Divisibility                            |      3.1 |                       |
-| 10/22 | Divisibility and Primes                 | 3.1, 3.2 |                       |
-| 10/24 | **Midterm 1**                           |          | **[HW 4](#hw-4) due** |
-| 10/27 | Divisibility and Primes                 | 3.2, 3.3 |                       |
-| 10/29 | Primes, Division Algorithm              | 3.2, 4.1 |                       |
-| 10/31 | Division and Euclidean Algorithms       | 4.1, 4.2 | **[HW 5](#hw-5) due** |
-| 11/03 | The fundamental theorem of arithmetic   |      4.3 |                       |
-| 11/05 |                                         |          |                       |
-| 11/07 |                                         |          | **[HW 6](#hw-6) due** |
-| 11/10 |                                         |          |                       |
-| 11/12 |                                         |          |                       |
-| 11/14 | **Midterm 2**                           |          |                       |
-| 11/17 |                                         |          |                       |
-| 11/19 |                                         |          |                       |
-| 11/21 |                                         |          |                       |
-| 11/24 |                                         |          |                       |
-| 11/26 |                                         |          |                       |
-| 11/28 | **Thanksgiving vacation**               |          |                       |
-| 12/01 |                                         |          |                       |
-| 12/03 |                                         |          | **Project due**       |
-| 12/05 | **Reading Period**                      |          |                       |
-| 12/08 | **Final Examination**                   |          |                       |
+| Date  | Topic                                                    |  Section | Homework/Documents    |
+| :---  | :---                                                     |     :--- | :---                  |
+| 09/29 | Introduction and the triangle game                       |        0 |                       |
+| 10/01 | Triangle game, numbers, sets, functions                  |      1.1 |                       |
+| 10/03 | Numbers, sets, functions                                 |      1.1 | **[HW 1](#hw-1) due** |
+| 10/06 | Rules of arithmetic                                      | 1.2, 1.3 |                       |
+| 10/08 | One's digit arithmetic                                   |      1.4 |                       |
+| 10/10 | Axioms in number theory                                  |      2.1 | **[HW 2](#hw-2) due** |
+| 10/13 | Axioms in number theory                                  | 2.1, 2.2 |                       |
+| 10/15 | Inequalities and order                                   |      2.2 |                       |
+| 10/17 | Inequalities and order                                   |      2.2 | **[HW 3](#hw-3) due** |
+| 10/20 | Divisibility                                             |      3.1 |                       |
+| 10/22 | Divisibility and Primes                                  | 3.1, 3.2 |                       |
+| 10/24 | **Midterm 1**                                            |          | **[HW 4](#hw-4) due** |
+| 10/27 | Divisibility and Primes                                  | 3.2, 3.3 |                       |
+| 10/29 | Primes, Division Algorithm                               | 3.2, 4.1 |                       |
+| 10/31 | Division and Euclidean Algorithms                        | 4.1, 4.2 | **[HW 5](#hw-5) due** |
+| 11/03 | The fundamental theorem of arithmetic                    |      4.3 |                       |
+| 11/05 | The fundamental theorem of arithmetic, Fibonacci numbers | 4.3, 5.1 |                       |
+| 11/07 |                                                          |          | **[HW 6](#hw-6) due** |
+| 11/10 |                                                          |          |                       |
+| 11/12 |                                                          |          |                       |
+| 11/14 | **Midterm 2**                                            |          |                       |
+| 11/17 |                                                          |          |                       |
+| 11/19 |                                                          |          |                       |
+| 11/21 |                                                          |          |                       |
+| 11/24 |                                                          |          |                       |
+| 11/26 |                                                          |          |                       |
+| 11/28 | **Thanksgiving vacation**                                |          |                       |
+| 12/01 |                                                          |          |                       |
+| 12/03 |                                                          |          | **Project due**       |
+| 12/05 | **Reading Period**                                       |          |                       |
+| 12/08 | **Final Examination**                                    |          |                       |
 
 </div>
 
@@ -141,7 +141,7 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. Exercise 4.10 (Read through Exercise 4.9 first. You don't need to write up the "Then, explain how..." part of this problem, but do think about it!)
 1. Exercise 4.14
 1. Exercise 4.17
-1. Exercise 4.21 (Hint: use Theorem 4.7)
+1. Challenge: Show that for every $n$, we have $(f_{n+1},f_{n+2}) = (f_{n-1}, f_n)$, where the $f$s are the Fibonacci numbers.
 
 ----
 ### Older announcements
