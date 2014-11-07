@@ -55,10 +55,10 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 10/31 | Division and Euclidean Algorithms                        | 4.1, 4.2 | **[HW 5](#hw-5) due** |
 | 11/03 | The fundamental theorem of arithmetic                    |      4.3 |                       |
 | 11/05 | The fundamental theorem of arithmetic, Fibonacci numbers | 4.3, 5.1 |                       |
-| 11/07 |                                                          |          | **[HW 6](#hw-6) due** |
-| 11/10 |                                                          |          |                       |
+| 11/07 | Bézout's lemma, number of divisors of a positive integer | 4.3, 5.1 | **[HW 6](#hw-6) due** |
+| 11/10 | $\tau(n)$, $\sigma(n)$, and perfect numbers              |      5.1 |                       |
 | 11/12 |                                                          |          |                       |
-| 11/14 | **Midterm 2**                                            |          |                       |
+| 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due** |
 | 11/17 |                                                          |          |                       |
 | 11/19 |                                                          |          |                       |
 | 11/21 |                                                          |          |                       |
@@ -142,6 +142,13 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. Exercise 4.14
 1. Exercise 4.17
 1. Challenge: Show that for every $n$, we have $(f_{n+1},f_{n+2}) = (f_{n-1}, f_n)$, where the $f$s are the Fibonacci numbers.
+
+#### HW 7
+1. Exercise 5.4
+1. Exercise 5.5
+1. Exercise 5.8
+1. Exercise 5.9
+1. Exercise 5.13
 
 ----
 ### Older announcements
