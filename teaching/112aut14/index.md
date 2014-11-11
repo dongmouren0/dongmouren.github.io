@@ -56,8 +56,8 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/03 | The fundamental theorem of arithmetic                    |      4.3 |                       |
 | 11/05 | The fundamental theorem of arithmetic, Fibonacci numbers | 4.3, 5.1 |                       |
 | 11/07 | Bézout's lemma, number of divisors of a positive integer | 4.3, 5.1 | **[HW 6](#hw-6) due** |
-| 11/10 | $\tau(n)$, $\sigma(n)$, and perfect numbers              |      5.1 |                       |
-| 11/12 |                                                          |          |                       |
+| 11/10 | $\tau(n)$, $\sigma(n)$                                   |      5.1 |                       |
+| 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                       |
 | 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due** |
 | 11/17 |                                                          |          |                       |
 | 11/19 |                                                          |          |                       |
