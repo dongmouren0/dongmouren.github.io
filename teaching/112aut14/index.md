@@ -150,6 +150,17 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. Exercise 5.9
 1. Exercise 5.13
 
+#### Midterm 2 Review
+1. Review the proofs of theorems 3.1 to 3.7.
+1. Review the proof of theorem 3.10.
+1. Review definitions: What are primes, twin primes? When are two numbers relatively prime?
+1. Read the division and Euclidean algorithms and practice some examples.
+1. Review the fundamental theorem of arithmetic. Do some practice problems, such as 4.19 and 4.21.
+1. Read the definition of the Fibonacci numbers.
+1. How do you compute the number of divisors of a number $n$? Do several examples. Remember that $\tau(n)$ is odd if and only if $n$ is a perfect square.
+1. How can you describe all numbers $n$ for which $\tau(n) = 5$?
+
+
 ----
 ### Older announcements
 {% for post in site.categories.112aut14 offset: 3%}
