@@ -59,7 +59,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/10 | $\tau(n)$, $\sigma(n)$                                   |      5.1 |                           |
 | 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                           |
 | 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due**     |
-| 11/17 |                                                          |          |                           |
+| 11/17 | Perfect numbers, Mersenne primes                         |      5.1 |                           |
 | 11/19 |                                                          |          |                           |
 | 11/21 |                                                          |          | **[HW 7.5](#hw-7.5) due** |
 | 11/24 |                                                          |          |                           |
