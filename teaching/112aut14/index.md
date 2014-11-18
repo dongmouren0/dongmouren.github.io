@@ -36,39 +36,39 @@ The class plan is tentative and will be filled in as the quarter goes by.
 
 <div class="classplan">
 
-| Date  | Topic                                                    |  Section | Homework/Documents    |
-| :---  | :---                                                     |     :--- | :---                  |
-| 09/29 | Introduction and the triangle game                       |        0 |                       |
-| 10/01 | Triangle game, numbers, sets, functions                  |      1.1 |                       |
-| 10/03 | Numbers, sets, functions                                 |      1.1 | **[HW 1](#hw-1) due** |
-| 10/06 | Rules of arithmetic                                      | 1.2, 1.3 |                       |
-| 10/08 | One's digit arithmetic                                   |      1.4 |                       |
-| 10/10 | Axioms in number theory                                  |      2.1 | **[HW 2](#hw-2) due** |
-| 10/13 | Axioms in number theory                                  | 2.1, 2.2 |                       |
-| 10/15 | Inequalities and order                                   |      2.2 |                       |
-| 10/17 | Inequalities and order                                   |      2.2 | **[HW 3](#hw-3) due** |
-| 10/20 | Divisibility                                             |      3.1 |                       |
-| 10/22 | Divisibility and Primes                                  | 3.1, 3.2 |                       |
-| 10/24 | **Midterm 1**                                            |          | **[HW 4](#hw-4) due** |
-| 10/27 | Divisibility and Primes                                  | 3.2, 3.3 |                       |
-| 10/29 | Primes, Division Algorithm                               | 3.2, 4.1 |                       |
-| 10/31 | Division and Euclidean Algorithms                        | 4.1, 4.2 | **[HW 5](#hw-5) due** |
-| 11/03 | The fundamental theorem of arithmetic                    |      4.3 |                       |
-| 11/05 | The fundamental theorem of arithmetic, Fibonacci numbers | 4.3, 5.1 |                       |
-| 11/07 | Bézout's lemma, number of divisors of a positive integer | 4.3, 5.1 | **[HW 6](#hw-6) due** |
-| 11/10 | $\tau(n)$, $\sigma(n)$                                   |      5.1 |                       |
-| 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                       |
-| 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due** |
-| 11/17 |                                                          |          |                       |
-| 11/19 |                                                          |          |                       |
-| 11/21 |                                                          |          |                       |
-| 11/24 |                                                          |          |                       |
-| 11/26 |                                                          |          |                       |
-| 11/28 | **Thanksgiving vacation**                                |          |                       |
-| 12/01 |                                                          |          |                       |
-| 12/03 |                                                          |          | **Project due**       |
-| 12/05 | **Reading Period**                                       |          |                       |
-| 12/08 | **Final Examination**                                    |          |                       |
+| Date  | Topic                                                    |  Section | Homework/Documents        |
+| :---  | :---                                                     |     :--- | :---                      |
+| 09/29 | Introduction and the triangle game                       |        0 |                           |
+| 10/01 | Triangle game, numbers, sets, functions                  |      1.1 |                           |
+| 10/03 | Numbers, sets, functions                                 |      1.1 | **[HW 1](#hw-1) due**     |
+| 10/06 | Rules of arithmetic                                      | 1.2, 1.3 |                           |
+| 10/08 | One's digit arithmetic                                   |      1.4 |                           |
+| 10/10 | Axioms in number theory                                  |      2.1 | **[HW 2](#hw-2) due**     |
+| 10/13 | Axioms in number theory                                  | 2.1, 2.2 |                           |
+| 10/15 | Inequalities and order                                   |      2.2 |                           |
+| 10/17 | Inequalities and order                                   |      2.2 | **[HW 3](#hw-3) due**     |
+| 10/20 | Divisibility                                             |      3.1 |                           |
+| 10/22 | Divisibility and Primes                                  | 3.1, 3.2 |                           |
+| 10/24 | **Midterm 1**                                            |          | **[HW 4](#hw-4) due**     |
+| 10/27 | Divisibility and Primes                                  | 3.2, 3.3 |                           |
+| 10/29 | Primes, Division Algorithm                               | 3.2, 4.1 |                           |
+| 10/31 | Division and Euclidean Algorithms                        | 4.1, 4.2 | **[HW 5](#hw-5) due**     |
+| 11/03 | The fundamental theorem of arithmetic                    |      4.3 |                           |
+| 11/05 | The fundamental theorem of arithmetic, Fibonacci numbers | 4.3, 5.1 |                           |
+| 11/07 | Bézout's lemma, number of divisors of a positive integer | 4.3, 5.1 | **[HW 6](#hw-6) due**     |
+| 11/10 | $\tau(n)$, $\sigma(n)$                                   |      5.1 |                           |
+| 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                           |
+| 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due**     |
+| 11/17 |                                                          |          |                           |
+| 11/19 |                                                          |          |                           |
+| 11/21 |                                                          |          | **[HW 7.5](#hw-7.5) due** |
+| 11/24 |                                                          |          |                           |
+| 11/26 |                                                          |          | **[HW 8](#hw-8) due**     |
+| 11/28 | **Thanksgiving vacation**                                |          |                           |
+| 12/01 |                                                          |          |                           |
+| 12/03 |                                                          |          | **Project due**           |
+| 12/05 | **Reading Period**                                       |          |                           |
+| 12/08 | **Final Examination**                                    |          |                           |
 
 </div>
 
@@ -160,6 +160,17 @@ In this homework, you will read some "light" articles related to mathematics. Th
 1. How do you compute the number of divisors of a number $n$? Do several examples. Remember that $\tau(n)$ is odd if and only if $n$ is a perfect square.
 1. How can you describe all numbers $n$ for which $\tau(n) = 5$?
 
+
+#### HW 7.5
+This homework is due by email, and it is due by 5pm on Friday, Nov 21. This homework will be graded for completion, not for content.
+
+1. Email me your project drafts _as they are in their current state_. One person from each team should send the email and cc your teammates (though of course you should have worked on the drafts collectively). Don't worry much about errors, gaps, or formatting.
+1. Send me the following information individually in a short email (don't cc your teammates):
+    * What has your individual contribution been to the project write-up so far?
+    * What more do you individually plan to put in the project write-up?
+
+#### HW 8
+Coming soon!
 
 ----
 ### Older announcements
