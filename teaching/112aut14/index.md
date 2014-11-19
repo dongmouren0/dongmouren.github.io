@@ -60,8 +60,8 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                           |
 | 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due**     |
 | 11/17 | Perfect numbers, Mersenne primes                         |      5.1 |                           |
-| 11/19 | Perfect numbers, Mersenne primes, Egyptian fractions     | 5.1, 5.2 |                           |
-| 11/21 | Modular arithmetic                                       |      6.1 | **[HW 7.5](#hw-7.5) due** |
+| 11/19 | Perfect numbers, Mersenne primes, LCM (basics)           | 5.1, 5.2 |                           |
+| 11/21 | LCM, Egyptian fractions, modular arithmetic              | 5.2, 6.1 | **[HW 7.5](#hw-7.5) due** |
 | 11/24 | Modular arithmetic                                       |      6.1 |                           |
 | 11/26 | Divisibility tests                                       |      7.1 | **[HW 8](#hw-8) due**     |
 | 11/28 | **Thanksgiving vacation**                                |          |                           |
