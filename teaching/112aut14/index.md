@@ -60,13 +60,13 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 11/12 | $\sigma(n)$, perfect numbers                             |      5.1 |                           |
 | 11/14 | **Midterm 2**                                            |          | **[HW 7](#hw-7) due**     |
 | 11/17 | Perfect numbers, Mersenne primes                         |      5.1 |                           |
-| 11/19 |                                                          |          |                           |
-| 11/21 |                                                          |          | **[HW 7.5](#hw-7.5) due** |
-| 11/24 |                                                          |          |                           |
-| 11/26 |                                                          |          | **[HW 8](#hw-8) due**     |
+| 11/19 | Perfect numbers, Mersenne primes, Egyptian fractions     | 5.1, 5.2 |                           |
+| 11/21 | Modular arithmetic                                       |      6.1 | **[HW 7.5](#hw-7.5) due** |
+| 11/24 | Modular arithmetic                                       |      6.1 |                           |
+| 11/26 | Divisibility tests                                       |      7.1 | **[HW 8](#hw-8) due**     |
 | 11/28 | **Thanksgiving vacation**                                |          |                           |
-| 12/01 |                                                          |          |                           |
-| 12/03 |                                                          |          | **Project due**           |
+| 12/01 | Project presentations                                    |          |                           |
+| 12/03 | Project presentations                                    |          | **Project due**           |
 | 12/05 | **Reading Period**                                       |          |                           |
 | 12/08 | **Final Examination**                                    |          |                           |
 
@@ -170,7 +170,14 @@ This homework is due by email, and it is due by 5pm on Friday, Nov 21. This home
     * What more do you individually plan to put in the project write-up?
 
 #### HW 8
-Coming soon!
+1. Exercise 5.17
+1. Exercise 5.18
+1. Exercise 5.29 (Hint: Multiply both sides of the equation by $n$.)
+1. Exercise 6.1
+1. Exercise 6.4
+1. Exercise 6.16
+1. (Tutorial) Exercise 6.17
+1. (Tutorial) Exercise 5.22
 
 ----
 ### Older announcements
