@@ -179,6 +179,18 @@ This homework is due by email, and it is due by 5pm on Friday, Nov 21. This home
 1. (Tutorial) Exercise 6.17
 1. (Tutorial) Exercise 5.22
 
+#### Final Exam Review
+1. The syllabus for the midterm consists of everything that we have done since the beginning of the course. The new material consists of chapter 5 and parts of chapter 6 and 7: most of section 6.1 (congruences, addition and multiplication under congruences, and what axioms they satisfy), and section 7.1 (divisibility tests).
+1. (Important) Go over all old homeworks and review guidelines for Midterms 1 and 2. 
+1. Review how to compute $\sigma(n)$.
+1. Review the definition of perfect numbers, and of Mersenne numbers.
+1. Review the proof of theorem 5.7.
+1. Review LCM and the formula $a\times b = \text{gcd}(a,b)\times \text{lcm}(a,b)$.
+1. Review how to compute the Egyptian fraction decomposition.
+1. Go over the definition of congruence modulo some number, and of a residue class or congruence class (on page 131).
+1. Review how to add, subtract, and multiply congruence classes (Theorem 6.3 , 6.4).
+1. Review all the divisibility tests we learned in class. You may be asked some indirect problems from this section, so make sure you understand how the tests work, especially the combined test for 7, 11, and 13.
+
 ----
 ### Older announcements
 {% for post in site.categories.112aut14 offset: 3%}
