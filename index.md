@@ -19,9 +19,9 @@ Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Teaching
 
-During Autumn 2014, I am teaching [Math 112](teaching/112aut14/). Older teaching activities are [here](teaching/).
+During Winter 2015, I am teaching Math 113. Older teaching activities are [here](teaching/).
 
 ### Other
 
-* [Student representation theory seminar](seminars/studentreptheory): Thursdays at 3pm in the Barn (Ry 352).
+* [Student representation theory seminar](seminars/studentreptheory): Time TBA.
 

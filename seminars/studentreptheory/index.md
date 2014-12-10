@@ -5,28 +5,19 @@ title: Student Representation Theory Seminar
 
 # {{ page.title }}
 
-### Autumn 2014
-This quarter's seminar is organized by Ana Balibanu and Sergei Sagatov. We meet on Thursdays at 3pm in the Barn (Ry 352). The topic is Character Sheaves.
+### Winter 2015
+Details for the Winter 2015 quarter TBA.
 
-We will loosely follow these references:
+### Autumn 2014
+The organizers for the seminar are now Ana Balibanu and Sergei Sagatov. We met on Thursdays at 3pm in the Barn (Ry 352). The topic was Character Sheaves.
+
+We loosely followed these references:
 
 * Williamson's notes on a course by Ostrik ([pdf](http://people.mpim-bonn.mpg.de/geordie/Ostrik.pdf)),
 * McGerty's notes ([pdf](https://documents.epfl.ch/users/j/jt/jtaylor/www/charsheaves/PDF/mcgerty.pdf)), and
 * _Character Sheaves_ by Mars and Springer, Astérisque 173-174 (1989).
 
-<div class="classplan">
-| Date  | Speaker       | Topic                             |
-| :--   | :---          | :---                              |
-| 10/09 | Jonathan Wang | Introduction to Character Sheaves |
-| 10/16 |               |                                   |
-| 10/23 |               |                                   |
-| 10/30 |               |                                   |
-| 11/06 |               |                                   |
-| 11/13 |               |                                   |
-| 11/20 |               |                                   |
-| 12/04 |               |                                   |
-
-</div>
+The talks were given by Jonathan Wang.
 
 ### Spring 2014
 In the Spring 2014 quarter, we meet on Mondays and Fridays at 1:30pm in Eck 207. We are (vaguely) reading from the book _A Guide to Quantum Groups_ by V. Chari and A. Pressley. The talk schedule is as follows.

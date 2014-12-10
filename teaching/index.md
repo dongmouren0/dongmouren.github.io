@@ -5,8 +5,9 @@ title: Teaching
 
 # {{ page.title }}
 
-During Autumn 2014, I am teaching [Math 112](112aut14/). In the past, I have taught at the following places.
+During Winter 2015, I am teaching Math 113. In the past, I have taught at the following places.
 
+* **Autumn 2014:** Math 112 (Studies in Mathematics 1: Elementary Number Theory). [Website](112aut14/).
 * **Summer 2014:** Math 196 (Linear Algebra). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Spring 2014:** Math 153 (Calculus 3). [Website](153spr14/).
 * **Winter 2014:** Math 152 (Calculus 2). [Website](152win14/).
