@@ -19,7 +19,7 @@ Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Teaching
 
-During Winter 2015, I am teaching Math 113. Older teaching activities are [here](teaching/).
+During Winter 2015, I am teaching [Math 113](teaching/113win15/). Older teaching activities are [here](teaching/).
 
 ### Other
 
