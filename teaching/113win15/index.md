@@ -65,6 +65,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 03/09 |                                 |         |          |
 | 03/11 |                                 |         |          |
 | 03/13 | **Reading Period**              |         |          |
+| 01/05 | Introduction to Geometry                 |          9 |          |
+| 01/07 | Polygons, regular polygons               |       10.1 |          |
+| 01/09 | Ruler-compass constructions              |       10.2 |          |
 
 </div>
 
