@@ -80,6 +80,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/02 | Euler's formula                          |       13.2 |          |
 | 02/04 | Symmetries of regular polyhedra          |       13.3 |          |
 | 02/06 | Symmetries of regular polyhedra          |       13.3 |          |
+| 02/09 | Symmetries of regular polyhedra          |       13.4 |          |
+| 02/11 | Introduction to graphs                   |       14.1 |          |
+| 02/13 | **College break**                        |            |          |
 
 </div>
 
