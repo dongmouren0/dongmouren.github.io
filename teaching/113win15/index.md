@@ -74,6 +74,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/19 | **Martin Luther King, Jr. Day**          |            |          |
 | 01/21 | Impossible motions, symmetries of n-gons | 11.2, 11.3 |          |
 | 01/23 | Groups and permutations                  |       12.1 |          |
+| 01/26 | Permutations                             | 12.1, 12.2 |          |
+| 01/28 | Symmetric group                          | 12.2, 12.3 |          |
+| 01/30 | Regular polyhedra (introduction)         |       13.1 |          |
 
 </div>
 
