@@ -68,6 +68,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/05 | Introduction to Geometry                 |          9 |          |
 | 01/07 | Polygons, regular polygons               |       10.1 |          |
 | 01/09 | Ruler-compass constructions              |       10.2 |          |
+| 01/12 | Ruler-compass constructions              |       10.2 |          |
+| 01/14 | Symmetry group (equilateral triangle)    |       11.1 |          |
+| 01/16 | Symmtrey group (triangle and square)     | 11.1, 11.2 |          |
 
 </div>
 
