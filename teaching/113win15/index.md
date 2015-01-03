@@ -83,6 +83,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/09 | Symmetries of regular polyhedra          |       13.4 |          |
 | 02/11 | Introduction to graphs                   |       14.1 |          |
 | 02/13 | **College break**                        |            |          |
+| 02/16 | Graph colorability                       |       14.2 |          |
+| 02/18 | Graph colorability                       |       14.2 |          |
+| 02/20 |                                          |            |          |
 
 </div>
 
