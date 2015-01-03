@@ -77,6 +77,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/26 | Permutations                             | 12.1, 12.2 |          |
 | 01/28 | Symmetric group                          | 12.2, 12.3 |          |
 | 01/30 | Regular polyhedra (introduction)         |       13.1 |          |
+| 02/02 | Euler's formula                          |       13.2 |          |
+| 02/04 | Symmetries of regular polyhedra          |       13.3 |          |
+| 02/06 | Symmetries of regular polyhedra          |       13.3 |          |
 
 </div>
 
