@@ -56,6 +56,15 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/16 | Graph colorability                       |       14.2 |          |
 | 02/18 | Graph colorability                       |       14.2 |          |
 | 02/20 |                                          |            |          |
+| 02/23 |                                          |            |          |
+| 02/25 |                                          |            |          |
+| 02/27 |                                          |            |          |
+| 03/02 |                                          |            |          |
+| 03/04 |                                          |            |          |
+| 03/06 |                                          |            |          |
+| 03/09 |                                          |            |          |
+| 03/11 |                                          |            |          |
+| 03/13 | **Reading Period**                       |            |          |
 
 </div>
 
