@@ -71,6 +71,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/12 | Ruler-compass constructions              |       10.2 |          |
 | 01/14 | Symmetry group (equilateral triangle)    |       11.1 |          |
 | 01/16 | Symmtrey group (triangle and square)     | 11.1, 11.2 |          |
+| 01/19 | **Martin Luther King, Jr. Day**          |            |          |
+| 01/21 | Impossible motions, symmetries of n-gons | 11.2, 11.3 |          |
+| 01/23 | Groups and permutations                  |       12.1 |          |
 
 </div>
 
