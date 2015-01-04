@@ -46,19 +46,19 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/23 | Groups and permutations                  |       12.1 |          |
 | 01/26 | Permutations                             | 12.1, 12.2 |          |
 | 01/28 | Symmetric group                          | 12.2, 12.3 |          |
-| 01/30 | Regular polyhedra (introduction)         |       13.1 |          |
-| 02/02 | Euler's formula                          |       13.2 |          |
-| 02/04 | Symmetries of regular polyhedra          |       13.3 |          |
+| 01/30 | **Midterm 1**                            |       13.1 |          |
+| 02/02 | Regular polyhedra (introduction)         |       13.2 |          |
+| 02/04 | Euler's formula                          |       13.3 |          |
 | 02/06 | Symmetries of regular polyhedra          |       13.3 |          |
 | 02/09 | Symmetries of regular polyhedra          |       13.4 |          |
-| 02/11 | Introduction to graphs                   |       14.1 |          |
-| 02/13 | **College break**                        |            |          |
-| 02/16 | Graph colorability                       |       14.2 |          |
+| 02/11 | Symmetries of regular polyhedra          |       14.1 |          |
+| 02/13 | Introduction to graphs                   |            |          |
+| 02/16 | **College break**                        |       14.2 |          |
 | 02/18 | Graph colorability                       |       14.2 |          |
-| 02/20 |                                          |            |          |
+| 02/20 | Graph colorability                       |            |          |
 | 02/23 |                                          |            |          |
 | 02/25 |                                          |            |          |
-| 02/27 |                                          |            |          |
+| 02/27 | **Midterm 2**                            |            |          |
 | 03/02 |                                          |            |          |
 | 03/04 |                                          |            |          |
 | 03/06 |                                          |            |          |
