@@ -23,5 +23,5 @@ During Winter 2015, I am teaching [Math 113](teaching/113win15/). Older teaching
 
 ### Other
 
-* [Student representation theory seminar](seminars/studentreptheory): Time TBA.
+* [Student representation theory seminar](seminars/studentreptheory): Tuesdays and Thursdays at 3pm in the Barn (Ry 352).
 
