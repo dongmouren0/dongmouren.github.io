@@ -10,11 +10,14 @@ In Winter 2015, we meet on Tuesdays and Thursdays at 3pm in the Barn (Ry 352). O
 
 <div class="classplan">
 
-| Date  | Speaker       | Topic                                        |
-| :---  | :---          | :---                                         |
-| 01/08 | Robin Walters | Introduction to algebraic homogeneous spaces |
-| 01/15 | TBA           |                                              |
-
+| Date  | Speaker         | Topic                                        |
+| :---  | :---            | :---                                         |
+| 01/08 | Robin Walters   | Introduction to algebraic homogeneous spaces |
+| 01/15 | Sergei Sagatov  | Section 3, Section 5                         |
+| 01/22 | Sergei Sagatov  | Section 3, Section 5                         |
+| 01/29 | Jonathan Wang   | Section 7                                    |
+| 02/05 | Charly Di Fiore | Section 8                                    |
+| 02/12 | Ana Balibanu    | Section 9                                    |
 
 </div>
 
