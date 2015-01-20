@@ -1,10 +1,14 @@
 url: "http://localhost:4000"
 
-paginate: 10
+##paginate: 10
 
 markdown: pandoc
 pandoc:
-  extensions: [mathjax]
+  extensions:
+    - smart
+    - mathjax
+#    - csl: 'assets/bibtex.csl'
+#    - bibliography: 'assets/papers.bib'
 permalink: pretty
 
 baseurl: "http://math.uchicago.edu/~asilata/"
