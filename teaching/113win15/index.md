@@ -40,10 +40,10 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/09 | Symmetry group (triangle and square)      | 11.1,11.2        | **[HW 1](#hw-1) due** |
 | 01/12 | Basics of Euclidean geometry              | 10.1, Appendix A |                       |
 | 01/14 | Ruler-compass constructions, circumcircle |                  |                       |
-| 01/16 | Orthocenter, Incenter, Centroid           |                  | **[HW 2](#hw-2) due** |
+| 01/16 | Orthocenter, incenter, centroid           |                  | **[HW 2](#hw-2) due** |
 | 01/19 | **Martin Luther King, Jr. Day**           |                  |                       |
-| 01/21 |                                           |                  |                       |
-| 01/23 |                                           |                  | **[HW 3](#hw-3) due** |
+| 01/21 | Ceva's theorem and applications           |                  |                       |
+| 01/23 | The nine-point circle                     |                  | **[HW 3](#hw-3) due** |
 | 01/26 |                                           |                  |                       |
 | 01/28 |                                           |                  |                       |
 | 01/30 | **Midterm 1**                             |                  |                       |
