@@ -33,12 +33,12 @@ The class plan is tentative and will be filled in as the quarter goes by.
 
 <div class="classplan">
 
-| Date  | Topic                                     | Section          | Homework              |
+| Date  | Topic                                     | Section          | Homework/Documents    |
 | :---  | :---                                      | :---             | :---                  |
 | 01/05 | Introduction to Geometry                  | 9                |                       |
 | 01/07 | Symmetry group (equilateral triangle)     | 11.1             |                       |
 | 01/09 | Symmetry group (triangle and square)      | 11.1,11.2        | **[HW 1](#hw-1) due** |
-| 01/12 | Basics of Euclidean geometry              | 10.1, Appendix A |                       |
+| 01/12 | Basics of Euclidean geometry              | 10.1, Appendix A | [Notes][eg]           |
 | 01/14 | Ruler-compass constructions, circumcircle |                  |                       |
 | 01/16 | Orthocenter, incenter, centroid           |                  | **[HW 2](#hw-2) due** |
 | 01/19 | **Martin Luther King, Jr. Day**           |                  |                       |
@@ -65,6 +65,8 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 03/09 |                                           |                  |                       |
 | 03/11 |                                           |                  |                       |
 | 03/13 | **Reading Period**                        |                  |                       |
+
+[eg]: eucl-geom-notes.pdf
 
 </div>
 
