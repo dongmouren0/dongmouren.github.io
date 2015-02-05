@@ -44,14 +44,14 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 01/19 | **Martin Luther King, Jr. Day**           |                  |                       |
 | 01/21 | Ceva's theorem and applications           |                  |                       |
 | 01/23 | The nine-point circle                     |                  | **[HW 3](#hw-3) due** |
-| 01/26 |                                           |                  |                       |
-| 01/28 |                                           |                  |                       |
+| 01/26 | The symmetric group                       |                  |                       |
+| 01/28 | The symmetric group                       |                  |                       |
 | 01/30 | **Midterm 1**                             |                  |                       |
-| 02/02 |                                           |                  |                       |
-| 02/04 |                                           |                  |                       |
-| 02/06 |                                           |                  |                       |
+| 02/02 | The symmetric group                       |                  |                       |
+| 02/04 | Euler's theorem                           |                  |                       |
+| 02/06 | Symmetries of a regular tetrahedron       |                  |                       |
 | 02/09 |                                           |                  |                       |
-| 02/11 |                                           |                  |                       |
+| 02/11 |                                           |                  | **[HW 4](#hw-4) due** |
 | 02/13 | **College break**                         |                  |                       |
 | 02/16 |                                           |                  |                       |
 | 02/18 |                                           |                  |                       |
@@ -110,6 +110,16 @@ The class plan is tentative and will be filled in as the quarter goes by.
 1. Draw a shape that has the symmetry group $\mathbb{Z}/4\mathbb{Z}$.
 1. Consider a triangle $ABC$. Let $D$, $E$, $F$ be the midpoints and $P$, $Q$, $R$ be the feet of the altitudes of $BC$, $CA$, and $AB$ respectively. Let $P'$ on $BC$ be the reflection of $P$ across $D$. Construct $Q'$ and $R'$ in an analogous way on $CA$ and $AB$. Prove that $AP'$, $BQ'$, $CR'$ are concurrent.
 1. Let $r$ be the _inradius_ of a triangle $ABC$, that is the radius of the incircle. Let $s = (BC + CA + AB)/2$. Prove that the area of triangle $ABC$ equals $s\cdot r$. (Hint: Draw the lines $AI$, $BI$, and $CI$.)
+
+#### HW 4
+1. Read chapters 12 and 13.
+1. Make an origami tetrahedron and bring it to class (as per the directions in the email). Please bring this on Friday, February 06.
+1. Make an origami dodecahedron and bring it to class on Wednesday, February 11.
+1. Exercise 12.6
+1. Exercise 12.8
+1. Label the vertices of a regular tetrahedron as $1$, $2$, $3$, $4$. Then make a list of all the rotational symmetries of this tetrahedron, along with a description of the axis of rotation of that transformation.
+1. Using the counting method that we used in class to count the number of rotational symmetries of a tetrahedron and cube, find the number of rotational symmetries of the octahedron, dodecahedron, and icosahedron.
+
 
 ----
 ### Older announcements
