@@ -123,7 +123,6 @@ The class plan is tentative and will be filled in as the quarter goes by.
 #### HW 5
 1. Exercise 13.10
 1. Exercise 13.11
-1. Exercise 13.14
 1. Consider a cube with faces numbered like a die. Let $d$ be the body diagonal that joins the "1-2-3" corner to the "4-5-6" corner. Find a rotational symmetry of the cube that preserves $d$, but permutes the remaining three body diagonals cyclically. Write this symmetry down in cycle notation according to the cube faces. Explain your answer!
 1. A _tree_ is any graph that is _connected_ (any two vertices can be joined by a path), and that has no cycles. Draw all possible different (non-isomorphic) trees on five vertices. Try to explain why you have found all of them.
 1. Exercise 14.2
