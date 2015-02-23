@@ -54,16 +54,16 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/11 | Symmetries of a dodecahedron              | 13.4, 13.5       | **[HW 4](#hw-4) due** |
 | 02/13 | **College break**                         |                  |                       |
 | 02/16 | Graph theory                              | 14.1, 14.2       |                       |
-| 02/18 |                                           |                  |                       |
-| 02/20 |                                           |                  | **[HW 5](#hw-5) due** |
-| 02/23 |                                           |                  |                       |
+| 02/18 | Graph theory                              | 14.2             |                       |
+| 02/20 | Graph theory                              | 14.2, 14.3       | **[HW 5](#hw-5) due** |
+| 02/23 | Introduction to algorithms                |                  |                       |
 | 02/25 |                                           |                  |                       |
-| 02/27 | **Midterm 2**                             |                  |                       |
-| 03/02 |                                           |                  |                       |
-| 03/04 |                                           |                  |                       |
+| 02/27 |                                           |                  |                       |
+| 03/02 |                                           |                  | HW 6 due              |
+| 03/04 | **Midterm 2**                             |                  |                       |
 | 03/06 |                                           |                  |                       |
-| 03/09 |                                           |                  |                       |
-| 03/11 |                                           |                  |                       |
+| 03/09 | Project presentations                     |                  | **Projects due**      |
+| 03/11 | Project presentations                     |                  |                       |
 | 03/13 | **Reading Period**                        |                  |                       |
 
 [eg]: eucl-geom-notes.pdf
