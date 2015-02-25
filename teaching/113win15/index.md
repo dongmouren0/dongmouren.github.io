@@ -59,7 +59,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/23 | Introduction to algorithms                |                  |                       |
 | 02/25 |                                           |                  |                       |
 | 02/27 |                                           |                  |                       |
-| 03/02 |                                           |                  | HW 6 due              |
+| 03/02 |                                           |                  | **[HW 6](#hw-6) due** |
 | 03/04 | **Midterm 2**                             |                  |                       |
 | 03/06 |                                           |                  |                       |
 | 03/09 | Project presentations                     |                  | **Projects due**      |
@@ -127,6 +127,14 @@ The class plan is tentative and will be filled in as the quarter goes by.
 1. A _tree_ is any graph that is _connected_ (any two vertices can be joined by a path), and that has no cycles. Draw all possible different (non-isomorphic) trees on five vertices. Try to explain why you have found all of them.
 1. Exercise 14.2
 1. Exercise 14.3
+
+#### HW 6
+1. Read Chapter 14 (even parts that we didn't cover in class)
+1. Exercise 14.6
+1. Exercise 14.7
+1. Look up the Petersen graph (on the internet or elsewhere) and draw it. Given that the shortest-length cycle in this graph has length 5, prove that this graph is non-planar.
+1. Exercise 14.10 (Hint: Try to draw $K_5$ on a torus without any crossing edges.)
+1. Exercise 14.16
 
 ----
 ### Older announcements
