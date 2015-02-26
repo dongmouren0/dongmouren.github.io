@@ -57,9 +57,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/18 | Graph theory                              | 14.2             |                       |
 | 02/20 | Graph theory                              | 14.2, 14.3       | **[HW 5](#hw-5) due** |
 | 02/23 | Introduction to algorithms                |                  |                       |
-| 02/25 |                                           |                  |                       |
-| 02/27 |                                           |                  |                       |
-| 03/02 |                                           |                  | **[HW 6](#hw-6) due** |
+| 02/25 | Sorting algorithms                        |                  |                       |
+| 02/27 | Spanning trees                            |                  |                       |
+| 03/02 | Shortest paths                            |                  | **[HW 6](#hw-6) due** |
 | 03/04 | **Midterm 2**                             |                  |                       |
 | 03/06 |                                           |                  |                       |
 | 03/09 | Project presentations                     |                  | **Projects due**      |
