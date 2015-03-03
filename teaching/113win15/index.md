@@ -59,9 +59,9 @@ The class plan is tentative and will be filled in as the quarter goes by.
 | 02/23 | Introduction to algorithms                |                  |                       |
 | 02/25 | Sorting algorithms                        |                  |                       |
 | 02/27 | Spanning trees                            |                  |                       |
-| 03/02 | Shortest paths                            |                  | **[HW 6](#hw-6) due** |
+| 03/02 | Heaps, spanning trees                     |                  | **[HW 6](#hw-6) due** |
 | 03/04 | **Midterm 2**                             |                  |                       |
-| 03/06 |                                           |                  |                       |
+| 03/06 | Shortest paths                            |                  |                       |
 | 03/09 | Project presentations                     |                  | **Projects due**      |
 | 03/11 | Project presentations                     |                  |                       |
 | 03/13 | **Reading Period**                        |                  |                       |
@@ -135,6 +135,18 @@ The class plan is tentative and will be filled in as the quarter goes by.
 1. Look up the Petersen graph (on the internet or elsewhere) and draw it. Given that the shortest-length cycle in this graph has length 5, prove that this graph is non-planar.
 1. Exercise 14.10 (Hint: Try to draw $K_5$ on a torus without any crossing edges.)
 1. Exercise 14.16
+
+#### Midterm 2 Practice
+1. Read Chapters 12, 13, and 14.
+1. Exercise 12.1
+1. List all permutations of $\{1,2,3,4\}$ that take no element to its starting position. Use cycle notation.
+1. Exercise 13.6. 
+1. Exercise 13.12
+1. Consider the following convex polyhedron: it has four faces that are regular hexagons, and four faces that are equilateral triangles. How many vertices, edges, and faces must it have?
+1. What is the smallest number of colours needed to give a vertex colouring of the Petersen graph? Try this yourself before looking up the answer!
+1. Exercise 14.9
+1. Exercise 14.20
+1. Suppose that $G$ and $H$ are two graphs such that $\overline{G}$ and $\overline{H}$ are isomorphic. Must $G$ and $H$ be isomorphic?
 
 ----
 ### Older announcements
