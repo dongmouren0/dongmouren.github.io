@@ -172,6 +172,7 @@ ol {
     width:15em;
     margin-bottom: 1%;
     margin-left: 1%;
+    border: solid 0.1em $fg-faded;
     @media screen and (min-width: 960px) {
         width: 20em;
     }
