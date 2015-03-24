@@ -19,9 +19,12 @@ Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Teaching
 
-During Winter 2015, I am teaching [Math 113](teaching/113win15/). Older teaching activities are [here](teaching/).
+I am not teaching during Spring 2015.
+Older teaching activities are [here](teaching/).
 
 ### Other
 
+* During Spring 2015, I am visiting the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn.
+* Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I am the academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/).
 * [Student representation theory seminar](seminars/studentreptheory): Tuesdays and Thursdays at 3pm in the Barn (Ry 352).
 
