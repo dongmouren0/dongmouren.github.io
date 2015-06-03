@@ -24,6 +24,6 @@ I am not teaching during Spring 2015.
 Older teaching activities are [here](teaching/).
 
 ### Other
-* Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I am the academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/).
+* Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I am the academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/2015).
 * [Student representation theory seminar](seminars/studentreptheory): Tuesdays and Thursdays at 3pm in the Barn (Ry 352).
 
