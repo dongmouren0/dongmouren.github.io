@@ -5,7 +5,7 @@ title: Teaching
 
 # {{ page.title }}
 
-I am not teaching in Spring 2015.
+I am not teaching in Summer 2015.
 In the past, I have taught at the following places.
 
 * **Winter 2015:** Math 113 (Studies in Mathematics 2: Geometry). [Website](113win15/).
