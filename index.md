@@ -13,9 +13,10 @@ Email: `asilata` at `math` dot `uchicago` dot `edu`
 Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
 
 ### Papers/Preprints
-* The Bernstein-Sato $b$-function of the Vandermonde determinant (with Robin Walters). [[arXiv:1503.01055](http://arxiv.org/abs/1503.01055)]
-* Torus actions and tensor products of intersection cohomology. To appear in _Pacific Journal of Mathematics_. [[arXiv:1309.0859](http://arxiv.org/abs/1309.0859)]
-* Lower central series of free algebras in symmetric tensor categories (with David Jordan), _Journal of Algebra 373 (2013), 299--311_. [[arXiv:1001.1375](http://arxiv.org/abs/1001.1375)]
+* The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements (with Robin Walters), _submitted_. [[pdf](papers/bapat-walters-2015.pdf)]
+* The Bernstein-Sato $b$-function of the Vandermonde determinant (with Robin Walters). [[arXiv](http://arxiv.org/abs/1503.01055)]
+* Torus actions and tensor products of intersection cohomology, _Pacific Journal of Mathematics 276 (1):19--34, 2015_. [[pdf](papers/bapat-2015.pdf)] [[arXiv](http://arxiv.org/abs/1309.0859)]
+* Lower central series of free algebras in symmetric tensor categories (with David Jordan), _Journal of Algebra 373:299--311, 2013_. [[pdf](papers/bapat-jordan-2013.pdf)] [[arXiv](http://arxiv.org/abs/1001.1375)]
 
 ### Teaching
 I am not teaching during Summer 2015.
