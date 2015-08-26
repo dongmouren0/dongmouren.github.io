@@ -5,12 +5,26 @@ layout: default
 # Asilata Bapat
 <img id="mypicture" src="assets/asilata-bapat.jpg" alt="Asilata Bapat"/>
 
+**Email:** `asilata` at `math` dot `uchicago` dot `edu`  
+**Office:** [Math-Stat](https://maps.uchicago.edu/?location=5727+South+University+Avenue) 015
+
+**Mailing address:**  
+Department of Mathematics, University of Chicago  
+5734 S University Avenue  
+Chicago, IL 60637
+
+### About Me
+I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the University of Chicago.
+My advisor is Victor Ginzburg.
+I did my undergraduate work at [MIT](http://web.mit.edu).
+
+I am interested in representation theory, singularity theory, and algebraic geometry.
+
+<!--
 Graduate student  
 [Department of Mathematics](http://math.uchicago.edu/)  
 University of Chicago
-
-Email: `asilata` at `math` dot `uchicago` dot `edu`  
-Office: [Math-Stat](https://maps.uchicago.edu/?location=Math-Stat+Building) 015
+-->
 
 ### Papers/Preprints
 * The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements (with Robin Walters), _submitted_. [[pdf](papers/bapat-walters-2015.pdf)]
@@ -23,6 +37,6 @@ I am not teaching during Summer 2015.
 Older teaching activities are [here](teaching/).
 
 ### Other
-* Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I am the academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/2015).
+* Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I was an academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/2015).
 * [Student representation theory seminar](seminars/studentreptheory): Tuesdays and Thursdays at 3pm in the Barn (Ry 352).
 

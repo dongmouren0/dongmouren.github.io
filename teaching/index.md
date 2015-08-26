@@ -8,17 +8,18 @@ title: Teaching
 I am not teaching in Summer 2015.
 In the past, I have taught at the following places.
 
+* **Summer 2015:** Academic co-coordinator/mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2015). _Coordinated the academic schedule, invited visiting speakers, and taught several undergraduate-level courses._
 * **Winter 2015:** Math 113 (Studies in Mathematics 2: Geometry). [Website](113win15/).
 * **Autumn 2014:** Math 112 (Studies in Mathematics 1: Elementary Number Theory). [Website](112aut14/).
 * **Summer 2014:** Math 196 (Linear Algebra). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Spring 2014:** Math 153 (Calculus 3). [Website](153spr14/).
 * **Winter 2014:** Math 152 (Calculus 2). [Website](152win14/).
 * **Autumn 2013:** Math 151 (Calculus 1). [Website](151aut13/).
-* **Summer 2013:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
+* **Summer 2013:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2013). _Taught several undergraduate-level courses._
 * **Spring 2013:** Math 153 (Calculus 3). [Website](153spr13/).
 * **Winter 2013:** Math 152 (Calculus 2). Website available on [Chalk](http://chalk.uchicago.edu).
 * **Autumn 2012:** Math 151 (Calculus 1). Website available on [Chalk](http://chalk.uchicago.edu).
-* **Summer 2012:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
+* **Summer 2012:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2012). _Taught several undergraduate-level courses._
 * **Spring 2012:** College fellow for Math 259 (Honors Algebra 3).
 * **Winter 2012:** College fellow for Math 258 (Honors Algebra 2).
 * **Autumn 2011:** College fellow for Math 257 (Honors Algebra 1).
