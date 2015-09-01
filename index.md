@@ -5,20 +5,19 @@ layout: default
 # Asilata Bapat
 <img id="mypicture" src="assets/asilata-bapat.jpg" alt="Asilata Bapat"/>
 
-**Email:** `asilata` at `math` dot `uchicago` dot `edu`  
-**Office:** [Math-Stat](https://maps.uchicago.edu/?location=5727+South+University+Avenue) 015
-
-**Mailing address:**  
 Department of Mathematics, University of Chicago  
 5734 S University Avenue  
 Chicago, IL 60637
 
-### About Me
-I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the University of Chicago.
-My advisor is Victor Ginzburg.
-I did my undergraduate work at [MIT](http://web.mit.edu).
+**Email:** `asilata` at `math` dot `uchicago` dot `edu`  
+**Office:** [Math-Stat](https://maps.uchicago.edu/?location=5727+South+University+Avenue) 015
 
-I am interested in representation theory, singularity theory, and algebraic geometry.
+### Interests
+I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.
+I was an undergraduate at [MIT](http://web.mit.edu).
+
+I am interested in representation theory, singularity theory, and algebraic geometry.  
+My CV may be found [here](assets/bapat-cv.pdf).
 
 <!--
 Graduate student  
@@ -27,13 +26,14 @@ University of Chicago
 -->
 
 ### Papers/Preprints
-* The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements (with Robin Walters), _submitted_. [[pdf](papers/bapat-walters-2015.pdf)]
+* The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements (with Robin Walters), submitted. [[pdf](papers/bapat-walters-2015.pdf)]
 * The Bernstein-Sato $b$-function of the Vandermonde determinant (with Robin Walters). [[arXiv](http://arxiv.org/abs/1503.01055)]
 * Torus actions and tensor products of intersection cohomology, _Pacific Journal of Mathematics 276 (1):19--34, 2015_. [[pdf](papers/bapat-2015.pdf)] [[arXiv](http://arxiv.org/abs/1309.0859)]
-* Lower central series of free algebras in symmetric tensor categories (with David Jordan), _Journal of Algebra 373:299--311, 2013_. [[pdf](papers/bapat-jordan-2013.pdf)] [[arXiv](http://arxiv.org/abs/1001.1375)]
+* Lower central series of free algebras in symmetric tensor categories (with [David Jordan](http://www.maths.ed.ac.uk/~djordan/)), _Journal of Algebra 373:299--311, 2013_. [[pdf](papers/bapat-jordan-2013.pdf)] [[arXiv](http://arxiv.org/abs/1001.1375)]
+* Equivariant cohomology and the localization theorem, topic proposal (expository). [[pdf](papers/topic-proposal.pdf)]
 
 ### Teaching
-I am not teaching during Summer 2015.
+During Autumn 2015, I am teaching IBL Honors Calculus (Math 161).
 Older teaching activities are [here](teaching/).
 
 ### Other
