@@ -11,6 +11,6 @@ pandoc:
 #    - bibliography: 'assets/papers.bib'
 permalink: pretty
 
-baseurl: "http://math.uchicago.edu/~asilata"
+baseurl: "http://math.uchicago.edu/~asilata/"
   
 exclude: ['deploy', 'stylesheet.scss']
