@@ -50,7 +50,7 @@ $selection-text: $bg-faded;
 
 @media screen and (min-width: 960px) {
     body {
-        max-width:60%;
+        max-width:70%;
     }
 }
 
@@ -117,6 +117,23 @@ ol {
         tbody > tr:nth-child(odd) {
             background: $bg-faded;
         }
+    }
+}
+
+.bibliography {
+    table {
+        text-align: left;
+        border-collapse: collapse;
+        th, td {
+            padding: 0.5em;
+        }
+        tbody > tr:nth-child(odd) {
+            background: $bg-faded;
+        }
+        td:last-child {
+            @extend %faded-small;
+        }
+
     }
 }
 

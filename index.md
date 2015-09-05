@@ -25,7 +25,7 @@ I am interested in studying the topology of algebraic varieties, their singulari
 <div class="clearfix"></div>
 
 ### Papers/Preprints
-<div class="classplan">
+<div class="bibliography">
 | :-----                                                                                                                            | :----                                                                           |
 | The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements (with Robin Walters), _submitted_.                | [[pdf](papers/bapat-walters-2015.pdf)]                                          |
 | The Bernstein-Sato $b$-function of the Vandermonde determinant (with Robin Walters)                                               | [[arXiv](http://arxiv.org/abs/1503.01055)]                                      |
