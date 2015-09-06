@@ -20,10 +20,6 @@ I was an undergraduate at [MIT](http://web.mit.edu).
 I am interested in representation theory, singularity theory, and algebraic geometry.  
 My CV may be found [here](assets/bapat-cv.pdf).
 
-I am interested in studying the topology of algebraic varieties, their singularities, and connections to representation theory.
-
-<div class="clearfix"></div>
-
 ### Papers/Preprints
 <div class="bibliography">
 | :-----                                                                                                                            | :----                                                                           |
