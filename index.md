@@ -17,7 +17,7 @@ Chicago, IL 60637
 I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.
 I was an undergraduate at [MIT](http://web.mit.edu).
 
-I am interested in representation theory, singularity theory, and algebraic geometry.  
+I am interested in representation theory, singularity theory, and algebraic geometry.
 My CV may be found [here](assets/bapat-cv.pdf).
 
 ### Papers/Preprints
