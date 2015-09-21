@@ -11,7 +11,7 @@ Department of Mathematics, University of Chicago
 Chicago, IL 60637
 
 **Email:** `asilata` at `math` dot `uchicago` dot `edu`  
-**Office:** [Math-Stat](https://maps.uchicago.edu/?location=5727+South+University+Avenue) 015
+**Office:** [Eckhart](https://maps.uchicago.edu/?location=Eckhart+Hall) 2A
 
 ### Interests
 I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.
