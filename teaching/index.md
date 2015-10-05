@@ -5,7 +5,7 @@ title: Teaching
 
 # {{ page.title }}
 
-In Autumn 2015, I am teaching IBL Honors Calculus (Math 161).  
+In Autumn 2015, I am teaching [IBL Honors Calculus (Math 161)](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html).
 In the past, I have taught at the following places.
 
 * **Summer 2015:** Academic co-coordinator/mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2015).  

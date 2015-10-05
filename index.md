@@ -11,7 +11,7 @@ Department of Mathematics, University of Chicago
 Chicago, IL 60637
 
 **Email:** `asilata` at `math` dot `uchicago` dot `edu`  
-**Office:** [Math-Stat](https://maps.uchicago.edu/?location=5727+South+University+Avenue) 015
+**Office:** [Eckhart](https://maps.uchicago.edu/?location=Eckhart+Hall) 2A
 
 ### Interests
 I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.
@@ -31,10 +31,10 @@ My CV may be found [here](assets/bapat-cv.pdf).
 </div>
 
 ### Teaching
-During Autumn 2015, I am teaching IBL Honors Calculus (Math 161).
+During Autumn 2015, I am teaching [IBL Honors Calculus (Math 161)](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html).
 Older teaching activities are [here](teaching/).
 
 ### Other
 * Together with [Ruthi Hortsch](http://math.mit.edu/~rhortsch/), I was an academic co-coordinator (aka academic ordinator) of [Canada/USA Mathcamp 2015](http://www.mathcamp.org/2015).
-* [Student representation theory seminar](seminars/studentreptheory): Tuesdays and Thursdays at 3pm in the Barn (Ry 352).
+* [Student representation theory seminar](seminars/studentreptheory): Thursdays at 3pm in Eckhart 312.
 
