@@ -17,4 +17,5 @@ layout: default
 * **Nov 1 (approximate):** [MathJobs](https://www.mathjobs.org/)
 * **Nov 2:** G. H. Hardy Junior Research Fellowship in Mathematics, New College Oxford  
 (_Email letters to the Academic Registrar at [tuition@new.ox.ac.uk](mailto:tuition@new.ox.ac.uk)_)
-* **Nov 3:** Max Planck Institute of Mathematics, Bonn (_application pending_)
+* **Nov 3:** Max Planck Institute of Mathematics, Bonn  
+(_Instructions for letters have been sent over email_)
