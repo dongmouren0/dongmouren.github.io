@@ -17,7 +17,9 @@ layout: default
 * ~~**Nov 1 (approximate):** [MathJobs](https://www.mathjobs.org/)~~
 * ~~**Nov 2:** G. H. Hardy Junior Research Fellowship in Mathematics, New College Oxford  
 (_Email letters to the Academic Registrar at [tuition@new.ox.ac.uk](mailto:tuition@new.ox.ac.uk)_)~~
-* **Nov 3:** Max Planck Institute of Mathematics, Bonn  
-(_Instructions for letters have been sent over email_)
+* ~~**Nov 3:** Max Planck Institute of Mathematics, Bonn  
+(_Instructions for letters have been sent over email_)~~
+* **Nov 19:** Glasstone Research Fellowship in Science, Oxford University  
+(_Email letters to Gwen Booth at [gwen.booth@admin.ox.ac.uk](mailto:gwen.booth@admin.ox.ac.uk)_)
 * **Nov 22:** Universidad de los Andes  
 (_Email letters to [jobsmath@uniandes.edu.co](mailto:jobsmath@uniandes.edu.co)_)
