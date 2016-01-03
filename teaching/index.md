@@ -5,7 +5,7 @@ title: Teaching
 
 # {{ page.title }}
 
-In Winter 2016, I am teaching [IBL Honors Calculus (Math 162)](teaching/162win16/).
+In Winter 2016, I am teaching [IBL Honors Calculus (Math 162)](162win16/).
 In the past, I have taught at the following places.
 
 * **Autumn 2015:** Instructor for IBL Honors Calculus I ([Math 161](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html)).
