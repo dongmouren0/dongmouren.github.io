@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teaching
 title: Math 162 (Winter 2016)
 ---
 
