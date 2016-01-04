@@ -62,8 +62,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 ### Course materials
 
-* [Course information sheet](courseinfosheet.pdf)
-* [IBL primer](ibl.pdf)
+* [Course information sheet](documents/courseinfosheet.pdf)
+* [IBL primer](documents/ibl.pdf)
 * [Script #0](scripts/script_0_161.pdf) ([source code](scripts/script_0_161.tex))
 * [Script #1](scripts/script_1_161.pdf) ([source code](scripts/script_1_161.tex))
 * [Script #2](scripts/script_2_161.pdf) ([source code](scripts/script_2_161.tex))
