@@ -20,7 +20,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 | ------:       | :-----                                                                                                                              |
 | Time/place:   | TuTh 11:30am to 12:20pm in [Ryerson][ry] 358                                                                                 |
-| Instructors:  | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`), office hours TBA in [Eckhart][eck] 2A<br/>Matthew Creek (`mcreek` at `math` dot `uchicago` dot `edu`), office hours TBA in [Eckhart][eck] 306 |
+| Instructors:  | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`), office hours Tu 17:00--18:00, Th 9:00--10:00 and by appointment in [Eckhart][eck] 2A<br/>Matthew Creek (`mcreek` at `math` dot `uchicago` dot `edu`), office hours Tu 9:00--10:00, W 16:00--17:00, and by appointment in [Eckhart][eck] 306 |
 | College fellow:        | Anthony Wang (`ayw` at `uchicago` dot `edu`), office hours TBA in [Woodlawn][wood] 5E, clinic TBA in TBA   |
 
 [eck]: https://maps.uchicago.edu/?location=Eckhart+Hall
@@ -36,7 +36,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | Date  | Topic                         | Preparation Assignment                      | Homework Assignment | Additional Information |
 | :---  | :---                          | :---                                        | :---                | :---                   |
 | 01/05 | Compactness                   | Script #4, up to and including Theorem 4.26 |                     |                        |
-| 01/07 |                               |                                             |                     |                        |
+| 01/07 | Compactness, Heine-Borel      | Script #4, up to and including Theorem 4.36 (through the end)                                            |                     |                        |
 | 01/12 |                               |                                             |                     |                        |
 | 01/14 |                               |                                             |                     |                        |
 | 01/19 |                               |                                             |                     |                        |
