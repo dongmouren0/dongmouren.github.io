@@ -18,10 +18,11 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 <div class="infotable">
 
-| ------:       | :-----                                                                                                                              |
-| Time/place:   | TuTh 11:30am to 12:20pm in [Ryerson][ry] 358                                                                                 |
-| Instructors:  | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`), office hours Tu 17:00--18:00, Th 9:00--10:00 and by appointment in [Eckhart][eck] 2A<br/>Matthew Creek (`mcreek` at `math` dot `uchicago` dot `edu`), office hours Tu 9:00--10:00, W 16:00--17:00, and by appointment in [Eckhart][eck] 306 |
-| College fellow:        | Anthony Wang (`ayw` at `uchicago` dot `edu`), office hours TBA in [Woodlawn][wood] 5E, clinic TBA in TBA   |
+| ------:         | :-----                                                                                                                                                                                                                                                                                                    |
+| Time/place:     | TuTh 11:30am to 12:20pm in [Ryerson][ry] 358                                                                                                                                                                                                                                                              |
+| Instructors:    | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`), office hours Tu 17:00--18:00, Th 9:00--10:00 and by appointment in [Eckhart][eck] 2A<br/>Matthew Creek (`mcreek` at `math` dot `uchicago` dot `edu`), office hours Tu 9:00--10:00, W 16:00--17:00, and by appointment in [Eckhart][eck] 306 |
+| College fellow: | Anthony Wang (`ayw` at `uchicago` dot `edu`), office hours M 16:00--17:00 and F 16:00--17:00 in [Woodlawn][wood] 5E, clinic TBA in TBA                                                                                                                                                                    |
+
 
 [eck]: https://maps.uchicago.edu/?location=Eckhart+Hall
 [wood]: https://maps.uchicago.edu/?location=5720+South+Woodlawn+Avenue
@@ -33,30 +34,30 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 <div class="classplan">
 
-| Date  | Topic                         | Preparation Assignment                      | Homework Assignment | Additional Information |
-| :---  | :---                          | :---                                        | :---                | :---                   |
-| 01/05 | Compactness                   | Script #4, up to and including Theorem 4.26 |                     |                        |
-| 01/07 | Compactness, Heine-Borel      | Script #4, up to and including Theorem 4.36 (through the end)                                            |                     |                        |
-| 01/12 |                               |                                             |                     |                        |
-| 01/14 |                               |                                             |                     |                        |
-| 01/19 |                               |                                             |                     |                        |
-| 01/21 |                               |                                             |                     |                        |
-| 01/26 |                               |                                             |                     |                        |
-| 01/28 |                               |                                             |                     |                        |
-| 02/02 |                               |                                             |                     |                        |
-| 02/04 |                               |                                             |                     |                        |
-| 02/09 |                               |                                             |                     |                        |
-| 02/11 |                               |                                             |                     |                        |
-| 02/16 |                               |                                             |                     |                        |
-| 02/18 |                               |                                             |                     |                        |
-| 02/23 |                               |                                             |                     |                        |
-| 02/25 |                               |                                             |                     |                        |
-| 03/01 |                               |                                             |                     |                        |
-| 03/03 |                               |                                             |                     |                        |
-| 03/08 |                               |                                             |                     |                        |
-| 03/10 | **Reading period**            |                                             |                     |                        |
-| 03/15 |                               |                                             |                     |                        |
-| 03/17 | **Written final examination** |                                             |                     |                        |
+| Date  | Topic                                                  | Preparation Assignment                                                          | Homework Assignment | Additional Information |
+| :---  | :---                                                   | :---                                                                            | :---                | :---                   |
+| 01/05 | Compactness                                            | Script #4, up to and including Theorem 4.26                                     |                     |                        |
+| 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                     |                        |
+| 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                     |                        |
+| 01/14 |                                                        |                                                                                 |                     |                        |
+| 01/19 |                                                        |                                                                                 |                     |                        |
+| 01/21 |                                                        |                                                                                 |                     |                        |
+| 01/26 |                                                        |                                                                                 |                     |                        |
+| 01/28 |                                                        |                                                                                 |                     |                        |
+| 02/02 |                                                        |                                                                                 |                     |                        |
+| 02/04 |                                                        |                                                                                 |                     |                        |
+| 02/09 |                                                        |                                                                                 |                     |                        |
+| 02/11 |                                                        |                                                                                 |                     |                        |
+| 02/16 |                                                        |                                                                                 |                     |                        |
+| 02/18 |                                                        |                                                                                 |                     |                        |
+| 02/23 |                                                        |                                                                                 |                     |                        |
+| 02/25 |                                                        |                                                                                 |                     |                        |
+| 03/01 |                                                        |                                                                                 |                     |                        |
+| 03/03 |                                                        |                                                                                 |                     |                        |
+| 03/08 |                                                        |                                                                                 |                     |                        |
+| 03/10 | **Reading period**                                     |                                                                                 |                     |                        |
+| 03/15 |                                                        |                                                                                 |                     |                        |
+| 03/17 | **Written final examination**                          |                                                                                 |                     |                        |
 
 </div>
 
@@ -70,6 +71,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Script #3 original](scripts/script_3_161_original.pdf) ([source code](scripts/script_3_161_original.tex))
 * [Script #3 updated](scripts/script_3_161_updated.pdf) ([source code](scripts/script_3_161_updated.tex))
 * [Script #4](scripts/script_4_161.pdf) ([source code](scripts/script_4_161.tex))
+* [Script #5](scripts/script_5_161.pdf) ([source code](scripts/script_5_161.tex))
 
 ----
 ### Older announcements
