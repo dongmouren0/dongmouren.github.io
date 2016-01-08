@@ -21,7 +21,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | ------:         | :-----                                                                                                                                                                                                                                                                                                    |
 | Time/place:     | TuTh 11:30am to 12:20pm in [Ryerson][ry] 358                                                                                                                                                                                                                                                              |
 | Instructors:    | Asilata Bapat (`asilata` at `math` dot `uchicago` dot `edu`), office hours Tu 17:00--18:00, Th 9:00--10:00 and by appointment in [Eckhart][eck] 2A<br/>Matthew Creek (`mcreek` at `math` dot `uchicago` dot `edu`), office hours Tu 9:00--10:00, W 16:00--17:00, and by appointment in [Eckhart][eck] 306 |
-| College fellow: | Anthony Wang (`ayw` at `uchicago` dot `edu`), office hours M 16:00--17:00 and F 16:00--17:00 in [Woodlawn][wood] 5E, clinic TBA in TBA                                                                                                                                                                    |
+| College fellow: | Anthony Wang (`ayw` at `uchicago` dot `edu`), office hours M 16:00--17:00, F 16:00--17:00, and by appointment in [Woodlawn][wood] 5E, problem session M 18:00--19:00 in [Ryerson][ry] 358                                                                                                                                           |
 
 
 [eck]: https://maps.uchicago.edu/?location=Eckhart+Hall
