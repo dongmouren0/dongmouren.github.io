@@ -34,30 +34,30 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 <div class="classplan">
 
-| Date  | Topic                                                  | Preparation Assignment                                                          | Homework Assignment | Additional Information |
-| :---  | :---                                                   | :---                                                                            | :---                | :---                   |
-| 01/05 | Compactness                                            | Script #4, up to and including Theorem 4.26                                     |                     |                        |
-| 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                     |                        |
-| 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                     |                        |
-| 01/14 |                                                        |                                                                                 |                     |                        |
-| 01/19 |                                                        |                                                                                 |                     |                        |
-| 01/21 |                                                        |                                                                                 |                     |                        |
-| 01/26 |                                                        |                                                                                 |                     |                        |
-| 01/28 |                                                        |                                                                                 |                     |                        |
-| 02/02 |                                                        |                                                                                 |                     |                        |
-| 02/04 |                                                        |                                                                                 |                     |                        |
-| 02/09 |                                                        |                                                                                 |                     |                        |
-| 02/11 |                                                        |                                                                                 |                     |                        |
-| 02/16 |                                                        |                                                                                 |                     |                        |
-| 02/18 |                                                        |                                                                                 |                     |                        |
-| 02/23 |                                                        |                                                                                 |                     |                        |
-| 02/25 |                                                        |                                                                                 |                     |                        |
-| 03/01 |                                                        |                                                                                 |                     |                        |
-| 03/03 |                                                        |                                                                                 |                     |                        |
-| 03/08 |                                                        |                                                                                 |                     |                        |
-| 03/10 | **Reading period**                                     |                                                                                 |                     |                        |
-| 03/15 |                                                        |                                                                                 |                     |                        |
-| 03/17 | **Written final examination**                          |                                                                                 |                     |                        |
+| Date  | Topic                                                  | Preparation Assignment                                                          | Homework Assignment | Additional Information           |
+| :---  | :---                                                   | :---                                                                            | :---                | :---                             |
+| 01/05 | Compactness                                            | Script #4, up to and including Theorem 4.26                                     |                     |                                  |
+| 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                     |                                  |
+| 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                     |                                  |
+| 01/14 | Subspace topology, continuous functions                | Script #5, up to and including Theorem 5.17                                     |                     |                                  |
+| 01/19 |                                                        |                                                                                 |                     | Journal due in class (Script #4) |
+| 01/21 |                                                        |                                                                                 |                     |                                  |
+| 01/26 |                                                        |                                                                                 |                     |                                  |
+| 01/28 |                                                        |                                                                                 |                     |                                  |
+| 02/02 |                                                        |                                                                                 |                     |                                  |
+| 02/04 |                                                        |                                                                                 |                     |                                  |
+| 02/09 |                                                        |                                                                                 |                     |                                  |
+| 02/11 |                                                        |                                                                                 |                     |                                  |
+| 02/16 |                                                        |                                                                                 |                     |                                  |
+| 02/18 |                                                        |                                                                                 |                     |                                  |
+| 02/23 |                                                        |                                                                                 |                     |                                  |
+| 02/25 |                                                        |                                                                                 |                     |                                  |
+| 03/01 |                                                        |                                                                                 |                     |                                  |
+| 03/03 |                                                        |                                                                                 |                     |                                  |
+| 03/08 |                                                        |                                                                                 |                     |                                  |
+| 03/10 | **Reading period**                                     |                                                                                 |                     |                                  |
+| 03/15 |                                                        |                                                                                 |                     |                                  |
+| 03/17 | **Written final examination**                          |                                                                                 |                     |                                  |
 
 </div>
 
