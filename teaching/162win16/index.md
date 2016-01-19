@@ -40,8 +40,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                                  |
 | 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                                  |
 | 01/14 | Subspace topology, continuous functions                | Script #5, up to and including Theorem 5.17                                     |                                  |
-| 01/19 | Subspace topology, continuous functions                | Script #5, up to and including Exercise 5.21 (through the end)                  | Journal due in class (Script #4) |
-| 01/21 |                                                        |                                                                                 | Problem set #1 due in class      |
+| 01/19 | Continuous functions, intermediate value theorem       | Script #5, up to and including Exercise 5.21 (through the end)                  | Journal due in class (Script #4) |
+| 01/21 | Extreme value theorem, field axioms                    | Script #6, up to and including Lemma 6.18                                       | Problem set #1 due in class      |
 | 01/26 |                                                        |                                                                                 |                                  |
 | 01/28 |                                                        |                                                                                 |                                  |
 | 02/02 |                                                        |                                                                                 |                                  |
@@ -72,6 +72,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Script #3 updated](scripts/script_3_161_updated.pdf) ([source code](scripts/script_3_161_updated.tex))
 * [Script #4](scripts/script_4_161.pdf) ([source code](scripts/script_4_161.tex))
 * [Script #5](scripts/script_5_161.pdf) ([source code](scripts/script_5_161.tex))
+* [Script #6](scripts/script_6_161.pdf) ([source code](scripts/script_6_161.tex))
 
 ### Problem sets
 
