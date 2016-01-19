@@ -69,7 +69,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Script #1](scripts/script_1_161.pdf) ([source code](scripts/script_1_161.tex))
 * [Script #2](scripts/script_2_161.pdf) ([source code](scripts/script_2_161.tex))
 * [Script #3 original](scripts/script_3_161_original.pdf) ([source code](scripts/script_3_161_original.tex))
-* [Script #3 updated](scripts/script_3_161_updated.pdf) ([source code](scripts/script_3_161_updated.tex))
+* [Script #3 updated](scripts/script_3_161.pdf) ([source code](scripts/script_3_161.tex))
 * [Script #4](scripts/script_4_161.pdf) ([source code](scripts/script_4_161.tex))
 * [Script #5](scripts/script_5_161.pdf) ([source code](scripts/script_5_161.tex))
 * [Script #6](scripts/script_6_161.pdf) ([source code](scripts/script_6_161.tex))
