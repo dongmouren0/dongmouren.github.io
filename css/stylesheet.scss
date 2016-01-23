@@ -22,7 +22,7 @@
 
 @media screen and (min-width: 960px) {
     body {
-        max-width:60%;
+        max-width:70%;
     }
 }
 
@@ -82,13 +82,30 @@ ol {
         text-align: left;
         border-collapse: collapse;
         th, td {
-        padding: 0.5em;
-        border-top: 0.1em solid;
-        border-bottom: 0.1em solid;
+            padding: 0.5em;
+            border-top: 0.1em solid;
+            border-bottom: 0.1em solid;
         }
         tbody > tr:nth-child(odd) {
             background: $bg-faded;
         }
+    }
+}
+
+.bibliography {
+    table {
+        text-align: left;
+        border-collapse: collapse;
+        th, td {
+            padding: 0.5em;
+        }
+        tbody > tr:nth-child(odd) {
+            background: $bg-faded;
+        }
+        td:last-child {
+            @extend %faded-small;
+        }
+
     }
 }
 
@@ -144,6 +161,7 @@ ol {
     width:15em;
     margin-bottom: 1%;
     margin-left: 1%;
+    border: solid 0.1em $fg-faded;
     @media screen and (min-width: 960px) {
         width: 20em;
     }
@@ -152,4 +170,9 @@ ol {
         clear: none;
         margin-left: 0;
     }
+}
+
+.clearfix{
+    float: none;
+    clear: both;
 }

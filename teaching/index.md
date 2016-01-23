@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: teaching
 title: Teaching
 ---
 
 # {{ page.title }}
 
-During Winter 2015, I am teaching Math 113. In the past, I have taught at the following places.
+In Winter 2016, I am teaching [IBL Honors Calculus (Math 162)](162win16/).
+In the past, I have taught at the following places.
 
-* **Autumn 2014:** Math 112 (Studies in Mathematics 1: Elementary Number Theory). [Website](112aut14/).
-* **Summer 2014:** Math 196 (Linear Algebra). Website available on [Chalk](http://chalk.uchicago.edu).
-* **Spring 2014:** Math 153 (Calculus 3). [Website](153spr14/).
-* **Winter 2014:** Math 152 (Calculus 2). [Website](152win14/).
-* **Autumn 2013:** Math 151 (Calculus 1). [Website](151aut13/).
-* **Summer 2013:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
-* **Spring 2013:** Math 153 (Calculus 3). [Website](153spr13/).
-* **Winter 2013:** Math 152 (Calculus 2). Website available on [Chalk](http://chalk.uchicago.edu).
-* **Autumn 2012:** Math 151 (Calculus 1). Website available on [Chalk](http://chalk.uchicago.edu).
-* **Summer 2012:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org). Taught several undergraduate-level courses.
-* **Spring 2012:** College fellow for Math 259 (Honors Algebra 3).
-* **Winter 2012:** College fellow for Math 258 (Honors Algebra 2).
-* **Autumn 2011:** College fellow for Math 257 (Honors Algebra 1).
+* **Autumn 2015:** Instructor for IBL Honors Calculus I ([Math 161](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html)).
+* **Summer 2015:** Academic co-coordinator/mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2015).  
+_Coordinated the academic schedule, invited visiting speakers, and taught several undergraduate-level courses._
+* **2014--2015:** Instructor for Studies in Mathematics I and II (Math [112](112aut14/) and [113](113win15/)).  
+_No teaching duties in Spring 2015._
+* **Summer 2014:** Instructor for Linear Algebra (Math 196).
+* **2013--2014:** Instructor for Calculus I, II, and III (Math [151](151aut13/), [152](152win14/), and [153](153spr14/)).
+* **Summer 2013:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2013).  
+_Taught several undergraduate-level courses._
+* **2012--2013:** Instructor for Calculus I, II, and III (Math 151, 152, and [153](153spr13/)).
+* **Summer 2012:** Mentor at [Canada/USA Mathcamp](http://www.mathcamp.org/2012).  
+_Taught several undergraduate-level courses._
+* **2011--2012:** College fellow for Honors Algebra I, II, and III (Math 257, 258, and 259).
 
