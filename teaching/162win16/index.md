@@ -43,9 +43,9 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 01/19 | Continuous functions, intermediate value theorem       | Script #5, up to and including Exercise 5.21 (through the end)                  | Journal due in class (Script #4) |
 | 01/21 | Extreme value theorem, field axioms                    | Script #6, up to and including Lemma 6.18                                       | Problem set #1 due in class      |
 | 01/26 | Ordered fields                                         | Script #6, up to and including Theorem 6.27 (through the end)                   |                                  |
-| 01/28 | Ordered fields, the real numbers                       | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5) |
-| 02/02 |                                                        |                                                                                 |                                  |
-| 02/04 |                                                        |                                                                                 |                                  |
+| 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5) |
+| 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                  |
+| 02/04 |                                                        |                                                                                 | Journal due in class (Script #6) |
 | 02/09 |                                                        |                                                                                 |                                  |
 | 02/11 |                                                        |                                                                                 |                                  |
 | 02/16 |                                                        |                                                                                 |                                  |
