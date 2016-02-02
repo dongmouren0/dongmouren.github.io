@@ -45,7 +45,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 01/26 | Ordered fields                                         | Script #6, up to and including Theorem 6.27 (through the end)                   |                                  |
 | 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5) |
 | 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                  |
-| 02/04 |                                                        |                                                                                 | Journal due in class (Script #6) |
+| 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6) |
 | 02/09 |                                                        |                                                                                 |                                  |
 | 02/11 |                                                        |                                                                                 |                                  |
 | 02/16 |                                                        |                                                                                 |                                  |
