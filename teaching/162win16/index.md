@@ -34,30 +34,32 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 <div class="classplan">
 
-| Date  | Topic                                                  | Preparation Assignment                                                          | Additional Information           |
-| :---  | :---                                                   | :---                                                                            | :---                             |
-| 01/05 | Compactness                                            | Script #4, up to and including Theorem 4.26                                     |                                  |
-| 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                                  |
-| 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                                  |
-| 01/14 | Subspace topology, continuous functions                | Script #5, up to and including Theorem 5.17                                     |                                  |
-| 01/19 | Continuous functions, intermediate value theorem       | Script #5, up to and including Exercise 5.21 (through the end)                  | Journal due in class (Script #4) |
-| 01/21 | Extreme value theorem, field axioms                    | Script #6, up to and including Lemma 6.18                                       | Problem set #1 due in class      |
-| 01/26 | Ordered fields                                         | Script #6, up to and including Theorem 6.27 (through the end)                   |                                  |
-| 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5) |
-| 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                  |
-| 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6) |
-| 02/09 |                                                        |                                                                                 |                                  |
-| 02/11 |                                                        |                                                                                 |                                  |
-| 02/16 |                                                        |                                                                                 |                                  |
-| 02/18 |                                                        |                                                                                 |                                  |
-| 02/23 |                                                        |                                                                                 |                                  |
-| 02/25 |                                                        |                                                                                 |                                  |
-| 03/01 |                                                        |                                                                                 |                                  |
-| 03/03 |                                                        |                                                                                 |                                  |
-| 03/08 |                                                        |                                                                                 |                                  |
-| 03/10 | **Reading period**                                     |                                                                                 |                                  |
-| 03/15 |                                                        |                                                                                 |                                  |
-| 03/17 | **Written final examination**                          |                                                                                 |                                  |
+| Date  | Topic                                                  | Preparation Assignment                                                          | Additional Information            |
+| :---  | :---                                                   | :---                                                                            | :---                              |
+| 01/05 | Compactness                                            | Script #4, up to and including Theorem 4.26                                     |                                   |
+| 01/07 | Compactness, Heine-Borel                               | Script #4, up to and including Theorem 4.36 (through the end)                   |                                   |
+| 01/12 | Heine-Borel, Bolzano-Weierstrass, Continuous functions | Script #4 (through the end) and Script #5, up to and including Proposition 5.11 |                                   |
+| 01/14 | Subspace topology, continuous functions                | Script #5, up to and including Theorem 5.17                                     |                                   |
+| 01/19 | Continuous functions, intermediate value theorem       | Script #5, up to and including Exercise 5.21 (through the end)                  | Journal due in class (Script #4)  |
+| 01/21 | Extreme value theorem, field axioms                    | Script #6, up to and including Lemma 6.18                                       | Problem set #1 due in class       |
+| 01/26 | Ordered fields                                         | Script #6, up to and including Theorem 6.27 (through the end)                   |                                   |
+| 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5)  |
+| 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                   |
+| 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6)  |
+| 02/09 |                                                        |                                                                                 |                                   |
+| 02/11 |                                                        |                                                                                 | Read [supplementary document][of] |
+| 02/16 |                                                        |                                                                                 |                                   |
+| 02/18 |                                                        |                                                                                 |                                   |
+| 02/23 |                                                        |                                                                                 |                                   |
+| 02/25 |                                                        |                                                                                 |                                   |
+| 03/01 |                                                        |                                                                                 |                                   |
+| 03/03 |                                                        |                                                                                 |                                   |
+| 03/08 |                                                        |                                                                                 |                                   |
+| 03/10 | **Reading period**                                     |                                                                                 |                                   |
+| 03/15 |                                                        |                                                                                 |                                   |
+| 03/17 | **Written final examination**                          |                                                                                 |                                   |
+
+[of]: scripts/order-function.pdf
 
 </div>
 
