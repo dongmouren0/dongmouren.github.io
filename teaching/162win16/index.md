@@ -46,8 +46,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5)  |
 | 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                   |
 | 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6)  |
-| 02/09 |                                                        |                                                                                 |                                   |
-| 02/11 |                                                        |                                                                                 | Read [supplementary document][of] |
+| 02/09 |                                                        |                                                                                 | Read [supplementary document][of] |
+| 02/11 |                                                        |                                                                                 |                                   |
 | 02/16 |                                                        |                                                                                 |                                   |
 | 02/18 |                                                        |                                                                                 |                                   |
 | 02/23 |                                                        |                                                                                 |                                   |
@@ -58,8 +58,6 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 03/10 | **Reading period**                                     |                                                                                 |                                   |
 | 03/15 |                                                        |                                                                                 |                                   |
 | 03/17 | **Written final examination**                          |                                                                                 |                                   |
-
-[of]: scripts/order-function.pdf
 
 </div>
 
@@ -76,6 +74,10 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Script #5](scripts/script_5_161.pdf) ([source code](scripts/script_5_161.tex))
 * [Script #6](scripts/script_6_161.pdf) ([source code](scripts/script_6_161.tex))
 * [Script #7](scripts/script_7_161.pdf) ([source code](scripts/script_7_161.tex))
+* [Supplementary document][of] about a function from one ordered set to another
+
+[of]: scripts/order-function.pdf
+
 
 ### Problem sets
 
