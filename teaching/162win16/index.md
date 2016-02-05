@@ -46,8 +46,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 01/28 | Ordered fields                                         | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #5)  |
 | 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                   |
 | 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6)  |
-| 02/09 |                                                        |                                                                                 | Read [supplementary document][of] |
-| 02/11 |                                                        |                                                                                 |                                   |
+| 02/09 | **Anthony's lecture** (more about $\mathbb{R}$)        |                                                                                 | Read [supplementary document][of] |
+| 02/11 |                                                        |                                                                                 | Problem set #2 due in class       |
 | 02/16 |                                                        |                                                                                 |                                   |
 | 02/18 |                                                        |                                                                                 |                                   |
 | 02/23 |                                                        |                                                                                 |                                   |
@@ -82,6 +82,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 ### Problem sets
 
 * [Problem Set 1](problem_sets/ps1.pdf): Due on Thursday, Jan 21
+* [Problem Set 2](problem_sets/ps2.pdf): Due on Thursday, Feb 11
 
 
 ----
