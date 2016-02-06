@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: untracked
 title: Math 162 (Winter 2016)
 ---
 
