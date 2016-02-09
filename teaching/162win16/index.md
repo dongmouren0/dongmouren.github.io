@@ -47,7 +47,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 02/02 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   |                                   |
 | 02/04 | Dedekind cuts                                          | Script #7, up to and including Corollary 7.14                                   | Journal due in class (Script #6)  |
 | 02/09 | **Anthony's lecture** (more about $\mathbb{R}$)        |                                                                                 | Read [supplementary document][of] |
-| 02/11 |                                                        |                                                                                 | Problem set #2 due in class       |
+| 02/11 | Properties of the reals                                | Script #7, up to and including Theorem 7.22                                     | Problem set #2 due in class       |
 | 02/16 |                                                        |                                                                                 |                                   |
 | 02/18 |                                                        |                                                                                 |                                   |
 | 02/23 |                                                        |                                                                                 |                                   |
@@ -75,6 +75,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Script #6](scripts/script_6_161.pdf) ([source code](scripts/script_6_161.tex))
 * [Script #7](scripts/script_7_161.pdf) ([source code](scripts/script_7_161.tex))
 * [Supplementary document][of] about a function from one ordered set to another
+* [Notes from Anthony's lecture](scripts/real-properties.pdf)
 
 [of]: scripts/order-function.pdf
 
