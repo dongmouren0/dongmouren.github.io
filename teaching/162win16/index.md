@@ -49,8 +49,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 02/09 | **Anthony's lecture** (more about $\mathbb{R}$)        |                                                                                 | Read [supplementary document][of] |
 | 02/11 | Properties of the reals                                | Script #7, up to and including Theorem 7.22                                     | Problem set #2 due in class       |
 | 02/16 | Sequences and limits                                   | Script #8, up to and including Lemma 8.17                                       |                                   |
-| 02/18 |                                                        |                                                                                 |                                   |
-| 02/23 |                                                        |                                                                                 |                                   |
+| 02/18 | Sequences and limits                                   | Script #8, up to and including Theorem 8.22 (through the end)                   | Problem Set #3 due in class       |
+| 02/23 |                                                        |                                                                                 | Journal due (Script #7)           |
 | 02/25 |                                                        |                                                                                 |                                   |
 | 03/01 |                                                        |                                                                                 |                                   |
 | 03/03 |                                                        |                                                                                 |                                   |
@@ -85,7 +85,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 * [Problem Set 1](problem_sets/ps1.pdf): Due on Thursday, Jan 21
 * [Problem Set 2](problem_sets/ps2.pdf): Due on Thursday, Feb 11
-
+* [Problem Set 3](problem_sets/ps3.pdf): Due on Thursday, Feb 18
 
 ----
 ### Older announcements
