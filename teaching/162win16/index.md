@@ -50,8 +50,8 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 02/11 | Properties of the reals                                | Script #7, up to and including Theorem 7.22                                     | Problem set #2 due in class       |
 | 02/16 | Sequences and limits                                   | Script #8, up to and including Lemma 8.17                                       |                                   |
 | 02/18 | Sequences and limits                                   | Script #8, up to and including Theorem 8.22 (through the end)                   | Problem Set #3 due in class       |
-| 02/23 |                                                        |                                                                                 | Journal due (Script #7)           |
-| 02/25 |                                                        |                                                                                 |                                   |
+| 02/23 | Sequences and limits                                   | Script #9, up to and including Theorem 9.5                                      | Journal due in class (Script #7)  |
+| 02/25 |                                                        |                                                                                 | Problem Set #4 due in class       |
 | 03/01 |                                                        |                                                                                 |                                   |
 | 03/03 |                                                        |                                                                                 |                                   |
 | 03/08 |                                                        |                                                                                 |                                   |
@@ -77,6 +77,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Supplementary document][of] about a function from one ordered set to another
 * [Notes from Anthony's lecture](scripts/real-properties.pdf)
 * [Script #8](scripts/script_8_161.pdf) ([source code](scripts/script_8_161.tex))
+* [Script #9](scripts/script_9_161.pdf) ([source code](scripts/script_9_161.tex))
 
 [of]: scripts/order-function.pdf
 
@@ -86,6 +87,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Problem Set 1](problem_sets/ps1.pdf): Due on Thursday, Jan 21
 * [Problem Set 2](problem_sets/ps2.pdf): Due on Thursday, Feb 11
 * [Problem Set 3](problem_sets/ps3.pdf): Due on Thursday, Feb 18
+* [Problem Set 4](problem_sets/ps4.pdf): Due on Thursday, Feb 25
 
 ----
 ### Older announcements
