@@ -51,9 +51,9 @@ Older announcements are [here](#older-announcements). Course materials are [here
 | 02/16 | Sequences and limits                                   | Script #8, up to and including Lemma 8.17                                       |                                   |
 | 02/18 | Sequences and limits                                   | Script #8, up to and including Theorem 8.22 (through the end)                   | Problem Set #3 due in class       |
 | 02/23 | Sequences and limits                                   | Script #9, up to and including Theorem 9.5                                      | Journal due in class (Script #7)  |
-| 02/25 |                                                        |                                                                                 | Problem Set #4 due in class       |
+| 02/25 | Limits of functions                                    | Script #9, up to and including Corollary 9.14                                   | Problem Set #4 due in class       |
 | 03/01 |                                                        |                                                                                 |                                   |
-| 03/03 |                                                        |                                                                                 |                                   |
+| 03/03 |                                                        |                                                                                 | Journal due in class (Script #8)  |
 | 03/08 |                                                        |                                                                                 |                                   |
 | 03/10 | **Reading period**                                     |                                                                                 |                                   |
 | 03/15 |                                                        |                                                                                 |                                   |
