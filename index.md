@@ -31,7 +31,7 @@ My CV may be found [here](assets/bapat-cv.pdf).
 </div>
 
 ### Teaching
-During Winter 2016, I am teaching [IBL Honors Calculus (Math 162)](teaching/162win16/).
+I am not teaching during Spring 2016.
 Older teaching activities are [here](teaching/).
 
 ### Other
