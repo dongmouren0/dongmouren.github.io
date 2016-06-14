@@ -2,4 +2,7 @@ _site/
 deploy
 .sass-cache/
 stylesheet.css
-/.hyde.el
+.hyde.el
+_drafts/
+*.woff
+
