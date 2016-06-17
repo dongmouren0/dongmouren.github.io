@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Time change"
 date: "2016-03-11 16:53:30 -0600"
 ---

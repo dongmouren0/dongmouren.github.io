@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Office hours this tuesday"
 date: "2016-02-08 21:55:25 -0600"
 ---

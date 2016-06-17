@@ -14,3 +14,12 @@ permalink: pretty
 baseurl: "http://math.uchicago.edu/~asilata/"
   
 exclude: ['deploy', 'stylesheet.scss']
+
+analytics_id: "UA-52510464-1"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      analytics: true

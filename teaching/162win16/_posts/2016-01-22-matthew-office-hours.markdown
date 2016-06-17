@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "matthew office hours"
 date: "2016-01-22 11:46:24 -0600"
 ---

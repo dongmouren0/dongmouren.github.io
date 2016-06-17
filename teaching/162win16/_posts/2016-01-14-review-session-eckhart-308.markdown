@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "review session eckhart 308"
 date: "2016-01-14 17:54:04 -0600"
 ---

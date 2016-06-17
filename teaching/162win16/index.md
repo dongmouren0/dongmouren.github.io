@@ -1,5 +1,6 @@
 ---
-layout: untracked
+layout: default
+analytics: false
 title: Math 162 (Winter 2016)
 ---
 
