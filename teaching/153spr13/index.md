@@ -6,7 +6,7 @@ title: Math 153 (Spring 2013)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.153spr13 limit: 3 %}
+{% for post in site.categories['153spr13'] limit: 3 %}
 * _({{ post.date | date: "%a %b %d" }})_ {{ post.content | strip_html }}
 {% endfor %}
 Older announcements are [here](#older-announcements).
@@ -199,6 +199,6 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 </div>
 
 ### Older announcements
-{% for post in site.categories.153spr13 offset: 3%}
+{% for post in site.categories['153spr13'] offset: 3%}
 * _({{ post.date | date: "%a %b %d" }})_ {{ post.content | strip_html }}
 {% endfor %}

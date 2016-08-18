@@ -6,7 +6,7 @@ title: Math 152 (Winter 2014)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.152win14 limit: 3 %}
+{% for post in site.categories['152win14'] limit: 3 %}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html}}
 {% endfor %}
 Older announcements are [here](#older-announcements).
@@ -111,7 +111,7 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 
 ----
 ### Older announcements
-{% for post in site.categories.152win14 offset: 3%}
+{% for post in site.categories['152win14'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
 {% endfor %}
 

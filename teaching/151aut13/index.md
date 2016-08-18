@@ -6,7 +6,7 @@ title: Math 151 (Autumn 2013)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.151aut13 limit: 3 %}
+{% for post in site.categories['151aut13'] limit: 3 %}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html}}
 {% endfor %}
 Older announcements are [here](#older-announcements).
@@ -145,7 +145,7 @@ These are problems from Chapter 4. For practice problems on the earlier material
 
 ----
 ### Older announcements
-{% for post in site.categories.151aut13 offset: 3%}
+{% for post in site.categories['151aut13'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}
 {% endfor %}
 

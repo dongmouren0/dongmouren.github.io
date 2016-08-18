@@ -6,7 +6,7 @@ title: Math 112 (Autumn 2014)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.112aut14 limit: 3 %}
+{% for post in site.categories['112aut14'] limit: 3 %}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>'}}
 {% endfor %}
 Older announcements are [here](#older-announcements). Homeworks are [here](#homeworks).
@@ -193,6 +193,6 @@ This homework is due by email, and it is due by 5pm on Friday, Nov 21. This home
 
 ----
 ### Older announcements
-{% for post in site.categories.112aut14 offset: 3%}
+{% for post in site.categories['112aut14'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% endfor %}

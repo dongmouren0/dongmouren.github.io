@@ -8,7 +8,7 @@ title: Math 162 (Winter 2016)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.162win16 limit: 3 %}
+{% for post in site.categories['162win16'] limit: 3 %}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>'}}
 {% endfor %}
 Older announcements are [here](#older-announcements). Course materials are [here](#course-materials). Problem sets are [here](#problem-sets).
@@ -92,6 +92,6 @@ Older announcements are [here](#older-announcements). Course materials are [here
 
 ----
 ### Older announcements
-{% for post in site.categories.162win16 offset: 3%}
+{% for post in site.categories['162win16'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
