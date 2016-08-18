@@ -1,16 +1,19 @@
 url: "http://localhost:4000"
 
-##paginate: 10
+kramdown:
+  parse_block_html: true
 
-markdown: pandoc
-pandoc:
-  extensions:
-    - smart
-    - mathjax
-#    - csl: 'assets/bibtex.csl'
-#    - bibliography: 'assets/papers.bib'
 permalink: pretty
 
 baseurl: "http://math.uchicago.edu/~asilata/"
   
 exclude: ['deploy', 'stylesheet.scss', 'themes']
+
+analytics_id: "UA-52510464-1"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      analytics: true

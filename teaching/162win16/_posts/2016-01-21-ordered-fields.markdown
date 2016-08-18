@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "ordered fields"
 date: "2016-01-21 15:44:54 -0600"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "problem set 1"
 date: "2016-01-14 17:40:02 -0600"
 ---

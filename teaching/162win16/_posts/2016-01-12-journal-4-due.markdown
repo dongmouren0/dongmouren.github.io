@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "journal 4 due"
 date: "2016-01-12 13:27:33 -0600"
 ---
