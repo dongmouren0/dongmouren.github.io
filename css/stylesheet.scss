@@ -1,3 +1,6 @@
+---
+---
+
 // Colour palette
 $base3:     #002b36;
 $base2:     #073642;
@@ -26,10 +29,13 @@ $link-focus: $violet;
 $link-focus-faded: $violet;
 $header: $orange;
 $code: $green;
+$selection: $yellow;
+$selection-text: $bg-faded;
 
 @media screen and (max-width: 480px) {
     body {
         max-width:95%;
+        font-size:80%;
     }
 }
 
@@ -42,23 +48,23 @@ $code: $green;
 
 @media screen and (min-width: 960px) {
     body {
-        max-width:65%;
+        max-width:70%;
     }
 }
 
 body {
-    font-family: Helvetica, Arial, Sans-Serif;
+    font-family: 'Lato', Helvetica, Arial, Sans-Serif;
     background: $bg;
     color: $fg;
     margin-left:auto;
     margin-right:auto;
     ::-moz-selection {
-        background: $yellow;
-        color: $bg-faded;
+        background: $selection;
+        color: $selection-text;
     }
     ::selection {
-        background: $yellow;
-        color: $bg-faded;
+        background: $selection;
+        color: $selection-text;
     }
 }
 
@@ -87,14 +93,24 @@ ul {
     padding-left: 1em;
 }
 
+ol {
+    padding-left: 1em;
+    li {
+        padding-left: 0.5em;
+        ol li {
+            list-style-type: lower-alpha;
+        }
+    }
+}
+
 .classplan {
     table {
         text-align: left;
         border-collapse: collapse;
         th, td {
-        padding: 0.5em;
-        border-top: 0.1em solid;
-        border-bottom: 0.1em solid;
+            padding: 0.5em;
+            border-top: 0.1em solid;
+            border-bottom: 0.1em solid;
         }
         tbody > tr:nth-child(odd) {
             background: $bg-faded;
@@ -102,8 +118,26 @@ ul {
     }
 }
 
+.bibliography {
+    table {
+        text-align: left;
+        border-collapse: collapse;
+        th, td {
+            padding: 0.5em;
+        }
+        tbody > tr:nth-child(odd) {
+            background: $bg-faded;
+        }
+        td:last-child {
+            @extend %faded-small;
+        }
+
+    }
+}
+
 .infotable {
     table {
+        padding-top: 0.5em;
         background: $bg-faded;
         border-collapse:collapse;
         th, td {
@@ -116,7 +150,7 @@ ul {
     }
 }
 
-@mixin faded-small {
+%faded-small {
     color: $fg-faded;
     font-size: 80%;
     border-color: $fg-faded;
@@ -127,22 +161,44 @@ ul {
 }
 
 .footer {
-    @include faded-small;
+    @extend %faded-small;
     border-top: 0.1em solid;
     margin-top:2em;
     padding-top:0.3em;
 }
 
 .navigation {
-    @include faded-small;
+    @extend %faded-small;
     text-align:right;
     border-bottom: 0.1em solid;
     padding:0em;
     li {
         display:inline;
         list-style-type:none;
-        margin:none;
+        margin:0em;
         padding-left:1em;
         text-align:left;
     }
+}
+
+#mypicture {
+    float:right;
+    clear:both;
+    width:15em;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    border: solid 0.1em $fg-faded;
+    @media screen and (min-width: 960px) {
+        width: 20em;
+    }
+    @media screen and (max-width: 480px) {
+        float: none;
+        clear: none;
+        margin-left: 0;
+    }
+}
+
+.clearfix{
+    float: none;
+    clear: both;
 }

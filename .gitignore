@@ -4,3 +4,4 @@ deploy
 stylesheet.css
 .hyde.el
 _drafts/
+*.woff
