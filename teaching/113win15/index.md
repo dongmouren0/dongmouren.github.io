@@ -7,7 +7,7 @@ title: Math 113 (Winter 2015)
 # {{ page.title }}
 
 ### Recent announcements
-{% for post in site.categories.113win15 limit: 3 %}
+{% for post in site.categories['113win15'] limit: 3 %}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>'}}
 {% endfor %}
 Older announcements are [here](#older-announcements). Homeworks are [here](#homeworks).
@@ -150,6 +150,6 @@ The class plan is tentative and will be filled in as the quarter goes by.
 
 ----
 ### Older announcements
-{% for post in site.categories.113win15 offset: 3%}
+{% for post in site.categories['113win15'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}
 {% endfor %}

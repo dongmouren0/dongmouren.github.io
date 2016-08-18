@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "script 7"
 date: "2016-01-26 11:39:59 -0700"
 ---
