@@ -1,39 +1,9 @@
 ---
 ---
 
-// Colour palette
-$base03:    #002b36;
-$base02:    #073642;
-$base01:    #586e75;
-$base00:    #657b83;
-$base0:     #839496;
-$base1:     #93a1a1;
-$base2:     #eee8d5;
-$base3:     #fdf6e3;
-$yellow:    #b58900;
-$orange:    #cb4b16;
-$red:       #dc322f;
-$magenta:   #d33682;
-$violet:    #6c71c4;
-$blue:      #268bd2;
-$cyan:      #2aa198;
-$green:     #859900;
 
-$bg: $base3;
-$bg-faded: $base2;
-$fg: $base00;
-$fg-faded: $base1;
-$link: $blue;
-$link-faded: $cyan;
-$link-focus: $violet;
-$link-focus-faded: $violet;
-$header: $orange;
-$code: $green;
-$selection: $yellow;
-$selection-text: $bg-faded;
-
-
-
+@import "colours";
+  
 @media screen and (max-width: 480px) {
     body {
         max-width:95%;
@@ -55,23 +25,12 @@ $selection-text: $bg-faded;
 }
 
 body {
-    font-family: 'Raleway', 'Lato', Helvetica, Arial, Sans-Serif;
-    background: $bg;
-    color: $fg;
+    font-family: 'Lato', Helvetica, Arial, Sans-Serif;
     margin-left:auto;
     margin-right:auto;
-    ::-moz-selection {
-        background: $selection;
-        color: $selection-text;
-    }
-    ::selection {
-        background: $selection;
-        color: $selection-text;
-    }
 }
 
 * a {
-    color: $link;
     text-decoration: none;
     &:hover {
         text-decoration: underline;
@@ -83,11 +42,9 @@ body {
 
 code {
     font-size: 110%;
-    color: $code;
 }
 
 h1, h2, h3, h4 {
-    color: $header;
     font-weight:lighter;
 }
 
@@ -114,9 +71,9 @@ ol {
             border-top: 0.1em solid;
             border-bottom: 0.1em solid;
         }
-        tbody > tr:nth-child(odd) {
-            background: $bg-faded;
-        }
+        // tbody > tr:nth-child(odd) {
+        //     background: $bg-faded;
+        // }
     }
 }
 
@@ -127,11 +84,11 @@ ol {
         th, td {
             padding: 0.5em;
         }
-        tbody > tr:nth-child(odd) {
-            background: $bg-faded;
-        }
+          // tbody > tr:nth-child(odd) {
+          //   background: $bg-faded;
+          // }
         td:last-child {
-            @extend %faded-small;
+            @extend %small;
         }
 
     }
@@ -140,7 +97,7 @@ ol {
 .infotable {
     table {
         padding-top: 0.5em;
-        background: $bg-faded;
+        //background: $bg-faded;
         border-collapse:collapse;
         th, td {
             padding:0.1em 0.5em;
@@ -152,25 +109,31 @@ ol {
     }
 }
 
-%faded-small {
-    color: $fg-faded;
-    font-size: 80%;
-    border-color: $fg-faded;
-    a {
-        color: $link-faded;
-        
-    }
+%small {
+  font-size: 80%;
 }
 
+  
+  
+// %faded-small {
+//   color: $fg-faded;
+//   font-size: 80%;
+//   border-color: $fg-faded;
+//   a {
+//     color: $link-faded;
+    
+//   }
+// }
+
 .footer {
-    @extend %faded-small;
+    @extend %small;
     border-top: 0.1em solid;
     margin-top:2em;
     padding-top:0.3em;
 }
 
 .navigation {
-    @extend %faded-small;
+    @extend %small;
     text-align:right;
     border-bottom: 0.1em solid;
     padding:0em;
@@ -189,7 +152,7 @@ ol {
     width:15em;
     margin-bottom: 1%;
     margin-left: 1%;
-    border: solid 0.1em $fg-faded;
+    // border: solid 0.1em $fg-faded;
     @media screen and (min-width: 960px) {
         width: 20em;
     }
@@ -203,4 +166,21 @@ ol {
 .clearfix{
     float: none;
     clear: both;
+}
+
+
+// Theme imported from _colours.scss.
+@include solarized-light;
+
+
+// Print stylesheet
+@media print {
+    .button, .footer, .navigation {display:none;}
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    a:after {
+        content: " ("attr(href)")"
+    }
+    @include print;
 }
