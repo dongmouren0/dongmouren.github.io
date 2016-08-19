@@ -4,7 +4,7 @@ layout: default
 
 # Asilata Bapat
 
-<img id="mypicture" src="assets/asilata-bapat.jpg" alt="Asilata Bapat"/>
+![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
 
 Department of Mathematics, University of Chicago  
 5734 S University Avenue  
