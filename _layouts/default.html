@@ -5,13 +5,13 @@
     <body>
 
         {% include header.html %}
+
+        {% include navigation.html %}
         
         {{ content }}
 
-        <div class="footer">
-            {% include footer.html %}
-        </div>
-        
+        {% include footer.html %}
+                
         {% if page.analytics == true %}
         {% include analytics.html %}
         {% endif %}
