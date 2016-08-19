@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Asilata Bapat
-
 ![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
 
 Limited-Term Assistant Professor  
