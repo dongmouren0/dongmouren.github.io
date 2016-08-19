@@ -6,12 +6,16 @@ layout: default
 
 ![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
 
-Department of Mathematics, University of Chicago  
-5734 S University Avenue  
-Chicago, IL 60637
+Limited-Term Assistant Professor  
+Department of Mathematics  
+Boyd Graduate Studies Research Center  
+University of Georgia  
+Athens, GA 30605
 
-**Email:** `asilata` at `math` dot `uchicago` dot `edu`  
-**Office:** [Eckhart](https://maps.uchicago.edu/?location=Eckhart+Hall) 2A
+**Email:** `asilata` at `uga` dot `edu`  
+**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
+
+[CV](assets/bapat-cv.pdf)
 
 ### Interests
 I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.
