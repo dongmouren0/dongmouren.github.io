@@ -1,11 +1,9 @@
-url: "http://localhost:4000"
-
 kramdown:
   parse_block_html: true
 
 permalink: pretty
 
-baseurl: "http://math.uchicago.edu/~asilata/"
+url: "https://asilata.github.io/"
   
 exclude: ['deploy', 'stylesheet.scss']
 
