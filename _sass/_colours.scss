@@ -31,6 +31,7 @@
         }
     }
     a, a:active, a:visited { color: $link; }
+
     code { color: $code; }
 
     h1, h2, h3, h4, h5, h6 {
@@ -44,18 +45,52 @@
         }
     }
 
+    header {
+        a, a:active, a:visited {
+            color: $fg;
+        }
+
+        a.active {
+            color: $titles;
+        }
+        
+        a:hover {
+            color: $titles;
+            background-color: $bg;
+            text-decoration: none;
+        }
+    }
+
     %faded {
         color: $fg-faded;
         border-color: $fg-faded;
         a { color: $link-faded; }
     }
-    .button {
-        border-color: $bg-faded;
-        a:hover { background-color: $bg-faded;}
+    .bibliography {
+        table {
+            tbody > tr:nth-child(odd) {
+                background: $bg-faded;
+            }
+        }
     }
-    .pagination {
-        ul li { border-color: $bg-faded; }
-    } 
+
+    .classplan {
+        table {
+            tbody > tr:nth-child(odd) {
+                background: $bg-faded;
+            }
+        }
+    }
+
+    .infotable {
+        table {
+            background: $bg-faded;
+        }
+    }
+
+    #mypicture {
+        border-color: $fg-faded;
+    }
     
 }
 

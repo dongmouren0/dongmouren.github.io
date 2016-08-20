@@ -17,6 +17,13 @@
     }
 }
 
+@media screen and (min-width: 550px) {
+    body {
+        header {
+        flex-direction: row;
+        }
+    }
+}
 
 @media screen and (min-width: 960px) {
     body {
@@ -26,6 +33,7 @@
 
 body {
     font-family: 'Lato', Helvetica, Arial, Sans-Serif;
+    margin-top: 0em;
     margin-left:auto;
     margin-right:auto;
 }
@@ -71,9 +79,6 @@ ol {
             border-top: 0.1em solid;
             border-bottom: 0.1em solid;
         }
-        // tbody > tr:nth-child(odd) {
-        //     background: $bg-faded;
-        // }
     }
 }
 
@@ -84,9 +89,6 @@ ol {
         th, td {
             padding: 0.5em;
         }
-          // tbody > tr:nth-child(odd) {
-          //   background: $bg-faded;
-          // }
         td:last-child {
             @extend %small;
         }
@@ -97,7 +99,6 @@ ol {
 .infotable {
     table {
         padding-top: 0.5em;
-        //background: $bg-faded;
         border-collapse:collapse;
         th, td {
             padding:0.1em 0.5em;
@@ -113,38 +114,46 @@ ol {
   font-size: 80%;
 }
 
-  
-  
-// %faded-small {
-//   color: $fg-faded;
-//   font-size: 80%;
-//   border-color: $fg-faded;
-//   a {
-//     color: $link-faded;
-    
-//   }
-// }
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 
-.footer {
+    margin-top:0em;
+    margin-bottom: 2em;
+    padding-top: 0.5em;
+    border-top: solid 0.5em;
+
+    h1 {
+        text-align: center;
+        margin: 0em;
+    }
+}
+
+nav {
+    ul {
+        padding-left: 0em;
+        margin: 0.5em 0em;
+    }
+    li {
+        display: inline;
+        list-style-type:none;
+        margin:0em;
+        padding-left:0.5em;
+        padding-right:0.5em;
+        text-align:left;
+    }
+}
+
+footer {
+    @extend %faded;
     @extend %small;
     border-top: 0.1em solid;
     margin-top:2em;
     padding-top:0.3em;
 }
 
-.navigation {
-    @extend %small;
-    text-align:right;
-    border-bottom: 0.1em solid;
-    padding:0em;
-    li {
-        display:inline;
-        list-style-type:none;
-        margin:0em;
-        padding-left:1em;
-        text-align:left;
-    }
-}
 
 #mypicture {
     float:right;
@@ -152,7 +161,7 @@ ol {
     width:15em;
     margin-bottom: 1%;
     margin-left: 1%;
-    // border: solid 0.1em $fg-faded;
+    border: solid 0.1em;
     @media screen and (min-width: 960px) {
         width: 20em;
     }
