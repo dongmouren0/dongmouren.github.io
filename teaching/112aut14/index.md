@@ -3,7 +3,7 @@ layout: default
 title: Math 112 (Autumn 2014)
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['112aut14'] limit: 3 %}

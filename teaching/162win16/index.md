@@ -4,8 +4,7 @@ analytics: false
 title: Math 162 (Winter 2016)
 ---
 
-
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['162win16'] limit: 3 %}

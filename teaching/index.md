@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 I am not teaching in Spring 2016.
 In the past, I have taught at the following places.

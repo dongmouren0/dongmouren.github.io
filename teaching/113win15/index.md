@@ -4,7 +4,7 @@ title: Math 113 (Winter 2015)
 ---
 
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['113win15'] limit: 3 %}

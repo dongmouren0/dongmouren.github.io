@@ -3,7 +3,7 @@ layout: default
 title: Math 151 (Autumn 2013)
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['151aut13'] limit: 3 %}

@@ -3,7 +3,7 @@ layout: default
 title: Math 152 (Winter 2014)
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['152win14'] limit: 3 %}

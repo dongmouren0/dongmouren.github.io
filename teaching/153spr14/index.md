@@ -3,7 +3,7 @@ layout: default
 title: Math 153 (Spring 2014)
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Recent announcements
 {% for post in site.categories['153spr14'] limit: 3 %}
