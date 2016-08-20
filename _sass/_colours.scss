@@ -66,20 +66,17 @@
         border-color: $fg-faded;
         a { color: $link-faded; }
     }
-    .bibliography {
-        table {
-            tbody > tr:nth-child(odd) {
-                background: $bg-faded;
-            }
+
+    @mixin alternate-rows {
+      table {
+        tbody > tr:nth-child(odd){
+          background: $bg-faded;
+          }
         }
     }
-
-    .classplan {
-        table {
-            tbody > tr:nth-child(odd) {
-                background: $bg-faded;
-            }
-        }
+      
+    .bibliography, .classplan {
+      @include alternate-rows;
     }
 
     .infotable {
