@@ -17,6 +17,15 @@
 // $cyan:      #2aa198;
 // $green:     #859900;
 
+@mixin alternate-rows($color) {
+  table {
+    tbody > tr:nth-child(odd){
+      background: $color;
+    }
+  }
+}
+
+  
 @mixin theme($bg, $bg-faded, $fg, $fg-faded, $link, $link-faded, $titles, $code, $bg-select: $titles, $fg-select: $bg-faded) {
     * { color: $fg; }
     body {
@@ -66,17 +75,9 @@
         border-color: $fg-faded;
         a { color: $link-faded; }
     }
-
-    @mixin alternate-rows {
-      table {
-        tbody > tr:nth-child(odd){
-          background: $bg-faded;
-          }
-        }
-    }
-      
+   
     .bibliography, .classplan {
-      @include alternate-rows;
+      @include alternate-rows($bg-faded);
     }
 
     .infotable {
