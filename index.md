@@ -1,9 +1,14 @@
 ---
 layout: default
+title: Home
+navigation_weight: 1
 ---
+
+<div class="intro">
 
 ![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
 
+<div>
 Limited-Term Assistant Professor  
 Department of Mathematics  
 Boyd Graduate Studies Research Center  
@@ -14,6 +19,9 @@ Athens, GA 30605
 **Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
 
 [CV](assets/bapat-cv.pdf)
+</div>
+
+</div>
 
 ### Interests
 I am a PhD student in [Mathematics](http://math.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), advised by Victor Ginzburg.

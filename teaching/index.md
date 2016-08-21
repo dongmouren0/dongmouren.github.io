@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+navigation_weight: 3
 ---
 
 ## {{ page.title }}
