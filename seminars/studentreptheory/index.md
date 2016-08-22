@@ -3,7 +3,7 @@ layout: default
 title: Student Representation Theory Seminar
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 ### Winter 2015
 In Winter 2015, we meet on Tuesdays and Thursdays at 3pm in the Barn (Ry 352). On Thursdays, we are reading through the notes _Homogeneous Spaces and Equivariant Embeddings_ ([arXiv](http://arxiv.org/abs/math/0602228)) by D. A Timashev. On Tuesdays, we discuss the class _Geometric Satake and Hecke Algebras_, which is being taught by Victor Ginzburg.

@@ -70,10 +70,10 @@
         }
     }
 
-    %faded {
+    footer {
         color: $fg-faded;
         border-color: $fg-faded;
-        a { color: $link-faded; }
+        a, a:active, a:visited { color: $link-faded; }
     }
    
     .bibliography, .classplan {

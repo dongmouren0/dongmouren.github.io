@@ -23,7 +23,7 @@ Athens, GA 30605
 
 </div>
 
-## Research interests and background
+### Research interests and background
 
 My research focuses on problems in representation theory and algebraic geometry. 
 Broadly, I am interested in the topology and geometry of algebraic varieties arising from representation theory.
@@ -35,12 +35,12 @@ I was an undergraduate at [MIT](http://web.mit.edu).
 
 My CV is available [here](assets/bapat-cv.pdf).
 
-## Teaching
+### Teaching
 In Fall 2016, I am teaching Math 2250 (Calculus I for science and engineering).
 Older teaching activities are listed on my [teaching page](teaching/).
 
-## Other activities
+### Other activities
 
-* Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I am organizing the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact either one of us if you would like to give a talk!
+* Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I am organizing the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact either one of us if you would like to give a talk!
 
 
