@@ -35,7 +35,7 @@
 }
 
 body {
-    font-family: 'Lato', Helvetica, Arial, Sans-Serif;
+    font-family: 'Cabin', sans-serif;
     margin-top: 0em;
     margin-left:auto;
     margin-right:auto;
@@ -56,6 +56,7 @@ code {
 }
 
 h1, h2, h3, h4 {
+  font-family: 'Alegreya', serif;
   font-weight:lighter;
 }
 
@@ -117,6 +118,8 @@ ol {
 }
 
 header {
+  font-family: 'Alegreya', serif;
+  font-size: 110%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -125,8 +128,8 @@ header {
     margin-top:0em;
     margin-bottom: 2em;
     padding-top: 0.5em;
-    border-top: solid 0.5em;
-
+    border-bottom: solid 0.2em;
+    
     h1 {
         text-align: center;
         margin: 0em;
