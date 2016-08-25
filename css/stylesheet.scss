@@ -56,7 +56,7 @@ code {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Alegreya', serif;
+  font-family: 'Gentium Book Basic', serif;
   font-weight:lighter;
 }
 
@@ -118,7 +118,7 @@ ol {
 }
 
 header {
-  font-family: 'Alegreya', serif;
+  font-family: 'Gentium Book Basic', serif;
   font-size: 110%;
     display: flex;
     flex-direction: column;
@@ -128,7 +128,8 @@ header {
     margin-top:0em;
     margin-bottom: 2em;
     padding-top: 0.5em;
-    border-bottom: solid 0.2em;
+    padding-bottom: 0.2em;
+    border-bottom: solid 0.15em;
     
     h1 {
         text-align: center;
