@@ -6,13 +6,10 @@ navigation_weight: 3
 
 ## {{ page.title }}
 
-In Fall 2016, I am teaching Math 2250.
-I have taught at the following places.
-
-### The University of Georgia
+### University of Georgia
 * **Fall 2016:** Instructor for Calculus I for Science and Engineering (Math 2250).
 
-### The University of Chicago
+### University of Chicago
 
 * **2015--2016:** Instructor for IBL Honors Calculus I and II (Math [161](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html) and [162](162win16/)).
 * **2014--2015:** Instructor for Studies in Mathematics I and II (Math [112](112aut14/) and [113](113win15/)).  
