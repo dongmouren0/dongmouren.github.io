@@ -196,7 +196,7 @@ footer {
     margin: 0px;
     padding: 0px;
     a:after {
-        content: " ("attr(href)")"
+        content: " '(' attr(href) ') '";
     }
     @include print;
 }
