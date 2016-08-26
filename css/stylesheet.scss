@@ -1,8 +1,11 @@
 ---
 ---
 
-
 @import "colours";
+
+// Fonts
+$title-font: Neuton;
+$body-font: Cabin;
   
 @media screen and (max-width: 480px) {
     body {
@@ -35,7 +38,7 @@
 }
 
 body {
-    font-family: 'Cabin', sans-serif;
+    font-family: $body-font, serif;
     margin-top: 0em;
     margin-left:auto;
     margin-right:auto;
@@ -56,7 +59,7 @@ code {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Gentium Book Basic', serif;
+  font-family: $title-font, serif;
   font-weight:lighter;
 }
 
@@ -118,7 +121,7 @@ ol {
 }
 
 header {
-  font-family: 'Gentium Book Basic', serif;
+  font-family: $title-font;
   font-size: 110%;
     display: flex;
     flex-direction: column;
