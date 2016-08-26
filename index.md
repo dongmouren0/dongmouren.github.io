@@ -14,7 +14,7 @@ Limited-Term Assistant Professor
 Department of Mathematics  
 Boyd Graduate Studies Research Center  
 University of Georgia  
-Athens, GA 30605
+Athens, GA 30602
 
 **Email:** `asilata` at `uga` dot `edu`  
 **Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
