@@ -5,7 +5,7 @@
 
 // Fonts
 $title-font: Neuton;
-$body-font: Cabin;
+$body-font: Neuton;
   
 @media screen and (max-width: 480px) {
     body {
@@ -132,7 +132,7 @@ header {
     margin-bottom: 2em;
     padding-top: 0.5em;
     padding-bottom: 0.2em;
-    border-bottom: solid 0.15em;
+    //border-bottom: solid 0.15em;
     
     h1 {
         text-align: center;
@@ -164,7 +164,7 @@ nav {
 
 footer {
     @extend %small;
-    border-top: 0.1em solid;
+    border-top: 0.1em dotted;
     margin-top:2em;
     padding-top:0.3em;
 }
