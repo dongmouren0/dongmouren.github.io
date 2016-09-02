@@ -1,8 +1,11 @@
 ---
 ---
 
-
 @import "colours";
+
+// Fonts
+$title-font: Neuton;
+$body-font: Neuton;
   
 @media screen and (max-width: 480px) {
     body {
@@ -35,7 +38,7 @@
 }
 
 body {
-    font-family: 'Cabin', sans-serif;
+    font-family: $body-font, serif;
     margin-top: 0em;
     margin-left:auto;
     margin-right:auto;
@@ -52,11 +55,10 @@ body {
 }
 
 code {
-    font-size: 110%;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Alegreya', serif;
+  font-family: $title-font, serif;
   font-weight:lighter;
 }
 
@@ -118,7 +120,7 @@ ol {
 }
 
 header {
-  font-family: 'Alegreya', serif;
+  font-family: $title-font;
   font-size: 110%;
     display: flex;
     flex-direction: column;
@@ -128,7 +130,8 @@ header {
     margin-top:0em;
     margin-bottom: 2em;
     padding-top: 0.5em;
-    border-bottom: solid 0.2em;
+    padding-bottom: 0.2em;
+    //border-bottom: solid 0.15em;
     
     h1 {
         text-align: center;
@@ -160,7 +163,7 @@ nav {
 
 footer {
     @extend %small;
-    border-top: 0.1em solid;
+    border-top: 0.1em dotted;
     margin-top:2em;
     padding-top:0.3em;
 }

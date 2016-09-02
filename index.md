@@ -14,7 +14,7 @@ Limited-Term Assistant Professor
 Department of Mathematics  
 Boyd Graduate Studies Research Center  
 University of Georgia  
-Athens, GA 30605
+Athens, GA 30602
 
 **Email:** `asilata` at `uga` dot `edu`  
 **Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
@@ -36,7 +36,7 @@ I was an undergraduate at [MIT](http://web.mit.edu).
 My CV is available [here](assets/bapat-cv.pdf).
 
 ### Teaching
-In Fall 2016, I am teaching Math 2250 (Calculus I for science and engineering).
+In Fall 2016, I am teaching Math 2250 (Calculus I for Science and Engineering).
 Older teaching activities are listed on my [teaching page](teaching/).
 
 ### Other activities
