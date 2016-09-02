@@ -7,6 +7,11 @@ navigation_weight: 2
 ## {{ page.title }}
 
 ### Papers/Preprints
+
+{% for paper in site.data.papers %}
+* **{{ paper.title}}**{% if paper.with %} (with {{ paper.with }}){% endif %}
+{% endfor %}
+
 <div class="bibliography">
 
 | :-----                                                                                                                                              | :----                                                                                                                                           |
@@ -17,3 +22,5 @@ navigation_weight: 2
 | Equivariant cohomology and the localization theorem, topic proposal (expository).                                                                   | [[pdf](papers/topic-proposal.pdf)]                                                                                                              |
 
 </div>
+
+### Expository
