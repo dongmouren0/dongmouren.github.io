@@ -13,7 +13,6 @@ navigation_weight: 3
 
 * **2015--2016:** Instructor for IBL Honors Calculus I and II (Math [161](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html) and [162](162win16/)).
 * **2014--2015:** Instructor for Studies in Mathematics I and II (Math [112](112aut14/) and [113](113win15/)).  
-_No teaching duties in Spring 2015._
 * **Summer 2014:** Instructor for Linear Algebra (Math 196).
 * **2013--2014:** Instructor for Calculus I, II, and III (Math [151](151aut13/), [152](152win14/), and [153](153spr14/)).
 * **2012--2013:** Instructor for Calculus I, II, and III (Math 151, 152, and [153](153spr13/)).
