@@ -17,7 +17,8 @@ University of Georgia
 Athens, GA 30602
 
 **Email:** `asilata` at `uga` dot `edu`  
-**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
+**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605  
+**Phone:** 706-542-7261
 
 </div>
 
