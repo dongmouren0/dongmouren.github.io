@@ -10,7 +10,7 @@ $body-font: Neuton;
 @media screen and (max-width: 480px) {
     body {
         max-width:95%;
-        font-size:80%;
+        font-size:100%;
     }
 }
 
@@ -28,6 +28,7 @@ $body-font: Neuton;
         .intro {
           flex-direction: row-reverse;
         }
+        font-size:120%;
     }
 }
 
