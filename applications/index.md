@@ -8,10 +8,10 @@ title: Job application resources (Fall 2016)
 
 ## Application material
 
-* [NSF proposal (draft)](assets/nsf2016.pdf)
+* [NSF proposal (draft)](/assets/nsf2016.pdf)
 * [CV](/assets/bapat-cv.pdf)
-* [Research statement](assets/bapat-rs.pdf)
-* [Teaching statement](assets/bapat-ts.pdf)
+* [Research statement](/assets/bapat-rs.pdf)
+* [Teaching statement](/assets/bapat-ts.pdf)
 
 ## Deadlines, etc
 
