@@ -8,4 +8,7 @@
     </script>
     <link href='https://fonts.googleapis.com/css?family=Neuton:400,400i,700,700i' rel='stylesheet'>
     <link rel="icon" href="https://www.uga.edu/favicon.ico"/>
+    {% if page.robots == false %}
+    <meta name="robots" content="noindex, nofollow">
+    {% endif %}
 </head>
