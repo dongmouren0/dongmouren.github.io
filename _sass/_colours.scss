@@ -75,7 +75,13 @@
         border-color: $fg-faded;
         a, a:active, a:visited { color: $link-faded; }
     }
-   
+
+    .papers {
+        ul {
+            background: $bg-faded;
+        }
+    }
+    
     .bibliography, .classplan {
       @include alternate-rows($bg-faded);
     }

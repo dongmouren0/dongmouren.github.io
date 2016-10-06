@@ -9,8 +9,15 @@ navigation_weight: 2
 ### Papers/Preprints
 
 {% for paper in site.data.papers %}
-* **{{ paper.title}}**{% if paper.with %} (with {{ paper.with }}){% endif %}
+<div class="papers">
+**{{ paper.title }}**{% if paper.with %} (with {{ paper.with }}){% endif %}{% if paper.comment %}<br/> *{{ paper.comment | capitalize }}.*{% endif %}
+
+{% for link in paper.links %} [\[{{ link[0] }}\]]({{ link[1] }}) {% endfor %}
+</div>
 {% endfor %}
+
+
+<!-- 
 
 <div class="bibliography">
 
@@ -24,3 +31,5 @@ navigation_weight: 2
 </div>
 
 ### Expository
+
+-->

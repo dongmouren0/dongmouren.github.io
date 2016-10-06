@@ -28,6 +28,9 @@ $body-font: Neuton;
         .intro {
           flex-direction: row-reverse;
         }
+        .papers {
+            flex-direction: row;
+        }
     }
 }
 
@@ -85,6 +88,19 @@ ol {
             border-top: 0.1em solid;
             border-bottom: 0.1em solid;
         }
+    }
+}
+
+.papers {
+    padding: 0em;
+    margin: 0em;
+    border-top: dotted 0.1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    p {
+        padding: 0em;
+        margin: 0.5em 0em;
     }
 }
 
