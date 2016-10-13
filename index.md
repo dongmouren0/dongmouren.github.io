@@ -10,7 +10,7 @@ navigation_weight: 1
 
 <div>
 
-Limited-Term Assistant Professor  
+Limited Term Assistant Professor  
 Department of Mathematics  
 Boyd Graduate Studies Research Center  
 University of Georgia  
