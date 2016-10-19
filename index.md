@@ -27,11 +27,11 @@ Athens, GA 30602
 ### Research interests and background
 
 My research focuses on problems in representation theory and algebraic geometry. 
-Broadly, I am interested in the topology and geometry of algebraic varieties arising from representation theory.
-Specific topics of interest include perverse sheaves, equivariant cohomology, and Bernstein--Sato polynomials.
+I am most interested in the topology and geometry of algebraic varieties arising from representation theory.
+Specific topics of interest include perverse sheaves, quiver varieties, equivariant cohomology, and Bernstein--Sato polynomials.
 My papers and preprints can be found on my [research page](/research).
 
-I completed my PhD at the [University of Chicago](http://www.uchicago.edu/) under the supervision of Victor Ginzburg.
+I completed my PhD at the [University of Chicago](http://www.uchicago.edu/) in June 2016 under the supervision of Victor Ginzburg.
 I was an undergraduate at [MIT](http://web.mit.edu).
 
 My CV is available [here](assets/bapat-cv.pdf).
