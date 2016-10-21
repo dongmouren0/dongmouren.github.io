@@ -131,6 +131,7 @@ The class plan is tentative and will be updated as the quarter goes by. You will
 * 12.9 (1, 4, 7, 28). The main hint for these problems is that power series can be integrated or differentiated term-by-term in any open interval where they converge.
 
 ----
+
 ### Older announcements
 {% for post in site.categories['153spr14'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}

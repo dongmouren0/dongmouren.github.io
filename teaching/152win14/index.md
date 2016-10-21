@@ -110,6 +110,7 @@ Homework will be due _before class_ on the day indicated on the syllabus. Late h
 * 7.6 (14, 16, 25, 27, 30, 32)
 
 ----
+
 ### Older announcements
 {% for post in site.categories['152win14'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}

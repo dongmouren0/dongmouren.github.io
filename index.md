@@ -10,14 +10,15 @@ navigation_weight: 1
 
 <div>
 
-Limited-Term Assistant Professor  
+Limited Term Assistant Professor  
 Department of Mathematics  
 Boyd Graduate Studies Research Center  
 University of Georgia  
 Athens, GA 30602
 
 **Email:** `asilata` at `uga` dot `edu`  
-**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605
+**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605  
+**Phone:** 706-542-7261
 
 </div>
 
@@ -26,11 +27,11 @@ Athens, GA 30602
 ### Research interests and background
 
 My research focuses on problems in representation theory and algebraic geometry. 
-Broadly, I am interested in the topology and geometry of algebraic varieties arising from representation theory.
-Specific topics of interest include perverse sheaves, equivariant cohomology, and Bernstein--Sato polynomials.
+I am most interested in the topology and geometry of algebraic varieties arising from representation theory.
+Specific topics of interest include perverse sheaves, quiver varieties, equivariant cohomology, and Bernstein--Sato polynomials.
 My papers and preprints can be found on my [research page](/research).
 
-I completed my PhD at the [University of Chicago](http://www.uchicago.edu/) under the supervision of Victor Ginzburg.
+I completed my PhD at the [University of Chicago](http://www.uchicago.edu/) in June 2016 under the supervision of Victor Ginzburg.
 I was an undergraduate at [MIT](http://web.mit.edu).
 
 My CV is available [here](assets/bapat-cv.pdf).

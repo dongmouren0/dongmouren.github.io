@@ -144,6 +144,7 @@ These are problems from Chapter 4. For practice problems on the earlier material
 * 4.9 (11--20, 40, 53, 59)
 
 ----
+
 ### Older announcements
 {% for post in site.categories['151aut13'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | strip_html }}

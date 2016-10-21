@@ -149,6 +149,7 @@ The class plan is tentative and will be filled in as the quarter goes by.
 1. Suppose that $G$ and $H$ are two graphs such that $\overline{G}$ and $\overline{H}$ are isomorphic. Must $G$ and $H$ be isomorphic?
 
 ----
+
 ### Older announcements
 {% for post in site.categories['113win15'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}

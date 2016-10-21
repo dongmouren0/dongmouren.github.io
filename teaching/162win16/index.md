@@ -92,6 +92,7 @@ Older announcements are [here](#older-announcements). Course materials are [here
 * [Problem Set 4](problem_sets/ps4.pdf): Due on Thursday, Feb 25
 
 ----
+
 ### Older announcements
 {% for post in site.categories['162win16'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}

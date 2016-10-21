@@ -15,3 +15,8 @@ defaults:
       path: ""
     values:
       analytics: true
+
+  - scope:
+      path: ""
+    values:
+      robots: true

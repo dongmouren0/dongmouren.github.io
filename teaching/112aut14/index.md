@@ -192,6 +192,7 @@ This homework is due by email, and it is due by 5pm on Friday, Nov 21. This home
 1. Review all the divisibility tests we learned in class. You may be asked some indirect problems from this section, so make sure you understand how the tests work, especially the combined test for 7, 11, and 13.
 
 ----
+
 ### Older announcements
 {% for post in site.categories['112aut14'] offset: 3%}
 * **{{ post.date | date: "%a %b %d" }}:** {{ post.content | remove: '<p>' | remove: '</p>' }}

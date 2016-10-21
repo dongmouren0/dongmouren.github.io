@@ -10,7 +10,7 @@ $body-font: Neuton;
 @media screen and (max-width: 480px) {
     body {
         max-width:95%;
-        font-size:80%;
+        font-size:100%;
     }
 }
 
@@ -31,6 +31,7 @@ $body-font: Neuton;
         .papers {
             flex-direction: row;
         }
+        font-size:120%;
     }
 }
 
@@ -212,7 +213,7 @@ footer {
     margin: 0px;
     padding: 0px;
     a:after {
-        content: " ("attr(href)")"
+        content: " '(' attr(href) ') '";
     }
     @include print;
 }
