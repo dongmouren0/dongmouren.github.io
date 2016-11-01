@@ -38,10 +38,23 @@ My CV is available [here](assets/bapat-cv.pdf).
 
 ### Teaching
 In Fall 2016, I am teaching Math 2250 (Calculus I for Science and Engineering).
-Older teaching activities are listed on my [teaching page](teaching/).
+Older teaching is listed on my [teaching page](teaching/).
 
-### Other activities
+### Current and upcoming activities
 
-* Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I am organizing the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact either one of us if you would like to give a talk!
+{% capture currenttime %}{{ site.time }}{% endcapture %}
+{% assign activities = site.data.activities | where_exp: "activity", "activity.date > currenttime" | sort: 'date' | reverse %}
+<ul>
+{% for activity in activities %}
+<li>
+{% unless activity.current == true %}
+<strong>{% if activity.display-date %}{{ activity.display-date }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
+{% endunless %}
+{{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}
+</li>
+{% endfor %}
+</ul>
+
+Older activities are listed on my [activities page](activities/).
 
 
