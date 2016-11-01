@@ -27,7 +27,7 @@ navigation_weight: 4
 {% for activity in activities %}
 <li>
 {% unless activity.current == true %}
-<strong>{% if activity.display-date %}{{ activity.display-date }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
+<strong>{% if activity.display-date %}{{ activity.display-date | replace: '--', '&ndash;' }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
 {% endunless %}
 {{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}
 </li>
