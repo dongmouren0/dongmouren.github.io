@@ -16,7 +16,7 @@ navigation_weight: 4
 <li>
 {% capture activitime %}{{ activity.date }}{% endcapture %}
 <strong>{{ activitime | date: "%b %Y" }}{% if activitime > currenttime %} (upcoming){% endif %}:</strong>
-{{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}
+{{ activity.content | markdownify | strip | remove: '<p>' | remove: '</p>'}}{% if activity.location %}, {{ activity.location | remove: '<p>' | remove: '</p>'}}{% endif %}
 {% if activity.comment %}({{ activity.comment | remove: '<p>' | remove: '</p>' }}){% endif %}
 </li>
 {% endfor %}
@@ -27,7 +27,7 @@ navigation_weight: 4
 {% for activity in activities %}
 <li>
 {% unless activity.current == true %}
-<strong>{% if activity.display-date %}{{ activity.display-date | replace: '--', '&ndash;' }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
+<strong>{% if activity.display-date %}{{ activity.display-date | markdownify | strip | remove: '<p>' | remove: '</p>' }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
 {% endunless %}
 {{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}
 </li>
