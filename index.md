@@ -50,7 +50,7 @@ Older teaching is listed on my [teaching page](teaching/).
 {% unless activity.current == true %}
 <strong>{% if activity.display-date %}{{ activity.display-date }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
 {% endunless %}
-{{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}
+{{ activity.content | markdownify | remove: '<p>' | remove: '</p>'}}{% if activity.location %}, {{ activity.location | remove: '<p>' | remove: '</p>'}}{% endif %}
 </li>
 {% endfor %}
 </ul>
