@@ -1,11 +1,11 @@
 - title: The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements
-  with: Robin Walters
+  with: &robin "[Robin Walters](http://mathserver.neu.edu/~robin/)"
   comment: To appear in Mathematical Research Letters
   links:
     pdf: bapat-walters-2015.pdf
 
 - title: The Bernstein-Sato $$b$$-function of the Vandermonde determinant
-  with: Robin Walters
+  with: *robin
   links:
     arXiv: http://arxiv.org/abs/1503.01055
 
@@ -17,7 +17,7 @@
     journal: http://dx.doi.org/10.2140/pjm.2015.276.19
 
 - title: Lower central series of free algebras in symmetric tensor categories
-  with: David Jordan
+  with: &david "[David Jordan](http://www.maths.ed.ac.uk/~djordan/)"
   comment: Journal of Algebra 373:299--311, 2013
   links:
     pdf: papers/bapat-jordan-2013.pdf
