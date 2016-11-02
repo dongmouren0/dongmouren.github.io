@@ -1,104 +1,100 @@
-- content: Special session on New Developments in Noncommutative Algebra and Representation Theory, Joint Mathematical Meeting
+- content: Special session on New Developments in Noncommutative Algebra and Representation Theory, AMS Joint Mathematical Meeting
   date: "2017-01-07"
-  category: presentation
-
-- content: US-Mexico conference on Representation theory, Categorification, and Noncommutative Algebra
-  date: "2017-06-05"
-  category: presentation
+  category: &presentation presentation
 
 - content: Special session on Geometric Methods in Representation Theory, AMS Southeastern Spring Sectional Meeting
   date: "2017-03-10"
-  category: presentation
+  category: *presentation
 
-- content: Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I am organizing the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact us if you would like to give a talk!
+- content: Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I organize the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact us if you would like to give a talk!
   current: true
   date: "2020-01-01"
-  category: other
+  category: &other other
 
 - content: Together with Simion Filip, I organized [Pizza Seminar](https://math.uchicago.edu/~pizzaseminar/) at the University of Chicago.
   date: "2011-09-01"
   display-date: "2011--2012"
-  category: other
+  category: *other
 
 - content: I organized the [Student Representation Theory Seminar](/seminars/studentreptheory) at the University of Chicago.
   date: "2012-09-01"
   display-date: "2012--2014"
-  category: other
+  category: *other
 
 - content: Together with Ruthi Hortsch, I was the academic coordinator of [Canada/USA Mathcamp 2015](http://mathcamp.org/2015).
   date: "2015-07-05"
   display-date: "Summer 2015"
-  category: other
+  category: *other
 
 - content: Algebraic Geometry, Arithmetic Geometry, and Commutative Algebra Seminar
   location: University of South Carolina
   date: "2016-11-18"
-  category: presentation
+  category: *presentation
 
 - content: Algebra Seminar
   location: University of Georgia
   date: "2016-09-12"
-  category: presentation
+  category: *presentation
     
 - content: Young Women in Representation Theory
   location: University of Bonn
   date: "2016-06-25"
-  category: presentation
+  category: *presentation
   
 - content: Algebraic Geometry Seminar
   location: Ohio State University
   date: "2016-02-09"
-  category: presentation
+  category: *presentation
 
 - content: Algebra Seminar
   location: University of Alberta
   date: "2016-01-25"
-  category: presentation
+  category: *presentation
 
 - content: AlGeCom 12
   location: University of Michigan
   date: "2015-10-24"
-  category: presentation
+  category: *presentation
   comment: poster
 
 - content: AMS Central Fall Sectional Meeting
   location: Loyola University
   date: "2015-10-03"
-  category: presentation
+  category: *presentation
   comment: poster
   
 - content: Algebraic Geometry/Commutative Algebra Seminar
   location: University of Notre Dame
   date: "2015-09-30"
-  category: presentation
+  category: *presentation
   
 - content: Oberseminar Representation Theory
   location: University of Bonn
   date: "2015-05-11"
-  category: presentation
+  category: *presentation
   
 - content: Number Theory and Algebraic Geometry Seminar
   location: Katholieke Universiteit Leuven
   date: "2015-05-07"
-  category: presentation
+  category: *presentation
   
 - content: Oberseminar Algebra, Mathematisches Institut
   location: University of Cologne
   date: "2015-05-05"
-  category: presentation
+  category: *presentation
   
 - content: Mathematics Seminar
   location: Indian Institute of Science Education and Research
   date: "2014-07-23"
-  category: presentation
+  category: *presentation
 
 - content: Summer school on quiver Hecke algebras
   date: "2014-06-19"
-  category: presentation
+  category: *presentation
   comment: expository
 
 - content: Workshop on Yangians and quantum loop algebras
   date: "2014-05-05"
-  category: presentation
+  category: *presentation
   comment: expository
 
