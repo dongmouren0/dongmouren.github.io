@@ -1,8 +1,10 @@
 - content: Special session on New Developments in Noncommutative Algebra and Representation Theory, AMS Joint Mathematical Meeting
+  location: Atlanta
   date: "2017-01-07"
   category: &presentation presentation
 
 - content: Special session on Geometric Methods in Representation Theory, AMS Southeastern Spring Sectional Meeting
+  location: Charleston
   date: "2017-03-10"
   category: *presentation
 
@@ -89,11 +91,13 @@
   category: *presentation
 
 - content: Summer school on quiver Hecke algebras
+  location: IESC Cargèse
   date: "2014-06-19"
   category: *presentation
   comment: expository
 
 - content: Workshop on Yangians and quantum loop algebras
+  location: Austin
   date: "2014-05-05"
   category: *presentation
   comment: expository
