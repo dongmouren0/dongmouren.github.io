@@ -2,7 +2,7 @@
   with: &robin "[Robin Walters](http://mathserver.neu.edu/~robin/)"
   comment: To appear in Mathematical Research Letters
   links:
-    pdf: bapat-walters-2015.pdf
+    pdf: papers/bapat-walters-2015.pdf
 
 - title: The Bernstein-Sato $$b$$-function of the Vandermonde determinant
   with: *robin
@@ -12,7 +12,7 @@
 - title: Torus actions and tensor products of intersection cohomology
   comment: Pacific Journal of Mathematics 276 (1):19--34, 2015
   links:
-    pdf: bapat-2015.pdf
+    pdf: papers/bapat-2015.pdf
     arXiv: http://arxiv.org/abs/1309.0859
     journal: http://dx.doi.org/10.2140/pjm.2015.276.19
 
@@ -27,5 +27,5 @@
 - title: Equivariant cohomology and the localization theorem
   comment: Topic proposal (expository)
   links:
-    pdf: topic-proposal.pdf
+    pdf: papers/topic-proposal.pdf
 
