@@ -28,9 +28,14 @@
   display-date: "Summer 2015"
   category: *other
 
-- content: Algebraic Geometry, Arithmetic Geometry, and Commutative Algebra Seminar
-  location: University of South Carolina
-  date: "2016-11-18"
+# - content: Algebraic Geometry, Arithmetic Geometry, and Commutative Algebra Seminar
+#   location: University of South Carolina
+#   date: "2016-11-18"
+#   category: *presentation
+
+- content: Algebra Seminar
+  location: University of Georgia
+  date: "2016-11-14"
   category: *presentation
 
 - content: Algebra Seminar
