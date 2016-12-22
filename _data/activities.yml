@@ -3,6 +3,11 @@
   date: "2017-01-07"
   category: &presentation presentation
 
+- content: Mathematics Seminar
+  location: &iiser-pune Indian Institute of Science Education and Research, Pune
+  date: "2016-12-20"
+  category: *presentation
+  
 - content: Special session on Geometric Methods in Representation Theory, AMS Southeastern Spring Sectional Meeting
   location: Charleston
   date: "2017-03-10"
@@ -34,17 +39,17 @@
 #   category: *presentation
 
 - content: Algebra Seminar
-  location: University of Georgia
+  location: &uga University of Georgia
   date: "2016-11-14"
   category: *presentation
 
 - content: Algebra Seminar
-  location: University of Georgia
+  location: *uga
   date: "2016-09-12"
   category: *presentation
     
 - content: Young Women in Representation Theory
-  location: University of Bonn
+  location: &uni-bonn University of Bonn
   date: "2016-06-25"
   category: *presentation
   
@@ -76,7 +81,7 @@
   category: *presentation
   
 - content: Oberseminar Representation Theory
-  location: University of Bonn
+  location: *uni-bonn
   date: "2015-05-11"
   category: *presentation
   
@@ -91,7 +96,7 @@
   category: *presentation
   
 - content: Mathematics Seminar
-  location: Indian Institute of Science Education and Research
+  location: *iiser-pune
   date: "2014-07-23"
   category: *presentation
 
