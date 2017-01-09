@@ -13,7 +13,7 @@
   date: "2017-03-10"
   category: *presentation
 
-- content: Together with [Paul Sobaje](http://www.math.uga.edu/directory/paul-sobaje), I organize the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact us if you would like to give a talk!
+- content: Together with [Paul Sobaje](https://psobaje.github.io/), I organize the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York). Please contact us if you would like to give a talk!
   current: true
   date: "2020-01-01"
   category: &other other
