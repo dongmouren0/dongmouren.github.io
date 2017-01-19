@@ -20,3 +20,8 @@ defaults:
       path: ""
     values:
       robots: true
+
+compress_html:
+  clippings: all
+  blanklines: true
+
