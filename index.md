@@ -41,12 +41,12 @@ Older teaching is listed on my [teaching page](teaching/).
 ### Current and upcoming activities
 
 {% capture currenttime %}{{ site.time }}{% endcapture %}
-{% assign activities = site.data.activities | where_exp: "activity", "activity.date > currenttime" | sort: 'date' | reverse %}
+{% assign activities = site.data.activities | where_exp: "activity", "activity.date > currenttime" | sort: 'date' %}
 <ul>
 {% for activity in activities %}
 <li>
 {% unless activity.current == true %}
-<strong>{% if activity.display-date %}{{ activity.display-date }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
+<strong>{% if activity.display-date %}{{ activity.display-date | markdownify | strip | remove: '<p>' | remove: '</p>' }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
 {% endunless %}
 {{ activity.content | markdownify | strip | remove: '<p>' | remove: '</p>'}}{% if activity.location %}, {{ activity.location | remove: '<p>' | remove: '</p>'}}{% endif %}
 </li>
