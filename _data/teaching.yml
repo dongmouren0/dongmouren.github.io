@@ -3,6 +3,11 @@
   date: "2016-09-05"
   display-date: "Fall 2016"
 
+- description: Instructor for Calculus II for Science and Engineering (Math 2260).
+  location: *uga
+  date: "2017-01-05"
+  display-date: "Spring 2017"
+
 - description: Instructor for IBL Honors Calculus I and II (Math [161](http://www.math.uchicago.edu/~mcreek/fall_2015/math_16100/index.html) and [162](162win16/)).
   location: &uchicago University of Chicago
   date: "2015-09-01"
