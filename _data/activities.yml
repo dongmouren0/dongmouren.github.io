@@ -3,6 +3,11 @@
   date: "2017-01-07"
   category: &presentation presentation
 
+- content: Geometric representation theory seminar
+  location: University of Toronto
+  date: "2017-03-30"
+  category: *presentation
+
 - content: Mathematics Seminar
   location: &iiser-pune Indian Institute of Science Education and Research, Pune
   date: "2016-12-20"
