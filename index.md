@@ -35,7 +35,7 @@ I completed my PhD at the [University of Chicago](http://math.uchicago.edu/) in 
 I was an undergraduate at [MIT](http://web.mit.edu).
 
 ### Teaching
-In Spring 2017, I am teaching Math 2260 (Calculus II for Science and Engineering).
+In Fall 2017, I am teaching [Math 8000](8000fall17/) (Graduate Algebra) and Math 1113 (Precalculus).
 Older teaching is listed on my [teaching page](teaching/).
 
 ### Current and upcoming activities

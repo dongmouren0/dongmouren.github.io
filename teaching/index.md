@@ -12,7 +12,7 @@ navigation_weight: 3
 {% for class in uga %}
 <li>
 <strong>{{ class.display-date }}:</strong>
-{{ class.description }}
+{{ class.description | markdownify | strip | remove: '<p>' | remove: '</p>'}}
 </li>
 {% endfor %}
 </ul>

@@ -3,6 +3,16 @@
   date: "2016-09-05"
   display-date: "Fall 2016"
 
+- description: Instructor for Precalculus (Math 1113).
+  location: *uga
+  date: "2017-08-14"
+  display-date: "Fall 2017"
+
+- description: Instructor for Graduate Algebra (Math [8000](/8000fall17/)).
+  location: *uga
+  date: "2017-08-14"
+  display-date: "Fall 2017"
+
 - description: Instructor for Calculus II for Science and Engineering (Math 2260).
   location: *uga
   date: "2017-01-05"
