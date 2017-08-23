@@ -28,6 +28,11 @@
   date: "2020-01-01"
   category: &other other
 
+- content: We are organizing a summer school at IST Austria in July 2018! The webpage is [here](https://ssgrt2018.ist.ac.at/).
+  date: "2018-07-09"
+  current: true
+  category: *other
+
 - content: Together with Simion Filip, I organized [Pizza Seminar](https://math.uchicago.edu/~pizzaseminar/) at the University of Chicago.
   date: "2011-09-01"
   display-date: "2011--2012"
