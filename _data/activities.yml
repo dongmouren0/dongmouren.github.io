@@ -3,6 +3,12 @@
   date: "2017-01-07"
   category: &presentation presentation
 
+- content: Future Directions in Representation Theory
+  location: University of Sydney
+  date: "2017-12-04"
+  category: *presentation
+  comment: poster
+    
 - content: Canada/USA Mathcamp 2017
   location: University of Puget Sound
   date: "2017-07-31"
