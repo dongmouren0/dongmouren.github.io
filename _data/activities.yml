@@ -34,13 +34,15 @@
   date: "2017-11-03"
   category: *presentation
 
-- content: Together with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Paul Sobaje](https://psobaje.github.io/), I organize the UGA Algebra Seminar. Our calendar is [here](https://calendar.google.com/calendar/embed?mode=AGENDA&src=ss4ps8h03v62f1vhuf40c2j87o@group.calendar.google.com&ctz=America/New_York).
-  current: true
-  date: "2020-01-01"
+- content: Together with Chun-Ju Lai and Paul Sobaje, I organized the UGA Algebra Seminar.
+  current: false
+  date: "2017-12-01"
+  display-date: "2016-2017"
   category: &other other
 
-- content: We are organizing a summer school at IST Austria in July 2018! The webpage is [here](https://ssgrt2018.ist.ac.at/).
+- content: We are organizing a [Summer School on Geometric Representation Theory](https://ssgrt2018.ist.ac.at/) at IST Austria in July 2018!
   date: "2018-07-09"
+  display-date: "2018-07-09"
   current: true
   category: *other
 
