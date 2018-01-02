@@ -4,6 +4,8 @@ title: Home
 navigation_weight: 1
 ---
 
+**I have moved to the [Australian National University](http://maths.anu.edu.au/). This webpage will be updated shortly.**
+
 <div class="intro">
 
 ![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
@@ -35,7 +37,6 @@ I completed my PhD at the [University of Chicago](http://math.uchicago.edu/) in 
 I was an undergraduate at [MIT](http://web.mit.edu).
 
 ### Teaching
-In Fall 2017, I am teaching [Math 8000](8000fall17/) (Graduate Algebra) and Math 1113 (Precalculus).
 Older teaching is listed on my [teaching page](teaching/).
 
 ### Current and upcoming activities
