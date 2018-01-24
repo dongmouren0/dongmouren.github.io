@@ -6,7 +6,7 @@
 // Fonts
 $title-font: Neuton;
 $body-font: Neuton;
-  
+
 @media screen and (max-width: 480px) {
     body {
         max-width:95%;
@@ -23,7 +23,7 @@ $body-font: Neuton;
 @media screen and (min-width: 550px) {
     body {
         .intro {
-          flex-direction: row-reverse;
+            flex-direction: row-reverse;
         }
         font-size:110%;
     }
@@ -34,11 +34,11 @@ $body-font: Neuton;
         max-width:1000px;
 
         header {
-          flex-direction: row;
+            flex-direction: row;
         }
 
         .papers {
-        flex-direction: row;
+            flex-direction: row;
         }
     }
 }
@@ -64,8 +64,8 @@ code {
 }
 
 h1, h2, h3, h4 {
-  font-family: $title-font, serif;
-  font-weight:lighter;
+    font-family: $title-font, serif;
+    font-weight:lighter;
 }
 
 ul {
@@ -135,12 +135,12 @@ ol {
 }
 
 %small {
-  font-size: 80%;
+    font-size: 80%;
 }
 
 header {
-  font-family: $title-font;
-  font-size: 110%;
+    font-family: $title-font;
+    font-size: 110%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -159,11 +159,11 @@ header {
 }
 
 .intro {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  }
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
 
 nav {
     ul {
@@ -194,7 +194,7 @@ footer {
         width: 20em;
     }
     @media screen and (max-width: 480px) {
-      margin-left: 0;
+        margin-left: 0;
     }
 }
 
