@@ -4,23 +4,20 @@ title: Home
 navigation_weight: 1
 ---
 
-**I have moved to the [Australian National University](http://maths.anu.edu.au/). This webpage will be updated shortly.**
-
 <div class="intro">
 
 ![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
 
 <div>
 
-Limited Term Assistant Professor  
-Department of Mathematics  
-Boyd Graduate Studies Research Center  
-University of Georgia  
-Athens, GA 30602
+[Mathematical Sciences Institute](http://maths.anu.edu.au/)  
+The Australian National University  
+Canberra, ACT, 2601, Australia
 
-**Email:** `asilata` at `uga` dot `edu`  
-**Office:** [Boyd](http://www.uga.edu/a-z/location/boyd-graduate-research-studies/) 605  
-**Phone:** 706-542-7261
+
+**Email:** `asilata.bapat` at `anu` dot `edu` dot `au`  
+**Office:** [John Dedman](http://www.anu.edu.au/maps#show=28977) 2145  
+**Phone:** +61 2 6125 4141
 
 </div>
 
