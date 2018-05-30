@@ -30,9 +30,6 @@ I am most interested in the topology and geometry of algebraic varieties arising
 Specific topics of interest include perverse sheaves, quiver varieties, equivariant cohomology, and Bernstein--Sato polynomials.
 My papers and preprints are on my [research page](/research), and my CV is available [here](assets/bapat-cv.pdf).
 
-I completed my PhD at the [University of Chicago](http://math.uchicago.edu/) in June 2016 under the supervision of Victor Ginzburg.
-I was an undergraduate at [MIT](http://web.mit.edu).
-
 ### Teaching
 Older teaching is listed on my [teaching page](teaching/).
 

@@ -1,8 +1,9 @@
 - title: The Strong Topological Monodromy Conjecture for Coxeter Hyperplane Arrangements
   with: &robin "[Robin Walters](http://mathserver.neu.edu/~robin/)"
-  comment: To appear in Mathematical Research Letters
+  comment: Mathematical Research Letters 24 (2017), no. 4, 947--954
   links:
     pdf: papers/bapat-walters-2015.pdf
+    journal: http://dx.doi.org/10.4310/MRL.2017.v24.n4.a1
 
 - title: The Bernstein-Sato $$b$$-function of the Vandermonde determinant
   with: *robin

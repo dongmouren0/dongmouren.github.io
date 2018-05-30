@@ -16,3 +16,12 @@ navigation_weight: 2
 </div>
 {% endfor %}
 
+### Code
+
+<div class="papers">
+{% for thing in site.data.code %}
+**{{ thing.title }}**{% if thing.with %} (with {{ thing.with }}){% endif %}{% if thing.comment %}<br/> *{{ thing.comment }}*{% endif %}
+
+{% for link in thing.links %} [\[{{ link[0] }}\]]({{ link[1] }}) {% endfor %}
+</div>
+{% endfor %}
