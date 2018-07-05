@@ -16,7 +16,7 @@ Canberra, ACT, 2601, Australia
 
 
 **Email:** `asilata.bapat` at `anu` dot `edu` dot `au`  
-**Office:** [John Dedman](http://www.anu.edu.au/maps#show=28977) 2145  
+**Office:** [Building 145](http://www.anu.edu.au/maps#show=102872) 4.84  
 **Phone:** +61 2 6125 4141
 
 </div>

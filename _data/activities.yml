@@ -3,6 +3,11 @@
   date: "2017-01-07"
   category: &presentation presentation
 
+- content: Mathematics seminar
+  location: Indian Institute of Science
+  date: "2018-07-03"
+  category: *presentation
+
 - content: Pure mathematics seminar
   location: University of Melbourne
   date: "2018-05-25"
