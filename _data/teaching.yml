@@ -1,3 +1,13 @@
+- description: Instructor for Mathematical Foundations for Actuarial Studies (MATH 1113), Linear Algebra.
+  location: &anu Australian National University
+  date: "2018-07-23"
+  display-date: "2018 Semester 2"
+
+- description: Instructor for Advanced Studies Extension for Analysis I (MATH 2320).
+  location: *anu
+  date: "2018-02-20"
+  display-date: "2018 Semester 1"
+  
 - description: Instructor for Calculus I for Science and Engineering (Math 2250).
   location: &uga University of Georgia
   date: "2016-09-05"

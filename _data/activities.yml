@@ -50,10 +50,10 @@
   display-date: "2016-2017"
   category: &other other
 
-- content: We are organizing a [Summer School on Geometric Representation Theory](https://ssgrt2018.ist.ac.at/) at IST Austria in July 2018!
+- content: We organised a [Summer School on Geometric Representation Theory](https://ssgrt2018.ist.ac.at/) at IST Austria in July 2018.
   date: "2018-07-09"
   display-date: "2018-07-09"
-  current: true
+  current: false
   category: *other
 
 - content: Together with Simion Filip, I organized [Pizza Seminar](https://math.uchicago.edu/~pizzaseminar/) at the University of Chicago.
