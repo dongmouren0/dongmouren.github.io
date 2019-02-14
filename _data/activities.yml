@@ -3,6 +3,26 @@
   date: "2017-01-07"
   category: &presentation presentation
 
+- content: "Women of Mathematics: a one-day meeting at the ANU"
+  location: Australian National University
+  date: "2019-02-27"
+  category: *presentation
+
+- content: Special session in Representation Theory, AustMS 2018
+  location: University of Adelaide
+  date: "2018-12-07"
+  category: *presentation
+
+- content: Pure Mathematics Seminar
+  location: University of Queensland
+  date: "2019-02-01"
+  category: *presentation
+  
+- content: Triangulated Categories in Geometry and Representation Theory
+  location: University of Sydney
+  date: "2019-06-24"
+  category: *presentation
+  
 - content: Mathematics seminar
   location: Indian Institute of Science
   date: "2018-07-03"
