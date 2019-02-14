@@ -31,7 +31,8 @@ Specific topics of interest include perverse sheaves, quiver varieties, equivari
 My papers and preprints are on my [research page](/research), and my CV is available [here](assets/bapat-cv.pdf).
 
 ### Teaching
-In 2018 Semester 2 I am teaching the Linear Algebra portion of [MATH 1113](https://programsandcourses.anu.edu.au/course/math1113). 
+In 2019 Semester 1 I am teaching the Advanced Studies Extension for [MATH 2320](https://programsandcourses.anu.edu.au/course/MATH2320).
+In the 2018--2019 Summer Session I am teaching a reading course on an Introduction to the Theory of Computation. 
 Older teaching is listed on my [teaching page](teaching/).
 
 ### Current and upcoming activities
