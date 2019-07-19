@@ -1,16 +1,6 @@
----
-layout: default
-title: Home
-navigation_weight: 1
----
+这是董志杰的主页
 
-<div class="intro">
-
-
-
-<div>
-
-哈尔滨工业大学数学研究院
+单位： [哈尔滨工业大学数学研究院](http://im.hit.edu.cn/)
 
 
 **Email:** dongmouren@gmail.com
@@ -25,12 +15,21 @@ navigation_weight: 1
 
 我本身对数论感兴趣，后来发现是对解决数论问题用到的代数结构感兴趣。而后发现对几何对象的研究可以帮助我们理解代数结构，
 激发了我对几何对象本身的兴趣。我主要研究affine Grassmannian的几何，原因是它的几何可以实现李代数的表示。后来又了解到
-quiver variety,对他们之间的关系很感兴趣。我最近对他们背后的物理很感兴趣，但是感觉不很懂。
-My papers and preprints are on my [research page](/research), and my CV is available [here](assets/dong cv.pdf).
+quiver variety,对他们之间的关系很感兴趣。我对他们背后的物理很感兴趣.
+
+## My papers and preprints:
+[A relation between Mirkovi´c-Vilonen cycles and
+modules over preprojective algebra of Dynkin
+quiver of type ADE](https://arxiv.org/pdf/1802.01792.pdf)
+
+
+[Phd Thesis version](https://scholarworks.umass.edu/dissertations_2/1335/)
+
+## My CV [here](cv (8) (1).pdf)
 
 ### Teaching
 我目前不教课。
-### Current and upcoming activities
+## upcoming activities
 
 东北天元 2019.7.28-8.18 哈尔滨工程大学
-西南天元 2019.8.5-8.20 (我会参加）四川大学
+西南天元 2019.8.5-8.20 四川大学
