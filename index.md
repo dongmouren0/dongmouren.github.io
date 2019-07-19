@@ -6,49 +6,30 @@ navigation_weight: 1
 
 <div class="intro">
 
-![Asilata Bapat](assets/asilata-bapat.jpg){:#mypicture}
+
 
 <div>
 
-[Mathematical Sciences Institute](http://maths.anu.edu.au/)  
-The Australian National University  
-Canberra, ACT, 2601, Australia
+哈尔滨工业大学数学研究院
 
 
-**Email:** `asilata.bapat` at `anu` dot `edu` dot `au`  
-**Office:** 4.84, [Hanna Neumann Building #145](http://www.anu.edu.au/maps#show=102872)  
-**Phone:** +61 2 6125 4141
+**Email:** dongmouren@gmail.com
+**Office:** 哈尔滨南岗区西大直街92号明德楼204
+
 
 </div>
 
 </div>
 
-### Research interests and background
+### Research interests
 
-My research focuses on problems in representation theory and algebraic geometry. 
-I am most interested in the topology and geometry of algebraic varieties arising from representation theory.
-Specific topics of interest include perverse sheaves, quiver varieties, equivariant cohomology, and Bernstein--Sato polynomials.
-My papers and preprints are on my [research page](/research), and my CV is available [here](assets/bapat-cv.pdf).
+我本身对数论感兴趣，后来发现是对解决数论问题用到的代数结构感兴趣。而后发现对几何对象的研究可以帮助我们理解代数结构，
+激发了我对几何对象本身的兴趣。我主要研究affine Grassmannian的几何，原因是它的几何可以实现李代数的表示。后来又了解到
+quiver variety,对他们之间的关系很感兴趣。我最近对他们背后的物理很感兴趣，但是感觉不很懂。
 
 ### Teaching
-In 2019 Semester 1 I am teaching the Advanced Studies Extension for [MATH 2320](https://programsandcourses.anu.edu.au/course/MATH2320).
-In the 2018--2019 Summer Session I am teaching a reading course on an Introduction to the Theory of Computation. 
-Older teaching is listed on my [teaching page](teaching/).
-
+我目前不教课。
 ### Current and upcoming activities
 
-{% capture currenttime %}{{ site.time }}{% endcapture %}
-{% assign activities = site.data.activities | where_exp: "activity", "activity.date > currenttime" | sort: 'date' %}
-<ul>
-{% for activity in activities %}
-<li>
-{% unless activity.current == true %}
-<strong>{% if activity.display-date %}{{ activity.display-date | markdownify | strip | remove: '<p>' | remove: '</p>' }}{% else %}{{ activity.date | date: "%b %Y" }}{% endif %}:</strong>
-{% endunless %}
-{{ activity.content | markdownify | strip | remove: '<p>' | remove: '</p>'}}{% if activity.location %}, {{ activity.location | remove: '<p>' | remove: '</p>'}}{% endif %}
-</li>
-{% endfor %}
-</ul>
-
-Older activities are listed on my [activities page](activities/).
-
+东北天元 2019.7.28-8.18 哈尔滨工程大学
+西南天元 2019.8.5-8.20 (我会参加）四川大学
