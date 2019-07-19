@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+navigation_weight: 1
+---
+
+<div class="intro">
 这是董志杰的主页
 
 单位： [哈尔滨工业大学数学研究院](http://im.hit.edu.cn/)
